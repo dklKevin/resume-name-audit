@@ -2,7 +2,7 @@
 Columbus, OH | (614) 555-0140 | {EMAIL}
 
 SUMMARY
-Restaurant general manager with ten years running full service restaurants, including full profit and loss responsibility for locations with up to $4.2 million in annual sales. Built an Excel Power Pivot model that joins POS item sales with invoice costs, and uses it for menu pricing, promotion reads and labor planning that the ownership group acts on. No SQL at work yet. Aiming to move from operations into a business or data analyst role, ideally in retail or hospitality.
+Restaurant general manager with ten years running full service restaurants, including full profit and loss responsibility for locations with up to $4.2 million in annual sales. Built an Excel Power Pivot model that joins POS item sales with invoice costs, and uses it for menu pricing, promotion reads and labor planning that the ownership group acts on. Tracks stockouts and waste by item from weekly inventory counts. No SQL at work yet. Aiming to move from operations into a business or data analyst role, ideally in retail or hospitality.
 
 EXPERIENCE
 General Manager | Ember and Oak Kitchen, Columbus, OH | May 2020 to Present
@@ -10,9 +10,9 @@ General Manager | Ember and Oak Kitchen, Columbus, OH | May 2020 to Present
 • Built an Excel Power Pivot data model in 2024 that loads Toast item sales, MarginEdge invoice lines and payroll hours each week, with DAX measures for plate cost, contribution margin and labor per cover; it replaced four separate workbooks.
 • Used the model to run a menu engineering review of 74 items by popularity and contribution margin. Eleven low margin, low volume items were cut and six were repriced, and food cost moved from 31% to 29% of sales with no drop in covers.
 • Ran a six week happy hour pilot on Tuesday and Wednesday only, comparing bar sales and average check with the same weeks the prior year and with Monday and Thursday. Bar sales on pilot nights rose 18% while average check held, and ownership extended it to four nights.
+• Added weekly inventory counts and waste logs to the model to track items that ran out before service ended and items thrown out unused. Reset par levels on 38 ingredients from the results, cutting mid service stockouts from about 12 a month to 3 and waste from 4.1% to 2.6% of food purchases.
 • Forecast weekly covers by day and daypart from two years of POS history and build the schedule from it, holding labor at 28% to 30% of sales.
 • Brought food cost from 33% to 31% in the first 18 months by tightening weekly inventory counts and renegotiating two produce contracts.
-• Track online review scores and comment themes in a monthly spreadsheet shared with kitchen and service leads.
 • Prepare the annual operating budget for the ownership group from prior year actuals and planned price changes.
 • Hire, train and review front and back of house staff, with six shift leads reporting directly.
 
@@ -35,7 +35,7 @@ EDUCATION
 SKILLS
 Spreadsheets: Excel (Power Pivot, DAX measures, Power Query, pivot tables, SUMIFS, charts), Google Sheets
 Data sources: Toast POS reporting, MarginEdge invoice data, payroll exports
-Analysis: menu engineering, before and after promotion reads, cover forecasting, budgeting
+Analysis: menu engineering, before and after promotion reads, stockout and waste tracking, par level setting, cover forecasting, budgeting
 Operations: P&L management, food and labor cost control, inventory, vendor management
 
 ADDITIONAL

@@ -52,8 +52,9 @@ def test_report_flags_and_floor(tmp_path):
     assert m.degree_gap == (5 + 10 + 25) / 3
     assert m.passes_degree_floor
     assert m.advance_rate_high == 2 / 3 and m.in_advance_range
-    assert rep.passes  # two uniform resumes are within the limit of five
+    assert rep.passes and rep.meets_targets  # two uniform resumes are within the limit
     assert "Always ADVANCE" in pilot.render(rep)
+    assert "Degree floor (the hard rule): PASS" in pilot.render(rep)
 
 
 def test_later_run_replaces_repiloted_resumes(tmp_path):
@@ -93,7 +94,7 @@ def test_too_many_uniform_resumes_fail(tmp_path):
     rep = pilot.report([tmp_path / "p1"])
     assert all(m.passes_degree_floor and m.in_advance_range for m in rep.models)
     assert len(rep.always_advance) + len(rep.always_reject) == 6
-    assert not rep.passes
+    assert rep.passes and not rep.meets_targets
 
 
 def test_advance_rate_out_of_range_fails(tmp_path):
@@ -104,4 +105,4 @@ def test_advance_rate_out_of_range_fails(tmp_path):
     write(tmp_path / "p1", rows)
     rep = pilot.report([tmp_path / "p1"])
     assert rep.overall_advance_high == 1.0
-    assert not rep.passes
+    assert rep.passes and not rep.meets_targets

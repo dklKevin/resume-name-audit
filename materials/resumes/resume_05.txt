@@ -2,13 +2,13 @@
 Columbus, OH | (614) 555-0105 | {EMAIL}
 
 SUMMARY
-Claims data analyst with eleven years of reporting and analysis work, the last eight at a property and casualty insurer. Produces the severity trend reporting that claims leadership uses to plan reserves and staffing, and helped move a set of SAS programs to Python. Interested in bringing the same care to questions about price, promotion and inventory in retail.
+Claims data analyst with eleven years of reporting and analysis work, the last eight at a property and casualty insurer. Produces the severity trend reporting that claims leadership uses to plan reserves and staffing, and took part in a team move from SAS to Python. Interested in bringing the same care to questions about price, promotion and inventory in retail.
 
 EXPERIENCE
-Claims Data Analyst II | Sorrelwood Mutual Insurance, Columbus, OH | Mar 2022 to Present
+Claims Reporting Analyst | Sorrelwood Mutual Insurance, Columbus, OH | Mar 2022 to Present
 • Prepare the monthly severity trend package for auto physical damage, bodily injury and homeowners lines, reviewed by claims directors and actuarial partners.
-• Converted about 20 scheduled SAS programs to Python and SQL as part of a team migration, writing validation scripts that matched old and new outputs before each cutover.
-• Built Tableau dashboards for adjuster caseload, cycle time and reopen rates across five regional claims offices, replacing a 40 tab Excel workbook.
+• Converted five of the team's scheduled SAS programs to Python and SQL during a migration led by the reporting manager, comparing old and new outputs by hand before cutover.
+• Keep Tableau dashboards for adjuster caseload and cycle time current across five regional claims offices.
 • Pulled cycle time data for a pilot that routed low severity glass claims to a virtual adjusting team and produced the comparison charts for the claims director.
 • Investigate unexpected swings in paid loss data, usually traced to late coding changes or duplicate payment records, and write short explanations for finance.
 • Answer weekly questions from claims managers about open inventory, payments and recoveries with SQL against the Snowflake warehouse.
@@ -35,7 +35,7 @@ EDUCATION
 SKILLS
 Programming: SQL (Snowflake, Teradata), Python (pandas), SAS (Base, Enterprise Guide)
 BI and reporting: Tableau Desktop and Server, Excel (Power Pivot, advanced formulas)
-Methods: trend analysis, regression, pilot readouts, data validation, reserve monitoring
+Methods: trend analysis, pilot comparison charts, data validation, reserve monitoring
 Workflow: Git, Airflow job monitoring, technical documentation
 
 ADDITIONAL

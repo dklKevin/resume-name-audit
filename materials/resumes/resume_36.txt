@@ -2,14 +2,14 @@
 Columbus, OH | (614) 555-0136 | {EMAIL}
 
 SUMMARY
-Senior personal banker at a community bank with five years of branch experience covering account openings, loan referrals and branch sales goals. Took on regional reporting work in 2025: writes SQL against the bank's reporting data mart for the regional sales manager and ran an Excel analysis of unfunded accounts that changed onboarding at all 16 branches. Interested in an entry level data or reporting role.
+Senior personal banker at a community bank with five years of branch experience covering account openings, loan referrals and branch sales goals. Took on regional reporting work in 2025: writes SQL against the bank's reporting data mart for the regional sales manager, and ran a four branch pilot of a new onboarding call that was then rolled out to all 16 branches. Interested in an entry level data or reporting role.
 
 EXPERIENCE
 Senior Personal Banker | Marlowe Community Bank, Columbus, OH | Oct 2023 to Present
 • Open checking, savings and certificate of deposit accounts and refer mortgage, auto and small business loan customers to lenders, averaging 30 new accounts a month.
-• Was given read access to the bank's reporting data mart in mid 2025 after finishing an online SQL course, and writes queries (joins between account, customer and branch tables, GROUP BY, date filters) for the regional sales manager about one day a week.
+• Was given read access to the bank's reporting data mart in mid 2025 after finishing an online SQL course, and writes queries (joins between account, customer and branch tables, GROUP BY, date filters, a RANK window function for branch standings) for the regional sales manager about two days a week.
 • Followed every checking account opened across the region in 2024 month by month in Excel and found that 34 percent were still unfunded after 60 days, with most of those never contacted after opening. Accounts called within ten days were twice as likely to fund.
-• Presented the finding to regional leadership in a two page summary; a ten day welcome call became standard at all 16 branches in 2026, and the regional funded rate rose from 66 to 74 percent in the first two quarters.
+• Proposed a ten day welcome call and set it up as a one quarter pilot at four branches, with four branches of similar size and account mix kept as a comparison group. Funded rates rose 9 points at pilot branches against 1 point at the others, and a two page summary to regional leadership led to rollout at all 16 branches in 2026.
 • Built the monthly referral report by branch, employee and product that replaced hand counts from each branch; the reconciliation against Salesforce turned up about 50 referrals a quarter credited to the wrong branch.
 • Built an Excel tracker of branch referrals that the manager uses in weekly huddles; the branch moved from 9th to 4th of 16 in referral volume in 2025.
 • Review new account documentation for completeness before it goes to the operations center.
@@ -28,7 +28,7 @@ EDUCATION
 {DEGREE_LINE}, 2021
 
 SKILLS
-SQL: SELECT, joins, GROUP BY, date filters on a SQL Server data mart (about a year at work)
+SQL: SELECT, joins, GROUP BY, date filters, basic RANK on a SQL Server data mart (about a year at work)
 Spreadsheets: Excel (pivot tables, SUMIFS, XLOOKUP, charts), Microsoft Word, Outlook
 Banking systems: Jack Henry SilverLake core, Salesforce referral tracking
 Communication: short written summaries for leadership, customer escalations

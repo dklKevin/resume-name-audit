@@ -2,20 +2,20 @@
 Columbus, OH | (614) 555-0130 | {EMAIL}
 
 SUMMARY
-Office operations coordinator at a property management company that oversees 18 residential and commercial buildings. Handles vendor scheduling and invoice processing, and over the last two years has taken over most of the company's operational reporting: an Access database queried in SQL, a refreshable Excel spending model and the monthly work order report the owners review. Interested in a reporting or junior analyst role where that work becomes the whole job.
+Operations and reporting coordinator at a property management company that oversees 18 residential and commercial buildings. Over the last two years has taken over the company's operational reporting: an Access database queried in SQL, a Power BI report the owners open at every monthly review, and the weekly work order report. Still handles vendor scheduling and invoice processing. Interested in a reporting or junior analyst role where that work becomes the whole job.
 
 EXPERIENCE
-Office Operations Coordinator | Wexmoor Property Management, Columbus, OH | Apr 2021 to Present
+Operations and Reporting Coordinator | Wexmoor Property Management, Columbus, OH | Apr 2021 to Present
 • Schedules maintenance, landscaping and cleaning vendors for 18 properties and processes about 250 vendor invoices a month, coding each to property and expense category.
 • Rebuilt the company's Microsoft Access database in 2024 to hold invoices, work orders and vendor contracts in linked tables, and writes SQL queries in Access (inner and outer joins, aggregates, parameter queries) for questions from the owners and property managers.
 • Set up a Power Query connection from Excel to the Access tables so the monthly spending summary by property and category refreshes in minutes instead of half a day of retyping.
+• Built a Power BI report in early 2026 on top of the same tables, with pages for spending against budget by property, open work orders by days open and vendor cost per unit; the two owners use it in place of the printed packet at the monthly review.
+• Compared occupancy and turnover days by building from AppFolio exports joined to work order history, and showed that units waiting on paint and flooring vendors sat vacant about nine days longer; the owners added a second flooring vendor.
 • Pulled three years of landscaping and snow removal invoices by property and showed that two vendors were billing per visit at rates well above the flat contracts at other buildings. The owners rebid both contracts, saving about $38,000 a year.
 • Prepares the weekly open work order report by property and days open, now with a chart of median days to close, which the operations manager reviews every Monday.
 • Charted work order counts by category and construction year for the 2025 annual review; rising plumbing calls at two older buildings supported a $120,000 pipe replacement budget.
 • Found about 70 work orders coded to the wrong property after a software update and worked with the AppFolio administrator to correct the property list.
 • Maintains vendor insurance certificate and contract end date records, with a query that lists anything expiring in the next 60 days.
-• Orders office supplies and tracks spending against the annual office budget of about $40,000.
-• Serves as the main contact for tenant maintenance calls when the property managers are out.
 
 Leasing Assistant | Wexmoor Property Management, Columbus, OH | Aug 2019 to Mar 2021
 • Answered leasing calls and emails, scheduled tours and entered rental applications into AppFolio.
@@ -32,12 +32,13 @@ EDUCATION
 {DEGREE_LINE}, 2019
 
 SKILLS
-Data: SQL in Microsoft Access (joins, GROUP BY, parameter queries), table design and relationships, Power Query
+Data: SQL in Microsoft Access (inner and outer joins, GROUP BY, subqueries, parameter queries), table design and relationships, Power Query
+BI: Power BI Desktop (one report in regular use, basic DAX measures)
 Spreadsheets: Excel (pivot tables, XLOOKUP, SUMIFS, charts), Google Sheets
 Property systems: AppFolio, vendor scheduling calendars, invoice coding
 Other: vendor communication, budget tracking, record keeping
 
 ADDITIONAL
 • Earned an Excel Expert badge through an online course, 2024
-• Working through an online Power BI fundamentals course, 2026
+• Completed an online Power BI fundamentals course, 2026
 • Volunteer with a Columbus neighborhood cleanup group, keeping the sign-up sheet and supply counts for monthly events

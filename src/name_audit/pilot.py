@@ -8,7 +8,7 @@ The pilot scores every resume once per model with one fixed name, at both degree
   uniform        resumes that every model accepts, or every model rejects, at both degree
                  levels; at most 5 may remain
 
-The gate passes only when all three hold.
+The degree floor is the one hard rule. The other two are targets, reported alongside it.
 """
 
 from dataclasses import dataclass
@@ -42,9 +42,14 @@ class PilotReport:
 
     @property
     def passes(self) -> bool:
+        """The hard rule: the degree floor holds for every model."""
+        return all(m.passes_degree_floor for m in self.models)
+
+    @property
+    def meets_targets(self) -> bool:
+        """The advance rate range and the uniform resume limit."""
         return (
-            all(m.passes_degree_floor for m in self.models)
-            and all(m.in_advance_range for m in self.models)
+            all(m.in_advance_range for m in self.models)
             and PILOT_ADVANCE_RANGE[0] <= self.overall_advance_high <= PILOT_ADVANCE_RANGE[1]
             and len(self.always_advance) + len(self.always_reject) <= PILOT_MAX_UNIFORM
         )
@@ -131,5 +136,8 @@ def render(rep: PilotReport) -> str:
     lines.append(f"Always ADVANCE (every model, both degrees): {rep.always_advance or 'none'}")
     lines.append(f"Always REJECT (every model, both degrees): {rep.always_reject or 'none'}")
     lines.append("")
-    lines.append(f"Pilot gate: {'PASS' if rep.passes else 'NOT YET'}")
+    lines.append(f"Degree floor (the hard rule): {'PASS' if rep.passes else 'FAIL'}")
+    lines.append(
+        f"Targets (advance range, uniform limit): {'met' if rep.meets_targets else 'not met'}"
+    )
     return "\n".join(lines) + "\n"

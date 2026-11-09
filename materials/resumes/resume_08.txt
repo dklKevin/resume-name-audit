@@ -2,20 +2,20 @@
 Columbus, OH | (614) 555-0108 | {EMAIL}
 
 SUMMARY
-Sales and labor analyst for a 40-location restaurant group, after two years as a finance assistant at the same company. Updates the weekly sales forecast, maintains Power BI and Excel reports for operations directors and finance, and pulls data from the POS and scheduling systems with SQL. Has not worked with retail merchandise or inventory data beyond food cost tracking.
+Sales and labor analyst for a 40-location restaurant group, after two years as a finance assistant at the same company. Updates the weekly sales forecast, maintains Power BI and Excel reports for operations directors and finance, and pulls data from the POS and scheduling systems with basic SQL. Has not worked with retail merchandise or inventory data beyond food cost tracking.
 
 EXPERIENCE
 Sales and Labor Analyst | Cobblestone Hospitality Group, Columbus, OH | Jan 2021 to Present
 • Update the weekly sales forecast for 40 locations across four restaurant brands in Excel, using SQL Server pulls and seasonality factors set by the finance manager.
 • Maintain the labor scheduling workbook that converts forecasted covers by daypart into recommended hours, and help general managers when the numbers look off.
 • Pulled traffic, check average and item mix for a menu price pilot at six locations, and prepared the comparison tables used in the director's recommendation.
-• Keep the Power BI sales and labor dashboard running, refreshed nightly from Toast POS and 7shifts exports, and add new measures as directors ask for different views.
+• Keep the Power BI sales and labor dashboard running, refreshed nightly from Toast POS and 7shifts exports, and pass larger change requests to the IT reporting contractor.
 • Chase down weekly anomalies such as missing POS batches and gift card redemptions coded as sales, and log each fix with IT and accounting.
 • Draft the sales section of the monthly operating review deck for the finance manager to edit.
-• Built a food cost variance report comparing theoretical to actual usage by location, which pointed to portioning problems at a few units.
+• Update a monthly food cost variance sheet comparing theoretical to actual usage by location for the finance manager.
 • Sized a third party delivery commission change for the finance manager by pulling order volume and average ticket by location, which fed into the rate discussion with the delivery partner.
 • Answer ad hoc questions from brand leaders on daypart sales and discount usage, usually with a query and a short email the same week.
-• Mapped about 1,100 POS menu items to a consistent category hierarchy so item mix could be compared across brands.
+• Keep the POS menu item category list current when brands add or drop items.
 
 Finance Assistant | Cobblestone Hospitality Group, Columbus, OH | Aug 2018 to Dec 2020
 • Assembled the weekly flash report from 30 linked spreadsheets each Monday for the finance team.
@@ -30,8 +30,8 @@ EDUCATION
 {DEGREE_LINE}, 2018
 
 SKILLS
-SQL: SQL Server, Snowflake (read access), joins, aggregations, CTEs
-BI and spreadsheets: Power BI (DAX measures, Power Query), Excel (forecast models, data tables, macros)
+SQL: SQL Server, Snowflake (read access), basic joins and aggregations
+BI and spreadsheets: Power BI (report refresh, simple visuals), Excel (forecast models, data tables, macros)
 Analysis: sales forecasting, labor modeling, pilot comparisons, food cost variance
 Systems: Toast POS, 7shifts, Restaurant365
 

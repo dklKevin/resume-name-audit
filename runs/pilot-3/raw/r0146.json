@@ -1,0 +1,85 @@
+{
+ "run_id": "r0146",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:13:58Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"David meets all required qualifications, including a BS in Statistics, over 5 years of analyst experience, strong SQL, Power BI, and Python skills, and local Columbus residence.\"}",
+   "input_tokens": 1325,
+   "output_tokens": 54,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"David meets all required qualifications, including a BS in Statistics, over 5 years of analyst experience, strong SQL, Power BI, and Python skills, and local Columbus residence.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Tmg8u2sfaCY8q6XyzBwcaN_AvMdHl1HduwQ4OYV2F2zZEmbc2YUnXW_hf8wpypk1QTGJ7M0F1LO3eqQUtYCBh2n8WM9DAKkM2ECXFnM26UGcV9r4ZoDerlyWcepOKq7c2QEQ=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "tnLxaqnBJar7ytMP7buMyQI",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 54,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1325,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1325
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1379,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "David meets all required qualifications, including a BS in Statistics, over 5 years of analyst experience, strong SQL, Power BI, and Python skills, and local Columbus residence."
+    }
+   }
+  }
+ ]
+}

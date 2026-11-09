@@ -1,0 +1,85 @@
+{
+ "run_id": "r0098",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:13:49Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 45,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While David is local to Columbus and possesses beginner Power BI and SQL skills, he lacks the required 3+ years of professional data analyst experience and a bachelor's degree in a quantitative field.\"\n}",
+   "input_tokens": 1500,
+   "output_tokens": 66,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 45,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While David is local to Columbus and possesses beginner Power BI and SQL skills, he lacks the required 3+ years of professional data analyst experience and a bachelor's degree in a quantitative field.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TW-d1Rt2nCLP7NWvL-YYBVBE1SQ-f96UI_PE1QtvfO0OB03sLmccfO67GIs4d5b_E9JmoyMRbLlJ0pEzjw_oI8J16a-cIzYEpRJNpuxOOUgtUiIlUqwZpGRp_FTwlpHN_nL4=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "rXLxatTSJdKA1sgP5cvDkA4",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 66,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1500,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1500
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1566,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 45,
+     "decision": "REJECT",
+     "reason": "While David is local to Columbus and possesses beginner Power BI and SQL skills, he lacks the required 3+ years of professional data analyst experience and a bachelor's degree in a quantitative field."
+    }
+   }
+  }
+ ]
+}

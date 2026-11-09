@@ -2,16 +2,16 @@
 Columbus, OH | (614) 555-0101 | {EMAIL}
 
 SUMMARY
-Retail data analyst with about five years of reporting work in grocery and home goods ecommerce, after four years in merchandising operations. Builds weekly sales and inventory reports in Power BI and Excel and writes SQL to answer everyday questions from category managers. Careful about checking a number against the source system before it goes into a category review.
+Retail reporting analyst with about five years of reporting work in grocery and home goods ecommerce, after four years in merchandising operations. Updates weekly sales and inventory reports in Power BI and Excel and runs basic SQL pulls for everyday questions from category managers. Careful about checking a number against the source system before it goes into a category review.
 
 EXPERIENCE
-Data Analyst | Hearthway Goods, Columbus, OH | Feb 2023 to Present
-• Maintain weekly sales, margin and inventory reports in Power BI for the kitchen and bath categories, used by two category managers and the buyers on each team.
-• Write SQL in Snowflake to pull sell-through and weeks of supply by vendor, and helped the planning team put together a markdown candidate list ahead of the January clearance event.
+Associate Data Analyst | Hearthway Goods, Columbus, OH | Feb 2023 to Present
+• Refresh and update weekly sales, margin and inventory reports in Power BI for the kitchen and bath categories, originally set up by a senior analyst and used by two category managers.
+• Run saved SQL queries in Snowflake, adjusting filters and date ranges, to pull sell-through and weeks of supply by vendor for the planning team.
 • Pulled promoted and baseline week sales for a senior analyst's review of recurring offers, and summarized which ones looked weak on margin.
 • Reported product hierarchy mapping errors to data engineering after department totals stopped matching the finance close, then kept a running list of corrected SKUs.
 • Handle routine data requests from merchants through the team ticket queue, usually closing each one within two business days.
-• Rebuilt the weekly vendor sales extract after a warehouse table was renamed, then added a row count check so a failed load shows up before Monday reports go out.
+• Asked data engineering to repoint the weekly vendor sales extract after a warehouse table was renamed, then confirmed the totals before Monday reports went out.
 • Sit in on the monthly category review and take notes on follow-up questions, answering most by email within the week.
 • Document report logic and refresh schedules so other analysts can cover the kitchen and bath reports during time off.
 
@@ -32,9 +32,9 @@ EDUCATION
 {DEGREE_LINE}, 2017
 
 SKILLS
-Data: SQL (Snowflake, SQL Server), joins, aggregations, some window functions
+Data: SQL (Snowflake, SQL Server), simple joins and aggregations
 Spreadsheets: Excel (Power Query, pivot tables, XLOOKUP)
-Reporting: Power BI (report building, basic DAX, scheduled refresh)
+Reporting: Power BI (report edits, scheduled refresh)
 Other: Python (beginner, pandas for cleaning vendor files)
 Retail: sell-through, weeks of supply, markdown lists, item and price file maintenance
 

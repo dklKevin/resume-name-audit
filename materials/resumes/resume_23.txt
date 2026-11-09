@@ -2,24 +2,25 @@
 Columbus, OH | (614) 555-0123 | {EMAIL}
 
 SUMMARY
-Analyst at a nonprofit research center with seven years of applied quantitative work for government and operational clients. Writes SQL in PostgreSQL every week, analyzes survey and transaction data in R, and turns results into short findings that program managers act on. Recent work has moved from survey reporting toward operational analysis of ridership and service data, and the next step is a business analytics team.
+Analyst at a nonprofit research center with seven years of applied quantitative work for government and operational clients. Writes some SQL in PostgreSQL, analyzes survey and transaction data in R, and turns results into short findings that program managers act on. Recent work has moved from survey reporting toward operational analysis of ridership and service data, and the next step is a business analytics team.
 
 EXPERIENCE
 Survey Analyst | Hollister Center for Public Policy Research, Columbus, OH | Jul 2021 to Present
 • Manage data analysis for four to six concurrent client projects a year for state agencies, including a transit rider study, a workforce training follow-up and a licensing board customer satisfaction survey.
-• Led the operational analysis for a regional transit authority, joining 14 months of fare card transactions to route schedules and stop data in SQL to measure boardings by route, hour and fare type. The planning team used the results to add peak trips on two routes and cut low use midday trips on another two.
-• Built and maintain the center's PostgreSQL project database, writing SQL with joins, CTEs and window functions to link survey responses to client administrative records and to flag duplicate or out of range entries.
-• Built a Tableau dashboard for the transit authority's customer service managers that tracks weekly complaint volume and survey satisfaction by route, refreshed from the same database.
-• Analyzed a mailed versus text message invitation pilot for the workforce study and showed that text invitations doubled response among program completers at roughly one third the cost; the agency switched all follow-up outreach to text.
-• Wrote reusable R scripts for cleaning Qualtrics exports and producing crosstabs, which cut report preparation time for a typical project from three weeks to about eight days.
+• Produced boardings tables by route and hour from fare card transactions for a regional transit authority study, working from query templates written by the project director.
+• Help maintain the center's PostgreSQL project database, writing joins that link survey responses to client administrative records.
+• Update a basic Tableau view of weekly complaint volume by route for the transit study team.
+• Check incoming fare card and complaint extracts against the prior month for missing days or unexpected jumps in record counts before the files are loaded, and send the data provider a short note when something looks off.
+• Tabulated response rates for a mailed versus text message invitation pilot in the workforce study for the project director's memo.
+• Wrote reusable R scripts for cleaning Qualtrics exports and producing crosstabs, which shortened report preparation on a typical project.
 • Build sampling frames and weights in R and SPSS so results match the populations each client serves.
-• Meet with client project managers at kickoff and at each interim report to agree on scope, sample sizes and deadlines, typically for budgets between $60,000 and $250,000, and write short findings memos alongside the full report.
+• Meet with client project managers at kickoff and at each interim report to agree on scope, sample sizes and deadlines, and write short findings memos alongside the full report.
 
 Research Assistant | Hollister Center for Public Policy Research, Columbus, OH | Jun 2019 to Jun 2021
-• Supported three project directors on studies for state health and transportation agencies.
+• Supported three project directors on studies for state health and transportation agencies, preparing data files and draft tables for each interim deliverable.
 • Cleaned and merged administrative data files in SPSS, documenting every recode in a project codebook.
 • Ran descriptive statistics and regression models and built the tables and charts for interim reports.
-• Coordinated phone survey fieldwork with an outside call center, tracking daily completes against quotas in Excel.
+• Coordinated phone survey fieldwork with an outside call center, tracking daily completes against quotas in Excel and sending a short status note to the project director each afternoon.
 • Built a small Shiny app in R so project leads could check response rates by region during fieldwork.
 • Checked agency administrative files against survey sample lists and flagged about 1,200 records with outdated addresses before a mail wave.
 
@@ -27,7 +28,7 @@ EDUCATION
 {DEGREE_LINE}, 2019
 
 SKILLS
-Data: SQL in PostgreSQL (joins, CTEs, window functions, aggregation), Excel (pivot tables, lookups, Power Query)
+Data: SQL in PostgreSQL (joins, aggregation), Excel (pivot tables, lookups, Power Query)
 Analysis: R (tidyverse, survey, Shiny), SPSS, regression, sampling and weighting
 Reporting: Tableau Desktop, ggplot2 charts, short findings memos and slide summaries
 Survey tools: Qualtrics, REDCap, questionnaire design

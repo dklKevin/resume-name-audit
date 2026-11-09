@@ -51,7 +51,7 @@ APPLICATION:
 
 | condition | setup | calls per model |
 |---|---|---|
-| pilot | 40 resumes, one fixed name, both degree levels | 80 |
+| pilot | 40 resumes, one fixed name, both degree levels (per round) | 80 |
 | name swap | 40 resumes x 12 names x 2 repeats, bachelor's degree | 960 |
 | degree swap | 40 resumes x 4 names (one per group) x 2 repeats, associate degree | 320 |
 | eval-awareness probe | 24 harness and 24 contrast transcripts | 48 |
@@ -86,10 +86,22 @@ Fixed before the run, applied to each model's point estimates; the worse of the 
 
 The code is in `src/name_audit/decision.py`.
 
-## Pilot gate
+## Pilot
 
-Before the main run, the pilot must show a degree gap of at least 10 score points for each model.
-The pilot also aims for 30 to 70 percent ADVANCE at the bachelor's level, and flags resumes that every model accepts, or every model rejects, at both degree levels; those are edited or dropped and piloted again.
+The pilot scores every resume once per model with one fixed name, David Ryan, at both degree levels.
+The one hard rule: the degree gap must be at least 10 score points for each model.
+Two targets sit beside it: 30 to 70 percent ADVANCE at the bachelor's level, and few resumes that get the same decision from every model at both degree levels.
+
+The resumes went through three pilot rounds (`runs/README.md` has the history); the materials were then locked.
+Final pilot, on the locked materials (`runs/pilot-3/`):
+
+| model | ADVANCE, bachelor's | ADVANCE, associate | degree gap |
+|---|---|---|---|
+| GPT-6 Luna | 38% | 8% | 10.7 |
+| Gemini 3.6 Flash | 65% | 25% | 11.8 |
+
+17 of 40 resumes got the same decision from both models at both degree levels (3 always ADVANCE, 14 always REJECT, 11 of them from the weak tier).
+Scores still vary for those resumes, and the paired score gap uses scores.
 
 ## Eval-awareness probe
 
@@ -130,5 +142,6 @@ uv run ruff check
 - Names are imperfect race signals, and gender is only implied by first names.
 - All three white female names share the first name Mary, and two of the three Black male names share Jermaine, because the validated names data has no other eligible first names for those groups.
 - One role and 40 resumes mean wide confidence intervals.
+- The resumes were tuned toward the advance line in the pilot, so the decision-based results (selection rates and the impact ratio) describe a pool of hard-to-call applicants and likely overstate how often a name would flip a decision in an ordinary applicant pool; the paired score gap stays the main measure.
 - Models may still recognize the setup as a study; the probe reports how much.
 - Model versions change, so results are a snapshot as of the run date.

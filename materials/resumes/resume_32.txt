@@ -2,19 +2,20 @@
 Columbus, OH | (614) 555-0132 | {EMAIL}
 
 SUMMARY
-Assistant store manager at a consumer electronics retailer with ten years on the sales floor, now running daily operations for a store with $11 million in annual sales. Over the past two years has become the district's go-to person for store reporting: a Tableau workbook used by nine stores, Excel analysis of a district bundle pilot and automated daily sales tracking. SQL is limited to coursework so far. Seeking a move into a retail reporting or analyst role.
+Assistant store manager at a consumer electronics retailer with ten years on the sales floor, now running daily operations for a store with $11 million in annual sales. Over the past two years has become the district's go-to person for store reporting: a Tableau workbook used by nine stores, Excel analysis of a district bundle pilot and automated daily sales tracking. Since early 2026 also writes basic SQL against the district sales reporting database. Seeking a move into a retail reporting or analyst role.
 
 EXPERIENCE
 Assistant Store Manager | Voltline Electronics, Columbus, OH | Apr 2020 to Present
 • Oversee daily operations and a team of 28 sales, service and stock employees.
 • Automated the daily sales to goal workbook with Power Query, pulling the company's daily sales extract by department and employee instead of retyping it; department supervisors get it before the store opens.
-• Built a Tableau workbook in 2025 from the weekly district extract showing sales, attachment rate and labor hours per store against plan; the district manager now opens it on the Tuesday call with all nine store managers.
+• Built a Tableau workbook in 2025 showing sales, attachment rate and labor hours per store against plan, first from a weekly extract and since 2026 from a saved SQL query; the district manager opens it on the Tuesday call with all nine store managers.
 • Measured a district pilot that bundled TV wall mounts with mid-size TVs at three stores against three similar comparison stores over eight weeks in Excel. Mount attachment rose from 18% to 27% with no drop in TV margin, and the district extended the bundle to all nine stores.
 • Pulled a year of hourly door counter traffic and sales into Excel and showed that weekday evenings were understaffed relative to conversion; moving four shifts raised evening close rates and kept labor within 0.5% of budget for most of 2025.
 • Compiled a monthly shrink analysis by category and SKU from inventory adjustment data, which helped the district loss prevention lead put the 15 most stolen items in locked display.
 • Monitor protection plan and accessory attachment by employee and coach staff below target; store attachment rose from 22% to 29% over two years.
 • Lead quarterly physical inventory preparation and daily cycle counts on high value items.
 • Covered as acting store manager for three months in 2024, keeping the store at 101% of its sales plan for the quarter.
+• Given read access to the district reporting database in February 2026; writes SQL with joins across sales, item and store tables to answer district manager questions, such as which open box SKUs sat unsold longest by store.
 • Coordinate holiday hiring and onboarding of 10 to 12 seasonal employees each year.
 
 Sales Consultant | Voltline Electronics, Columbus, OH | Jul 2016 to Mar 2020
@@ -30,7 +31,7 @@ EDUCATION
 
 SKILLS
 BI and spreadsheets: Tableau (one workbook used across a district), Excel (Power Query, pivot tables, SUMIFS, charts), Google Sheets
-SQL: SELECT, WHERE, GROUP BY and simple joins from an online course, not yet used at work
+SQL: SELECT, WHERE, GROUP BY and joins against a SQL Server reporting database (used at work since 2026)
 Retail systems: point of sale, inventory lookup, Kronos scheduling
 Retail operations: labor planning, sales coaching, shrink control, inventory counts, merchandising resets
 

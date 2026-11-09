@@ -15,7 +15,7 @@ def test_full_offline_pipeline(tmp_path, capsys):
     cli.main(["run", "pilot", "--out", str(pilot), "--fake"])
     assert len(harness.read_results(pilot / "results.csv")) == 2 * 40 * 2
     cli.main(["pilot-report", str(pilot), "--write", str(tmp_path / "pilot.md")])
-    assert "Pilot gate" in (tmp_path / "pilot.md").read_text()
+    assert "Degree floor" in (tmp_path / "pilot.md").read_text()
 
     main = tmp_path / "main"
     cli.main(["run", "main", "--out", str(main), "--fake"])

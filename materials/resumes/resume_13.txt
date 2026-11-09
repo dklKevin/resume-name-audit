@@ -2,17 +2,17 @@
 Columbus, OH | (614) 555-0113 | {EMAIL}
 
 SUMMARY
-Store operations analyst for a retail pharmacy chain of more than 300 locations, after several years coordinating pharmacy operations data. Maintains the weekly store scorecard in Tableau, supports shrink reviews and supplies labor inputs to the staffing model. Works mainly in Tableau, Alteryx and Excel, with SQL for routine pulls, and reconciles new reports to finance totals before sharing.
+Store operations analyst for a retail pharmacy chain of more than 300 locations, after several years coordinating pharmacy operations data. Maintains the weekly store scorecard in Tableau, supports shrink reviews and supplies labor inputs to the staffing model. Works mainly in Tableau, Alteryx and Excel, with occasional SQL for simple pulls, and reconciles new reports to finance totals before sharing.
 
 EXPERIENCE
 Store Operations Analyst | CareRidge Pharmacy, Columbus, OH | Feb 2021 to Present
 • Maintain the weekly store performance scorecard in Tableau covering front store sales, prescription counts, shrink, out-of-stocks and labor hours, used by district leaders across the chain.
-• Supported a shrink review led by the loss prevention manager by combining POS voids, refunds and inventory adjustments in Alteryx, and listed stores with unusual patterns for audit follow-up.
+• Exported POS voids and refunds for a shrink review run by the loss prevention manager.
 • Supply transaction volume and task time inputs to the workforce planning team's staffing model each quarter.
 • Pulled weekly sales and loss data for a pilot of locked display cases in a group of stores and comparison stores, and built the charts for the regional director's readout.
-• Write SQL in Snowflake for routine questions from merchandising and operations, such as seasonal sell-through of cough and cold products by district.
-• Corrected store attribute data (square footage, format, open dates) in the master store table after finding records that disagreed with real estate files.
-• Help the replenishment team prepare out-of-stock lists for front store items, splitting vendor shortages from store ordering issues where the data allows.
+• Occasionally adapt existing Snowflake queries from the analytics team to answer simple questions, such as seasonal sales of cough and cold products by district.
+• Sent the data team a list of store attribute records (square footage, format, open dates) that disagreed with real estate files.
+• Forward the weekly front store out-of-stock list to the replenishment team.
 • Maintain an Alteryx workflow, first built by a former teammate, that flags stores with unusually high weekly inventory adjustments.
 • Respond to district leader questions about scorecard numbers, often tracing a surprising shrink figure back to a late inventory adjustment or a store that changed format.
 • Updated the scorecard's store groupings after a district realignment so trend lines stayed comparable across the change.
@@ -31,7 +31,7 @@ EDUCATION
 {DEGREE_LINE}, 2017
 
 SKILLS
-SQL: Snowflake, joins, aggregations, simple CTEs
+SQL: Snowflake (basic SELECT queries and filters)
 Tools: Tableau Desktop, Alteryx Designer, Excel (pivot tables, Power Query, macros)
 Analysis: store scorecards, shrink and loss reporting, labor model inputs, inventory variance
 Communication: chart packs for district leaders, monthly business review slides

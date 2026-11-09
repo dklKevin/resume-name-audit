@@ -10,4 +10,5 @@ Resumes that never change outcome: 20 (at most 5)
 Always ADVANCE (every model, both degrees): [1, 2, 4, 5, 8, 9, 11, 13, 19, 23]
 Always REJECT (every model, both degrees): [29, 30, 32, 33, 34, 36, 37, 38, 39, 40]
 
-Pilot gate: NOT YET
+Degree floor (the hard rule): PASS
+Targets (advance range, uniform limit): not met

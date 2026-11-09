@@ -7,8 +7,8 @@ Ecommerce marketing analyst with seven years of experience turning web, email an
 EXPERIENCE
 Ecommerce Marketing Analyst | Threadwell Apparel Co., Columbus, OH | Apr 2021 to Present
 • Own the weekly ecommerce performance pack (traffic, conversion, average order value, margin after returns), delivered in Looker to merchandising, marketing and finance partners.
-• Set up and read email and site experiments for the marketing team, including holdout groups for promotional emails; one holdout showed a weekly discount email added little margin, and the team cut its frequency.
-• Built a purchase behavior segmentation in BigQuery (recency, frequency, category mix) that the email team uses to set send cadence.
+• Pull results for email holdout groups that the marketing team sets up, and summarize response and margin for each send in a short table.
+• Refresh a purchase behavior segmentation in BigQuery (recency, frequency, category mix) each month for the email team.
 • Updated attribution reporting after a cookie consent change reduced tracked sessions, working with the media agency on how to read channel results.
 • Pulled sell-through by discount band across seasonal styles for a markdown review requested by the buying team, and walked the buyers through the tables.
 • Send the replenishment planner a weekly list of high traffic styles running low in core sizes, built from inventory snapshots joined to site sessions.
@@ -19,9 +19,9 @@ Ecommerce Marketing Analyst | Threadwell Apparel Co., Columbus, OH | Apr 2021 to
 
 Marketing Reporting Specialist | Bellamy Direct, Columbus, OH | Jul 2019 to Mar 2021
 • Produced daily and weekly channel reports for a catalog and online retailer of home and gift products using SQL Server and Excel.
-• Automated a 14-tab Monday spend report with Python and scheduled SQL, cutting preparation time from six hours to under one.
+• Prepared the 14-tab Monday spend report from SQL Server exports and Excel, later moving two tabs to scheduled queries.
 • Reconciled ad platform spend against finance invoices each month and flagged duplicate billing for the accounts payable team.
-• Set up sample size calculations and the readout template for the first checkout page experiments.
+• Pulled conversion counts for the first checkout page experiments for the agency analyst who ran each experiment.
 • Maintained the campaign calendar and naming rules that kept channel tracking codes consistent across teams.
 • Pulled catalog response rates by mailing list for the circulation planner ahead of each seasonal drop.
 
@@ -30,7 +30,7 @@ EDUCATION
 
 SKILLS
 Data and querying: BigQuery SQL, SQL Server, window functions, Google Analytics 4
-Analysis: Python (pandas), experiment design, power analysis, customer segmentation
+Analysis: Python (pandas, basic), holdout readouts, customer segmentation
 Reporting: Looker, Excel (Power Query, pivot tables, XLOOKUP), Google Sheets
 Domain: ecommerce, apparel, email and paid media, promotion reporting
 

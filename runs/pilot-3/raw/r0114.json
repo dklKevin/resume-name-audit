@@ -1,0 +1,85 @@
+{
+ "run_id": "r0114",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:13:52Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 75, \"decision\": \"ADVANCE\", \"reason\": \"David meets the three-plus years of experience requirement, lives locally in Columbus, and brings strong hands-on SQL and Power BI experience from his current role.\"}",
+   "input_tokens": 1406,
+   "output_tokens": 51,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 75, \"decision\": \"ADVANCE\", \"reason\": \"David meets the three-plus years of experience requirement, lives locally in Columbus, and brings strong hands-on SQL and Power BI experience from his current role.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TfT5nKeYFjycxCRH7g-FiixEZyCBGQ0nrdA8ImgShJXfhjewQLB6afDMiwLK_Ujkt7RAzZ8vv5Ghj5ZmQPcEiYiM0b4_Utnf1qwdUeiJpS2yg5qUPLY7X5VCvA6DCR_da_cw=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "sHLxaqrpD6bX0_gP9vC-yQw",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 51,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1406,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1406
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1457,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 75,
+     "decision": "ADVANCE",
+     "reason": "David meets the three-plus years of experience requirement, lives locally in Columbus, and brings strong hands-on SQL and Power BI experience from his current role."
+    }
+   }
+  }
+ ]
+}

@@ -6,10 +6,10 @@ Operations data analyst inside a five-hospital health system, building the repor
 
 EXPERIENCE
 Operations Data Analyst | Corwell Regional Health, Columbus, OH | Apr 2021 to Present
-• Rebuilt emergency department throughput reporting from a monthly PDF packet into a daily Tableau dashboard covering door to provider time, boarding hours and left without being seen rates for four emergency departments.
-• Wrote the SQL Server views behind that dashboard, using window functions to sequence patient tracking events and flag visits with out-of-order timestamps for correction by registration staff.
+• Helped a senior analyst move emergency department throughput reporting from a monthly PDF packet into a daily Tableau dashboard covering door to provider time, boarding hours and left without being seen rates for four emergency departments.
+• Wrote several of the SQL Server views behind that dashboard, including a query that flags visits with out-of-order timestamps for registration staff to correct.
 • Gave nurse managers hourly arrival patterns by unit to support staffing decisions, and tracked door to provider time afterward in the dashboard.
-• Maintain an R forecasting model for inpatient bed demand by unit, refreshed weekly, which the capacity team uses when planning elective surgery schedules.
+• Rerun an inherited R forecasting script for inpatient bed demand each week and send the output to the capacity team.
 • Reconcile supply and labor cost data with finance each month and trace cost center mapping problems back to the source system.
 • Pulled bed turnaround data for a discharge lounge pilot at one hospital and compared it against two other sites for the operations director.
 • Answer ad hoc questions from unit leaders on census, transfers and staffing, usually within two business days.
@@ -29,8 +29,8 @@ EDUCATION
 {DEGREE_LINE}, 2018
 
 SKILLS
-Data and querying: SQL Server (T-SQL), window functions, CTEs, stored procedures, SSRS
-Analysis: R (tidyverse, forecast, ggplot2), Excel (Power Query, pivot tables, XLOOKUP), time series forecasting
+Data and querying: SQL Server (T-SQL), CTEs, SSRS
+Analysis: R (tidyverse, ggplot2), Excel (Power Query, pivot tables, XLOOKUP)
 Visualization: Tableau Desktop and Tableau Server
 Communication: executive summaries, monthly operating reviews, requirements gathering with clinical and finance staff
 
