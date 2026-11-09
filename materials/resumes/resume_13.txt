@@ -6,22 +6,22 @@ Store operations analyst for a retail pharmacy chain of more than 300 locations.
 
 EXPERIENCE
 Store Operations Analyst | CareRidge Pharmacy, Columbus, OH | Feb 2020 to Present
-- Built and maintain the weekly store performance scorecard in Tableau for 312 stores, covering front store sales, prescription counts, shrink, out-of-stocks, labor hours and customer survey scores, used by 28 district leaders.
-- Ran a shrink analysis in Alteryx that combined point of sale voids, refunds, inventory adjustments and receiving records; it surfaced 19 stores with abnormal loss patterns, and follow-up audits recovered or prevented about $600,000 in annual losses.
-- Supply transaction volume and task time inputs to the workforce planning team's staffing model, which sets weekly labor budgets for every store.
-- Measured a 24 store pilot of locked display cases for high theft categories against matched comparison stores; recommended expanding to 60 stores where the drop in loss outweighed lower sales.
-- Write SQL in Snowflake for ad hoc questions from merchandising and operations, such as seasonal sell-through of cough and cold products by district.
-- Corrected store attribute data (square footage, format, open dates) in the master store table after finding 40 records that disagreed with real estate files.
-- Partnered with replenishment on an out-of-stock root cause review for the top 500 front store items, separating vendor fill problems from store ordering and planogram errors.
-- Built an Alteryx workflow that flags stores whose weekly inventory adjustments run more than two standard deviations above district norms.
-- Present a monthly operations review to regional vice presidents with three to five findings and a recommended action for each.
+• Built and maintain the weekly store performance scorecard in Tableau for 312 stores, covering front store sales, prescription counts, shrink, out-of-stocks, labor hours and customer survey scores, used by 28 district leaders.
+• Ran a shrink analysis in Alteryx that combined point of sale voids, refunds, inventory adjustments and receiving records; it surfaced 19 stores with abnormal loss patterns, and follow-up audits recovered or prevented about $600,000 in annual losses.
+• Supply transaction volume and task time inputs to the workforce planning team's staffing model, which sets weekly labor budgets for every store.
+• Measured a 24 store pilot of locked display cases for high theft categories against matched comparison stores; recommended expanding to 60 stores where the drop in loss outweighed lower sales.
+• Write SQL in Snowflake for ad hoc questions from merchandising and operations, such as seasonal sell-through of cough and cold products by district.
+• Corrected store attribute data (square footage, format, open dates) in the master store table after finding 40 records that disagreed with real estate files.
+• Partnered with replenishment on an out-of-stock root cause review for the top 500 front store items, separating vendor fill problems from store ordering and planogram errors.
+• Built an Alteryx workflow that flags stores whose weekly inventory adjustments run more than two standard deviations above district norms.
+• Present a monthly operations review to regional vice presidents with three to five findings and a recommended action for each.
 
 Pharmacy Operations Coordinator | CareRidge Pharmacy, Columbus, OH | Aug 2017 to Jan 2020
-- Compiled weekly district reports in Excel on prescription wait times, staffing gaps and inventory adjustments.
-- Built the first Alteryx workflow on the operations team, merging three daily store extracts and cutting report prep from six hours to 40 minutes a week.
-- Coordinated data requests between store leaders and the analytics team, which led to the move into the analyst role.
-- Tracked vendor delivery exceptions for 45 stores and summarized repeat issues for the distribution center.
-- Kept the store contact and district alignment list current after each reorganization, a source used by several departments.
+• Compiled weekly district reports in Excel on prescription wait times, staffing gaps and inventory adjustments.
+• Built the first Alteryx workflow on the operations team, merging three daily store extracts and cutting report prep from six hours to 40 minutes a week.
+• Coordinated data requests between store leaders and the analytics team, which led to the move into the analyst role.
+• Tracked vendor delivery exceptions for 45 stores and summarized repeat issues for the distribution center.
+• Kept the store contact and district alignment list current after each reorganization, a source used by several departments.
 
 EDUCATION
 {DEGREE_LINE}, 2017
@@ -33,7 +33,7 @@ Analysis: store scorecards, shrink and loss analysis, matched store pilots, labo
 Communication: one page written summaries for district leaders, monthly business review decks
 
 ADDITIONAL
-- Alteryx Designer Core Certification, 2021
-- Tableau Desktop Specialist, 2022
-- Member of a local Tableau user group; presented a scorecard design walkthrough in 2023
-- Volunteer data support for a Columbus park conservancy, summarizing cleanup volunteer hours by park and month
+• Alteryx Designer Core Certification, 2021
+• Tableau Desktop Specialist, 2022
+• Member of a local Tableau user group; presented a scorecard design walkthrough in 2023
+• Volunteer data support for a Columbus park conservancy, summarizing cleanup volunteer hours by park and month

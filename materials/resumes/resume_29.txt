@@ -6,24 +6,24 @@ Customer care representative at a cable and internet provider who keeps the team
 
 EXPERIENCE
 Customer Care Representative | Lumenline Cable, Columbus, OH | May 2025 to Present
-- Handle 55 to 70 inbound calls a day on billing, service changes and outage questions for residential customers.
-- Maintain the team's Excel tracker of handle time, first call resolution and survey scores for 14 representatives, updated each morning from the phone system export.
-- Added pivot tables and conditional formatting to the tracker so the supervisor can see weekly trends at a glance; two other teams now use the same layout.
-- Cover the tracker when the supervisor is out, sending the daily summary email to the operations manager.
-- Document each call in the CRM with account notes and disposition codes, which feed the weekly reports the supervisor reviews.
-- Flag recurring billing errors to the escalations team with account examples, which helped correct a promotional credit that was not applying for new customers.
-- Completed training on internet and TV troubleshooting, handling modem resets and service appointment scheduling.
-- Recognized twice for quality scores above 95 percent.
+• Handle 55 to 70 inbound calls a day on billing, service changes and outage questions for residential customers.
+• Maintain the team's Excel tracker of handle time, first call resolution and survey scores for 14 representatives, updated each morning from the phone system export.
+• Added pivot tables and conditional formatting to the tracker so the supervisor can see weekly trends at a glance; two other teams now use the same layout.
+• Cover the tracker when the supervisor is out, sending the daily summary email to the operations manager.
+• Document each call in the CRM with account notes and disposition codes, which feed the weekly reports the supervisor reviews.
+• Flag recurring billing errors to the escalations team with account examples, which helped correct a promotional credit that was not applying for new customers.
+• Completed training on internet and TV troubleshooting, handling modem resets and service appointment scheduling.
+• Recognized twice for quality scores above 95 percent.
 
 Operations Assistant | Parkside Moving and Storage, Columbus, OH | Aug 2022 to Apr 2025
-- Scheduled residential moves for a crew of 20 using the company's booking software.
-- Created a shared calendar for crew assignments that cut double bookings during the busy summer season.
-- Entered storage unit contracts and payments and kept a monthly occupancy spreadsheet for 300 units.
-- Sent monthly past due reminders to storage customers and recorded payments in QuickBooks.
-- Answered phones, prepared moving quotes and handled customer follow-up after each job.
-- Built a simple Excel log of damage claims that helped the owner see which crews needed more training.
-- Ordered packing supplies and tracked monthly spending against a budget set by the office manager.
-- Trained two new office staff on the booking software and phone procedures.
+• Scheduled residential moves for a crew of 20 using the company's booking software.
+• Created a shared calendar for crew assignments that cut double bookings during the busy summer season.
+• Entered storage unit contracts and payments and kept a monthly occupancy spreadsheet for 300 units.
+• Sent monthly past due reminders to storage customers and recorded payments in QuickBooks.
+• Answered phones, prepared moving quotes and handled customer follow-up after each job.
+• Built a simple Excel log of damage claims that helped the owner see which crews needed more training.
+• Ordered packing supplies and tracked monthly spending against a budget set by the office manager.
+• Trained two new office staff on the booking software and phone procedures.
 
 EDUCATION
 {DEGREE_LINE}, 2022
@@ -36,7 +36,7 @@ Office: Microsoft Word, Outlook, Google Calendar
 Customer service: de-escalation, account troubleshooting, written follow-up
 
 ADDITIONAL
-- Online data analytics certificate, completed 2025, with a capstone analyzing public bike share trip data in SQL and Tableau
-- Course projects also covered cleaning a sample retail sales dataset in Excel and building a simple Tableau dashboard of monthly revenue
-- Practicing SQL on free online exercise sites, about two hours a week
-- Volunteer at a local food bank warehouse, logging weekly donations in a shared spreadsheet
+• Online data analytics certificate, completed 2025, with a capstone analyzing public bike share trip data in SQL and Tableau
+• Course projects also covered cleaning a sample retail sales dataset in Excel and building a simple Tableau dashboard of monthly revenue
+• Practicing SQL on free online exercise sites, about two hours a week
+• Volunteer at a local food bank warehouse, logging weekly donations in a shared spreadsheet

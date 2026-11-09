@@ -6,28 +6,28 @@ Bookkeeping clerk at a small accounting firm, handling reconciliations and month
 
 EXPERIENCE
 Bookkeeping Clerk | Pellam and Vey CPAs, Columbus, OH | May 2022 to Present
-- Reconciles bank and credit card accounts each month for 45 clients, mostly restaurants, contractors and retail shops.
-- Codes transactions in QuickBooks Online and flags unusual or uncategorized items for the staff accountant to review.
-- Prepares sales tax worksheets for eight retail clients each month from point of sale exports.
-- Prepares monthly profit and loss summaries in Excel for 12 clients who receive a short written recap of the month.
-- Built an Excel checklist with due dates and status for each client's month end close, used by a team of four.
-- Helps prepare year end workpapers and 1099 vendor lists during tax season, handling about 30 client files.
-- Set up bank feed rules in QuickBooks for new clients, which cut manual coding time for those accounts by roughly half.
-- Noticed that one retail client's sales deposits ran short of reported sales for three months and traced the gap to a card processor fee that had not been recorded.
+• Reconciles bank and credit card accounts each month for 45 clients, mostly restaurants, contractors and retail shops.
+• Codes transactions in QuickBooks Online and flags unusual or uncategorized items for the staff accountant to review.
+• Prepares sales tax worksheets for eight retail clients each month from point of sale exports.
+• Prepares monthly profit and loss summaries in Excel for 12 clients who receive a short written recap of the month.
+• Built an Excel checklist with due dates and status for each client's month end close, used by a team of four.
+• Helps prepare year end workpapers and 1099 vendor lists during tax season, handling about 30 client files.
+• Set up bank feed rules in QuickBooks for new clients, which cut manual coding time for those accounts by roughly half.
+• Noticed that one retail client's sales deposits ran short of reported sales for three months and traced the gap to a card processor fee that had not been recorded.
 
 Accounts Payable Clerk | Fenwright Packaging, Columbus, OH | Aug 2020 to Apr 2022
-- Entered about 400 vendor invoices per month and matched each to purchase orders and receiving records.
-- Researched and resolved vendor statement differences, usually missing credits or duplicate invoices.
-- Ran weekly check and ACH payment batches for manager approval.
-- Matched freight invoices against carrier rate sheets and caught about $9,000 in overbilled fuel surcharges during 2021.
-- Kept an Excel aging list of invoices on hold and followed up with purchasing until each was cleared.
-- Updated vendor master records, including addresses, payment terms and tax forms.
-- Helped finance with the monthly accrual list by pulling received but uninvoiced orders from the purchasing system into Excel.
+• Entered about 400 vendor invoices per month and matched each to purchase orders and receiving records.
+• Researched and resolved vendor statement differences, usually missing credits or duplicate invoices.
+• Ran weekly check and ACH payment batches for manager approval.
+• Matched freight invoices against carrier rate sheets and caught about $9,000 in overbilled fuel surcharges during 2021.
+• Kept an Excel aging list of invoices on hold and followed up with purchasing until each was cleared.
+• Updated vendor master records, including addresses, payment terms and tax forms.
+• Helped finance with the monthly accrual list by pulling received but uninvoiced orders from the purchasing system into Excel.
 
 Accounting Intern | Pellam and Vey CPAs, Columbus, OH | Jan 2020 to May 2020
-- Assisted with data entry for individual tax returns during the busy season.
-- Organized scanned client documents and maintained a tracking sheet of missing items.
-- Called clients to request missing forms and logged each follow-up in the shared tracking sheet.
+• Assisted with data entry for individual tax returns during the busy season.
+• Organized scanned client documents and maintained a tracking sheet of missing items.
+• Called clients to request missing forms and logged each follow-up in the shared tracking sheet.
 
 EDUCATION
 {DEGREE_LINE}, 2020
@@ -38,6 +38,6 @@ Spreadsheets: Excel (pivot tables, VLOOKUP, SUMIF, formatting for client reports
 Other: account reconciliation, accounts payable, month end close support, document management, client communication
 
 ADDITIONAL
-- QuickBooks Online ProAdvisor certification, 2023
-- Enrolled in a beginner SQL class through an online learning platform, 2026
-- Volunteer treasurer support for a Columbus community garden association, keeping the income and expense ledger in Google Sheets
+• QuickBooks Online ProAdvisor certification, 2023
+• Enrolled in a beginner SQL class through an online learning platform, 2026
+• Volunteer treasurer support for a Columbus community garden association, keeping the income and expense ledger in Google Sheets

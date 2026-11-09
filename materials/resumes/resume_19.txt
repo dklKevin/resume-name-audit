@@ -6,25 +6,25 @@ Data analyst with two years of hands-on analytics at a meal kit startup, where a
 
 EXPERIENCE
 Data Analyst (Contract) | Copperleaf Technical Staffing, Columbus, OH | Jan 2026 to Present
-- Placed with a commercial property management firm to move 30 recurring Excel reports on occupancy, rent collections and work orders into PostgreSQL views.
-- Wrote Python scripts to clean and load six years of historical lease data, resolving about 2,300 duplicate unit records.
-- Deliver weekly status updates to the firm's controller and keep a change log of every report definition.
+• Placed with a commercial property management firm to move 30 recurring Excel reports on occupancy, rent collections and work orders into PostgreSQL views.
+• Wrote Python scripts to clean and load six years of historical lease data, resolving about 2,300 duplicate unit records.
+• Deliver weekly status updates to the firm's controller and keep a change log of every report definition.
 
 Data Analyst | Sprigbox Meals, Columbus, OH | Oct 2023 to Nov 2025
-- One of two analysts at a direct-to-consumer meal kit company shipping about 18,000 boxes a week at peak.
-- Built and maintained 25 Metabase dashboards on subscriptions, churn, box margin and fulfillment accuracy, backed by SQL views in PostgreSQL.
-- Wrote a Python pipeline (pandas, Airflow) that pulled order, ingredient and shipping cost data each night, replacing a manual spreadsheet process that had been two days behind.
-- Modeled ingredient demand by recipe and week from menu selections, cutting produce over-ordering by about 11 percent over two quarters.
-- Analyzed a controlled rollout of a lower price trial offer across two acquisition channels and found that first-box discounts above 50 percent brought in subscribers who mostly cancelled by week three.
-- Built a cohort retention model in Python that finance used for the final two fundraising decks.
-- Presented weekly metrics in the operations standup, mostly to the head of operations and the fulfillment manager.
-- Wrote the shutdown data handoff: exported and documented every production table so the acquiring company could load customer and order history.
+• One of two analysts at a direct-to-consumer meal kit company shipping about 18,000 boxes a week at peak.
+• Built and maintained 25 Metabase dashboards on subscriptions, churn, box margin and fulfillment accuracy, backed by SQL views in PostgreSQL.
+• Wrote a Python pipeline (pandas, Airflow) that pulled order, ingredient and shipping cost data each night, replacing a manual spreadsheet process that had been two days behind.
+• Modeled ingredient demand by recipe and week from menu selections, cutting produce over-ordering by about 11 percent over two quarters.
+• Analyzed a controlled rollout of a lower price trial offer across two acquisition channels and found that first-box discounts above 50 percent brought in subscribers who mostly cancelled by week three.
+• Built a cohort retention model in Python that finance used for the final two fundraising decks.
+• Presented weekly metrics in the operations standup, mostly to the head of operations and the fulfillment manager.
+• Wrote the shutdown data handoff: exported and documented every production table so the acquiring company could load customer and order history.
 
 Operations Coordinator | Sprigbox Meals, Columbus, OH | Jul 2022 to Sep 2023
-- Scheduled packing line shifts for a crew of about 35 and tracked daily output and mispack rates in Google Sheets.
-- Counted ingredient inventory in the cooler each Friday and logged spoilage by supplier, which later became the first data source for the demand model.
-- Started writing SQL queries against the order database to answer fulfillment questions, which led to the move into the analytics role.
-- Built a Python script that matched carrier delivery exceptions to orders so customer support could issue credits the same day.
+• Scheduled packing line shifts for a crew of about 35 and tracked daily output and mispack rates in Google Sheets.
+• Counted ingredient inventory in the cooler each Friday and logged spoilage by supplier, which later became the first data source for the demand model.
+• Started writing SQL queries against the order database to answer fulfillment questions, which led to the move into the analytics role.
+• Built a Python script that matched carrier delivery exceptions to orders so customer support could issue credits the same day.
 
 EDUCATION
 {DEGREE_LINE}, 2022
@@ -36,5 +36,5 @@ Data practices: dbt models (basic), Git and GitHub, cron scheduling, data valida
 Analysis: cohort retention, demand forecasting, A/B style rollout analysis
 
 ADDITIONAL
-- Personal project: public GitHub repository analyzing Columbus city 311 service request data with Python and a Streamlit dashboard
-- Completed Microsoft Learn Power BI modules, 2026
+• Personal project: public GitHub repository analyzing Columbus city 311 service request data with Python and a Streamlit dashboard
+• Completed Microsoft Learn Power BI modules, 2026

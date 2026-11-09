@@ -23,6 +23,8 @@ from .config import COMPANY, MATERIALS
 from .materials import PLACEHOLDERS, Materials
 from .prompt import system_prompt
 
+# Bullets as they appear in text extracted from a Word or PDF resume, not Markdown dashes.
+BULLET = "\u2022 "
 HEADINGS = ["SUMMARY", "EXPERIENCE", "EDUCATION", "SKILLS", "ADDITIONAL"]
 WORDS_MIN, WORDS_MAX = 500, 700
 SHINGLE = 5
@@ -132,7 +134,7 @@ def sections(text: str) -> dict[str, list[str]]:
 
 
 def bullets(text: str) -> list[str]:
-    return [line[2:].strip() for line in text.splitlines() if line.startswith("- ")]
+    return [line[2:].strip() for line in text.splitlines() if line.startswith(BULLET)]
 
 
 def words(text: str) -> list[str]:
@@ -213,15 +215,19 @@ def check_realism(m: Materials) -> Check:
     counts = {}
     employers: dict[str, set[int]] = {}
     for rid, text in sorted(m.resumes.items()):
-        if not text.isascii():
-            c.fail(f"resume {rid}: non-ASCII characters")
+        if not text.replace(BULLET, "").isascii():
+            c.fail(f"resume {rid}: non-ASCII characters other than the bullet")
+        for line in text.splitlines():
+            if re.match(r"^\s*[-*\u2022]", line) and not line.startswith(BULLET):
+                c.fail(f"resume {rid}: bullet not written as '{BULLET}': {line[:40]!r}")
+                break
         lengths = [len(m.fill(rid, n, lvl).split()) for n in m.names for lvl in m.degree_lines]
         counts[rid] = (min(lengths), max(lengths))
         if min(lengths) < WORDS_MIN or max(lengths) > WORDS_MAX:
             c.fail(f"resume {rid}: {min(lengths)} to {max(lengths)} words")
         previous_start = None
         for line in sections(text).get("EXPERIENCE", []):
-            if not line or line.startswith("- "):
+            if not line or line.startswith(BULLET):
                 continue
             match = JOB_LINE.match(line)
             if not match:
@@ -241,6 +247,10 @@ def check_realism(m: Materials) -> Check:
     hi = max(v[1] for v in counts.values())
     c.note(f"Length: {lo} to {hi} words across every rendering (limit {WORDS_MIN} to {WORDS_MAX}).")
     c.note(f"{len(employers)} distinct employers; none shared between resumes.")
+    c.note(
+        f"Every bullet in every resume is written as '{BULLET.strip()} ', as in text extracted "
+        "from a Word or PDF file; plain ASCII otherwise."
+    )
 
     sh = {rid: shingles(t) for rid, t in m.resumes.items()}
     pairs = []

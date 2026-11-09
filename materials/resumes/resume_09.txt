@@ -6,22 +6,22 @@ Data analyst with ten years of experience, the last seven in customer analytics 
 
 EXPERIENCE
 Data Analyst, Customer Analytics | Ravenbrook Electric Company, Columbus, OH | Nov 2019 to Present
-- Maintain 14 Tableau dashboards on outage minutes, restoration times, billing exceptions and payment arrangements, refreshed daily from the Oracle customer information system.
-- Led a nine month customer data quality cleanup with IT and billing: matched meter, premise and account records, closed 23,000 duplicate accounts and corrected 41,000 service addresses, which cut returned mail by 38 percent.
-- Wrote Python jobs that pull outage management system extracts every 15 minutes during storms and post estimated restoration counts for the communications team.
-- Measured a paperless billing incentive offered to a random half of eligible customers in a 2023 pilot; enrollment rose 11 points over the control group and the incentive went system wide.
-- Built the monthly high bill complaint report, using SQL window functions to compare each account against its own prior 12 months and weather adjusted usage.
-- Partnered with meter operations on a smart meter read failure report that ranks routes by missed reads, cutting estimated bills by about 9,000 a month.
-- Built a SQL reconciliation between the billing system and the general ledger that flags revenue posting gaps within a day instead of at month end.
-- Answer ad hoc requests from rates, regulatory and customer service teams, often the same day.
-- Trained two new analysts on the customer data model and the team's SQL style guide.
+• Maintain 14 Tableau dashboards on outage minutes, restoration times, billing exceptions and payment arrangements, refreshed daily from the Oracle customer information system.
+• Led a nine month customer data quality cleanup with IT and billing: matched meter, premise and account records, closed 23,000 duplicate accounts and corrected 41,000 service addresses, which cut returned mail by 38 percent.
+• Wrote Python jobs that pull outage management system extracts every 15 minutes during storms and post estimated restoration counts for the communications team.
+• Measured a paperless billing incentive offered to a random half of eligible customers in a 2023 pilot; enrollment rose 11 points over the control group and the incentive went system wide.
+• Built the monthly high bill complaint report, using SQL window functions to compare each account against its own prior 12 months and weather adjusted usage.
+• Partnered with meter operations on a smart meter read failure report that ranks routes by missed reads, cutting estimated bills by about 9,000 a month.
+• Built a SQL reconciliation between the billing system and the general ledger that flags revenue posting gaps within a day instead of at month end.
+• Answer ad hoc requests from rates, regulatory and customer service teams, often the same day.
+• Trained two new analysts on the customer data model and the team's SQL style guide.
 
 Billing Operations Analyst | Pinecrest Telecom Services, Columbus, OH | Jul 2016 to Oct 2019
-- Reconciled monthly billing runs for 180,000 residential and small business accounts and investigated variances above $5,000.
-- Built Excel and Access reports on billing adjustments and credits by reason code for the billing manager's weekly review.
-- Learned SQL on the job and moved six recurring reports from manual exports to scheduled queries.
-- Flagged a rate table setup error that had undercharged 3,200 accounts, recovering about $210,000.
-- Wrote the desk procedures for month end billing close that the team still uses.
+• Reconciled monthly billing runs for 180,000 residential and small business accounts and investigated variances above $5,000.
+• Built Excel and Access reports on billing adjustments and credits by reason code for the billing manager's weekly review.
+• Learned SQL on the job and moved six recurring reports from manual exports to scheduled queries.
+• Flagged a rate table setup error that had undercharged 3,200 accounts, recovering about $210,000.
+• Wrote the desk procedures for month end billing close that the team still uses.
 
 EDUCATION
 {DEGREE_LINE}, 2016
@@ -34,7 +34,7 @@ Domain: customer information systems, outage management, billing reconciliation,
 Communication: written incident summaries, monthly operations reviews with directors
 
 ADDITIONAL
-- Tableau Certified Data Analyst, 2023
-- Completed a Snowflake fundamentals course in 2025 ahead of the warehouse migration
-- Volunteer at a public library tech help desk, two Saturdays a month
-- Presented the address cleanup project at a local data analytics meetup, 2024
+• Tableau Certified Data Analyst, 2023
+• Completed a Snowflake fundamentals course in 2025 ahead of the warehouse migration
+• Volunteer at a public library tech help desk, two Saturdays a month
+• Presented the address cleanup project at a local data analytics meetup, 2024

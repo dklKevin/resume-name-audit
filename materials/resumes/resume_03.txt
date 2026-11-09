@@ -6,20 +6,20 @@ Inventory and supply chain analyst with ten years at a third-party logistics pro
 
 EXPERIENCE
 Analytics Lead, Warehouse Accounts | Corvane Fulfillment Services, Columbus, OH | Mar 2021 to Present
-- Own reporting for a lawn and garden brand and a home decor distributor that together move about 41,000 active SKUs through a 900,000 square foot facility.
-- Designed a stockout early warning report in Power BI that flags items projected to run out within 10 days, based on open purchase orders, inbound ASNs and trailing six week demand. Client buyers act on roughly 60 alerts a week, and account stockouts fell 23 percent in the first year.
-- Built vendor fill-rate scorecards for 140 suppliers by joining receiving, purchase order and ASN data in SQL Server. The scorecards now set the agenda for quarterly vendor reviews and supported $180,000 in vendor chargebacks during 2024.
-- Cut inventory write-offs by $410,000 over two years by pairing slow-mover reports with expiration and damage data, so the client could liquidate or return product before it lost value.
-- Replaced 14 linked Excel workbooks with a Python job that pulls WMS extracts each morning, applies validation rules and loads clean tables for Power BI, saving about nine analyst hours a week.
-- Supervise two inventory analysts, reviewing every SQL change before it ships and running a weekly working session on query design and reconciliation.
-- Present a monthly operations review to client directors covering service levels, inventory health and open data issues.
+• Own reporting for a lawn and garden brand and a home decor distributor that together move about 41,000 active SKUs through a 900,000 square foot facility.
+• Designed a stockout early warning report in Power BI that flags items projected to run out within 10 days, based on open purchase orders, inbound ASNs and trailing six week demand. Client buyers act on roughly 60 alerts a week, and account stockouts fell 23 percent in the first year.
+• Built vendor fill-rate scorecards for 140 suppliers by joining receiving, purchase order and ASN data in SQL Server. The scorecards now set the agenda for quarterly vendor reviews and supported $180,000 in vendor chargebacks during 2024.
+• Cut inventory write-offs by $410,000 over two years by pairing slow-mover reports with expiration and damage data, so the client could liquidate or return product before it lost value.
+• Replaced 14 linked Excel workbooks with a Python job that pulls WMS extracts each morning, applies validation rules and loads clean tables for Power BI, saving about nine analyst hours a week.
+• Supervise two inventory analysts, reviewing every SQL change before it ships and running a weekly working session on query design and reconciliation.
+• Present a monthly operations review to client directors covering service levels, inventory health and open data issues.
 
 Inventory Analyst | Corvane Fulfillment Services, Columbus, OH | Jul 2016 to Feb 2021
-- Reconciled daily WMS on-hand balances against client ERP records for six accounts and traced each variance to receiving, picking or system timing.
-- Wrote SQL with window functions to rank cycle count variances by dollar impact, which focused the counting team on the 300 locations behind most of the error.
-- Maintained item master and unit of measure data for more than 25,000 SKUs, correcting case pack and dimension errors that had been causing slotting and freight billing problems.
-- Built the site's first Power BI dashboard for on-time shipping and order accuracy, later adopted by three other buildings.
-- Supported peak season planning each fall with labor and volume projections in Excel.
+• Reconciled daily WMS on-hand balances against client ERP records for six accounts and traced each variance to receiving, picking or system timing.
+• Wrote SQL with window functions to rank cycle count variances by dollar impact, which focused the counting team on the 300 locations behind most of the error.
+• Maintained item master and unit of measure data for more than 25,000 SKUs, correcting case pack and dimension errors that had been causing slotting and freight billing problems.
+• Built the site's first Power BI dashboard for on-time shipping and order accuracy, later adopted by three other buildings.
+• Supported peak season planning each fall with labor and volume projections in Excel.
 
 EDUCATION
 {DEGREE_LINE}, 2016
@@ -31,6 +31,6 @@ Reporting: Power BI (DAX, row-level security, incremental refresh), Excel dashbo
 Supply chain systems: Blue Yonder WMS, SAP ERP extracts, EDI 856 and ASN data
 
 ADDITIONAL
-- Microsoft Certified Power BI Data Analyst (PL-300), 2022
-- APICS Certified in Planning and Inventory Management (CPIM), 2019
-- Volunteer inventory lead for a Columbus school supply drive, tracking donations and distribution counts each August
+• Microsoft Certified Power BI Data Analyst (PL-300), 2022
+• APICS Certified in Planning and Inventory Management (CPIM), 2019
+• Volunteer inventory lead for a Columbus school supply drive, tracking donations and distribution counts each August

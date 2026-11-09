@@ -6,21 +6,21 @@ Candidate for an entry level analyst role, with a three-month analytics internsh
 
 EXPERIENCE
 Inventory Clerk (part-time) | Haddon Hardware and Garden, Columbus, OH | Aug 2023 to Present
-- Receive deliveries, check each one against the packing slip and enter receipts into the store's point of sale system, about 20 hours a week.
-- Help with quarterly cycle counts and record count discrepancies on the shared log for the store manager.
-- Built an Excel sheet that lists seasonal items with low on-hand counts each Monday, which the manager uses when placing reorders.
-- Restock aisles and set up seasonal displays for spring lawn care and fall outdoor products.
-- Process customer returns at the service desk and note damaged items for vendor credit.
-- Noticed that mulch and potting soil counts were off after every holiday weekend and started a simple tally sheet for pallets sold at the outdoor register, which closed most of the gap.
-- Cover the paint counter on weekends, mixing orders and logging color formulas in the store system.
+• Receive deliveries, check each one against the packing slip and enter receipts into the store's point of sale system, about 20 hours a week.
+• Help with quarterly cycle counts and record count discrepancies on the shared log for the store manager.
+• Built an Excel sheet that lists seasonal items with low on-hand counts each Monday, which the manager uses when placing reorders.
+• Restock aisles and set up seasonal displays for spring lawn care and fall outdoor products.
+• Process customer returns at the service desk and note damaged items for vendor credit.
+• Noticed that mulch and potting soil counts were off after every holiday weekend and started a simple tally sheet for pallets sold at the outdoor register, which closed most of the gap.
+• Cover the paint counter on weekends, mixing orders and logging color formulas in the store system.
 
 Data Analytics Intern | Brookmere Insurance Group, Columbus, OH | Jun 2022 to Aug 2022
-- Cleaned two years of customer service call logs in Python (pandas) for an analytics team of five, fixing inconsistent reason codes and removing about 4,000 duplicate call records.
-- Wrote SQL queries in a sandbox database to count call volume by reason code and week.
-- Built charts in matplotlib and a short slide deck on the top call drivers, presented to the analytics manager in the final week.
-- Documented the steps in a Jupyter notebook so the next intern could rerun the analysis.
-- Sat in on weekly team meetings where analysts walked through dashboard requests from the claims department.
-- Helped another analyst spot check a Tableau dashboard by comparing its weekly totals with counts from the source tables.
+• Cleaned two years of customer service call logs in Python (pandas) for an analytics team of five, fixing inconsistent reason codes and removing about 4,000 duplicate call records.
+• Wrote SQL queries in a sandbox database to count call volume by reason code and week.
+• Built charts in matplotlib and a short slide deck on the top call drivers, presented to the analytics manager in the final week.
+• Documented the steps in a Jupyter notebook so the next intern could rerun the analysis.
+• Sat in on weekly team meetings where analysts walked through dashboard requests from the claims department.
+• Helped another analyst spot check a Tableau dashboard by comparing its weekly totals with counts from the source tables.
 
 EDUCATION
 {DEGREE_LINE}, 2023
@@ -33,7 +33,7 @@ Statistics: descriptive summaries, simple linear regression, grouping and aggreg
 Other: point of sale inventory entry, cycle counts, customer service
 
 ADDITIONAL
-- Project: analyzed three years of public bike share trip data in Python to find peak hours and the busiest stations, with a written summary, charts and a short README posted on GitHub
-- Project: built a small SQLite database of grocery prices collected by hand over eight weeks and wrote queries comparing price changes by product category
-- Project: cleaned and charted a public restaurant inspection dataset for Columbus, comparing violation counts by month and inspection type
-- Completed the Google Data Analytics Certificate, 2024
+• Project: analyzed three years of public bike share trip data in Python to find peak hours and the busiest stations, with a written summary, charts and a short README posted on GitHub
+• Project: built a small SQLite database of grocery prices collected by hand over eight weeks and wrote queries comparing price changes by product category
+• Project: cleaned and charted a public restaurant inspection dataset for Columbus, comparing violation counts by month and inspection type
+• Completed the Google Data Analytics Certificate, 2024

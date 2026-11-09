@@ -6,24 +6,24 @@ Retail analyst with six years of SQL, Power BI and Python work across grocery an
 
 EXPERIENCE
 Senior Data Analyst | Hearthway Goods, Columbus, OH | Feb 2023 to Present
-- Own weekly sales, margin and inventory reporting in Power BI for kitchen, bath, lighting and outdoor living, read by six category managers and the VP of merchandising.
-- Built a promotion lift model in Python and Snowflake that compares promoted SKUs against matched control SKUs and each SKU's own baseline weeks; the results led merchandising to drop 31 recurring promotions that were losing margin, worth about $1.4M in annual gross profit.
-- Designed a controlled rollout of free shipping thresholds across two customer regions, wrote the readout and recommended the $59 threshold that later went sitewide.
-- Write SQL with window functions to track sell-through, weeks of supply and aged inventory by vendor; flagged 140 slow SKUs for markdown ahead of the January clearance event.
-- Partnered with data engineering to fix product hierarchy mapping errors that had placed roughly 2,000 SKUs in the wrong department, which had been distorting department margin by up to two points.
-- Mentor two junior analysts through weekly code review and paired dashboard builds.
+• Own weekly sales, margin and inventory reporting in Power BI for kitchen, bath, lighting and outdoor living, read by six category managers and the VP of merchandising.
+• Built a promotion lift model in Python and Snowflake that compares promoted SKUs against matched control SKUs and each SKU's own baseline weeks; the results led merchandising to drop 31 recurring promotions that were losing margin, worth about $1.4M in annual gross profit.
+• Designed a controlled rollout of free shipping thresholds across two customer regions, wrote the readout and recommended the $59 threshold that later went sitewide.
+• Write SQL with window functions to track sell-through, weeks of supply and aged inventory by vendor; flagged 140 slow SKUs for markdown ahead of the January clearance event.
+• Partnered with data engineering to fix product hierarchy mapping errors that had placed roughly 2,000 SKUs in the wrong department, which had been distorting department margin by up to two points.
+• Mentor two junior analysts through weekly code review and paired dashboard builds.
 
 Category Data Analyst | Fernwood Fresh Markets, Columbus, OH | Oct 2020 to Jan 2023
-- Produced weekly category scorecards for 38 stores covering sales, margin, shrink and out-of-stocks in Power BI and Excel.
-- Answered ad hoc questions from buyers with SQL Server queries on scan data, usually within one business day.
-- Measured a 12 store pilot of electronic shelf labels against comparable stores; price accuracy complaints fell 46 percent and the program expanded chainwide the following year.
-- Automated the monthly vendor funding reconciliation in Python, replacing a two day manual process.
-- Built a stockout watch list from daily on-hand and sales velocity that the replenishment team checked every morning during the 2021 supply shortages.
+• Produced weekly category scorecards for 38 stores covering sales, margin, shrink and out-of-stocks in Power BI and Excel.
+• Answered ad hoc questions from buyers with SQL Server queries on scan data, usually within one business day.
+• Measured a 12 store pilot of electronic shelf labels against comparable stores; price accuracy complaints fell 46 percent and the program expanded chainwide the following year.
+• Automated the monthly vendor funding reconciliation in Python, replacing a two day manual process.
+• Built a stockout watch list from daily on-hand and sales velocity that the replenishment team checked every morning during the 2021 supply shortages.
 
 Merchandising Coordinator | Fernwood Fresh Markets, Columbus, OH | Jun 2017 to Sep 2020
-- Maintained item setup and retail price files for center store categories, about 9,000 active SKUs.
-- Built Excel trackers for weekly ad planning and vendor promotion commitments, which became the starting point for the analyst role.
-- Reviewed planogram compliance reports from store visits and summarized gaps for district managers.
+• Maintained item setup and retail price files for center store categories, about 9,000 active SKUs.
+• Built Excel trackers for weekly ad planning and vendor promotion commitments, which became the starting point for the analyst role.
+• Reviewed planogram compliance reports from store visits and summarized gaps for district managers.
 
 EDUCATION
 {DEGREE_LINE}, 2017
@@ -35,6 +35,6 @@ Reporting: Power BI (DAX, row level security, scheduled refresh), short written 
 Retail: sell-through, weeks of supply, markdown planning, vendor funding, product hierarchy maintenance
 
 ADDITIONAL
-- Microsoft Power BI Data Analyst certification (PL-300), 2022
-- Gave a talk on reading promotion results at a local analytics meetup, 2025
-- Volunteer data help for a neighborhood food pantry, maintaining a monthly distribution dashboard
+• Microsoft Power BI Data Analyst certification (PL-300), 2022
+• Gave a talk on reading promotion results at a local analytics meetup, 2025
+• Volunteer data help for a neighborhood food pantry, maintaining a monthly distribution dashboard

@@ -6,22 +6,22 @@ Reporting analyst for a 450 seat customer support center that handles billing an
 
 EXPERIENCE
 Reporting Analyst | Northlight Home Warranty, Columbus, OH | Aug 2023 to Present
-- Publishes the daily service level report for 12 queues, showing calls offered, percent answered within 60 seconds, abandon rate and average handle time by team.
-- Built the center's first Power BI dashboard, replacing a 14 tab Excel workbook; about 35 supervisors and managers open it each week.
-- Writes SQL queries with joins, aggregates and CASE logic against the Genesys reporting database to pull interval data and agent state history.
-- Maintains an Excel staffing model that converts forecast call volume into required agents by half hour using Erlang C, shared with the scheduling team every Thursday.
-- Traced a jump in billing queue handle time to a new payment screen that added about 40 seconds per call; the summary got the screen fix moved into the next release.
-- Prepares the monthly operations deck for the center director, including quality scores, repeat contact rate and top call drivers by product type.
-- Set up a weekly check that compares call counts in the phone system against the Power BI dataset, catching two broken data refreshes before managers saw wrong numbers.
-- Answers ad hoc questions from operations managers, such as how many repeat callers had an open repair claim, usually within two days.
+• Publishes the daily service level report for 12 queues, showing calls offered, percent answered within 60 seconds, abandon rate and average handle time by team.
+• Built the center's first Power BI dashboard, replacing a 14 tab Excel workbook; about 35 supervisors and managers open it each week.
+• Writes SQL queries with joins, aggregates and CASE logic against the Genesys reporting database to pull interval data and agent state history.
+• Maintains an Excel staffing model that converts forecast call volume into required agents by half hour using Erlang C, shared with the scheduling team every Thursday.
+• Traced a jump in billing queue handle time to a new payment screen that added about 40 seconds per call; the summary got the screen fix moved into the next release.
+• Prepares the monthly operations deck for the center director, including quality scores, repeat contact rate and top call drivers by product type.
+• Set up a weekly check that compares call counts in the phone system against the Power BI dataset, catching two broken data refreshes before managers saw wrong numbers.
+• Answers ad hoc questions from operations managers, such as how many repeat callers had an open repair claim, usually within two days.
 
 Workforce Coordinator | Northlight Home Warranty, Columbus, OH | Aug 2020 to Jul 2023
-- Adjusted intraday schedules for 200+ agents based on call volume, absences and training time.
-- Tracked schedule adherence and shrinkage in Excel and sent a daily summary to operations managers.
-- Corrected team assignments for 60 agents after finding mismatches between the phone system roster and HR records.
-- Took over the weekly overtime request file and rebuilt it with lookups and data validation, which ended frequent double approvals.
-- Pulled historical volume by interval for the annual staffing plan, which was the first exposure to SQL and led to the move into reporting.
-- Covered the scheduling inbox during peak storm season, when call volume ran up to twice the normal level.
+• Adjusted intraday schedules for 200+ agents based on call volume, absences and training time.
+• Tracked schedule adherence and shrinkage in Excel and sent a daily summary to operations managers.
+• Corrected team assignments for 60 agents after finding mismatches between the phone system roster and HR records.
+• Took over the weekly overtime request file and rebuilt it with lookups and data validation, which ended frequent double approvals.
+• Pulled historical volume by interval for the annual staffing plan, which was the first exposure to SQL and led to the move into reporting.
+• Covered the scheduling inbox during peak storm season, when call volume ran up to twice the normal level.
 
 EDUCATION
 {DEGREE_LINE}, 2020
@@ -33,5 +33,5 @@ Contact center: Genesys Cloud, NICE workforce management, Erlang C staffing, ser
 Communication: monthly operations decks, written summaries for supervisors
 
 ADDITIONAL
-- Completed the Microsoft Learn Power BI Data Analyst learning path, 2024
-- Currently taking an intermediate SQL course covering window functions and CTEs
+• Completed the Microsoft Learn Power BI Data Analyst learning path, 2024
+• Currently taking an intermediate SQL course covering window functions and CTEs

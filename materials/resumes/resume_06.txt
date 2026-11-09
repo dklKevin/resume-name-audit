@@ -6,23 +6,23 @@ Pricing and margin analyst at a consumer goods distributor serving about 1,800 g
 
 EXPERIENCE
 Senior Pricing and Margin Analyst | Ridgeworth Brands Distribution, Columbus, OH | Mar 2025 to Present
-- Owns the margin leakage report, which splits the gap between list and pocket price into off-invoice allowances, freight, rebates and unapproved discounts across 14,000 SKUs.
-- Found $2.3 million in annualized leakage from expired promotional allowances still applied at invoice and worked with billing to close it within one quarter.
-- Designed a pre and post price change model in SQL that compares changed SKUs against matched control SKUs; the model has been used for every list price action since mid 2025.
-- Rebuilt 30 legacy pricing queries as dbt models with documented sources, freshness checks and schema validation, which cut dashboard refresh failures from weekly to a few per year.
-- Presents a monthly margin review to the VP of sales and six regional sales leaders, with a two page written summary sent ahead of each meeting.
+• Owns the margin leakage report, which splits the gap between list and pocket price into off-invoice allowances, freight, rebates and unapproved discounts across 14,000 SKUs.
+• Found $2.3 million in annualized leakage from expired promotional allowances still applied at invoice and worked with billing to close it within one quarter.
+• Designed a pre and post price change model in SQL that compares changed SKUs against matched control SKUs; the model has been used for every list price action since mid 2025.
+• Rebuilt 30 legacy pricing queries as dbt models with documented sources, freshness checks and schema validation, which cut dashboard refresh failures from weekly to a few per year.
+• Presents a monthly margin review to the VP of sales and six regional sales leaders, with a two page written summary sent ahead of each meeting.
 
 Pricing Analyst | Ridgeworth Brands Distribution, Columbus, OH | Nov 2022 to Feb 2025
-- Supported three annual price increases affecting roughly 6,000 SKUs, preparing customer price files and margin impact summaries in Excel and Power BI.
-- Built a Power BI dashboard tracking realized price against planned price by customer tier, now used by 40 account managers.
-- Analyzed volume response to a 2023 price increase on paper goods, showing that a 4 percent increase on private label items lost less volume than forecast and supporting a second round.
-- Merged 900 duplicate ship-to records in the pricing system after tracing several margin reporting errors back to the customer hierarchy.
+• Supported three annual price increases affecting roughly 6,000 SKUs, preparing customer price files and margin impact summaries in Excel and Power BI.
+• Built a Power BI dashboard tracking realized price against planned price by customer tier, now used by 40 account managers.
+• Analyzed volume response to a 2023 price increase on paper goods, showing that a 4 percent increase on private label items lost less volume than forecast and supporting a second round.
+• Merged 900 duplicate ship-to records in the pricing system after tracing several margin reporting errors back to the customer hierarchy.
 
 Sales Reporting Associate | Penderby Office Supply, Columbus, OH | Jul 2020 to Oct 2022
-- Prepared weekly sales and gross margin reports by branch and product line for a 60 person sales team.
-- Automated the monthly commission data pull with SQL and Power Query, shrinking a three day process to half a day.
-- Answered pricing and order history questions from sales reps with SQL Server queries, usually the same day.
-- Built an Excel tracker for vendor cost increases that showed the sales team which customer contracts needed repricing first.
+• Prepared weekly sales and gross margin reports by branch and product line for a 60 person sales team.
+• Automated the monthly commission data pull with SQL and Power Query, shrinking a three day process to half a day.
+• Answered pricing and order history questions from sales reps with SQL Server queries, usually the same day.
+• Built an Excel tracker for vendor cost increases that showed the sales team which customer contracts needed repricing first.
 
 EDUCATION
 {DEGREE_LINE}, 2020
@@ -34,5 +34,5 @@ BI and spreadsheets: Power BI (DAX, Power Query, row level security), advanced E
 Analysis: price elasticity estimates, pre and post comparisons with matched controls, margin bridges, rebate accruals
 
 ADDITIONAL
-- Microsoft Certified: Power BI Data Analyst Associate, 2023
-- Co-organizer of a quarterly Columbus analytics engineering meetup focused on dbt and warehouse modeling
+• Microsoft Certified: Power BI Data Analyst Associate, 2023
+• Co-organizer of a quarterly Columbus analytics engineering meetup focused on dbt and warehouse modeling

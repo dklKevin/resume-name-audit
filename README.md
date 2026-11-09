@@ -124,6 +124,7 @@ uv run ruff check
 - This tests base models, not the vendor products built on them, which add their own prompts, data and fine-tuning.
 - The resumes are generated and may not read like real applicants' writing.
 - Names are imperfect race signals, and gender is only implied by first names.
+- All three white female names share the first name Mary, and two of the three Black male names share Jermaine, because the validated names data has no other eligible first names for those groups.
 - One role and 40 resumes mean wide confidence intervals.
 - Models may still recognize the setup as a study; the probe reports how much.
 - Model versions change, so results are a snapshot as of the run date.

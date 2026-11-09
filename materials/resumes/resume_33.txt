@@ -6,26 +6,26 @@ Sales support coordinator at a software reseller with eight years of experience 
 
 EXPERIENCE
 Sales Support Coordinator | Bluecrest Software Partners, Columbus, OH | Mar 2021 to Present
-- Prepare 30 to 50 price quotes a week for software licenses, subscriptions and renewals using vendor price lists and the company quoting tool.
-- Enter orders into NetSuite and check each one against the signed quote before it goes to the distributor.
-- Update account, contact and opportunity records in Salesforce for a team of eight account managers.
-- Build weekly Excel pivot tables of quotes, bookings and renewals by account manager for the sales director's Monday meeting.
-- Pull Salesforce standard reports on pipeline and closed deals, then export the results to Excel to add charts for the sales team.
-- Track renewals coming due within 90 days in a shared spreadsheet and send reminders to account managers, which noticeably reduced lapsed renewals over the first year.
-- Maintain the vendor price list workbook, updating list prices and discount tiers each quarter.
-- Resolve order discrepancies with distributors and the finance team, usually pricing or quantity mismatches.
-- Cleaned up about 1,200 duplicate contact records in Salesforce during a CRM cleanup project.
-- Answer customer emails about order status, invoices and license counts, typically 20 to 30 a day.
+• Prepare 30 to 50 price quotes a week for software licenses, subscriptions and renewals using vendor price lists and the company quoting tool.
+• Enter orders into NetSuite and check each one against the signed quote before it goes to the distributor.
+• Update account, contact and opportunity records in Salesforce for a team of eight account managers.
+• Build weekly Excel pivot tables of quotes, bookings and renewals by account manager for the sales director's Monday meeting.
+• Pull Salesforce standard reports on pipeline and closed deals, then export the results to Excel to add charts for the sales team.
+• Track renewals coming due within 90 days in a shared spreadsheet and send reminders to account managers, which noticeably reduced lapsed renewals over the first year.
+• Maintain the vendor price list workbook, updating list prices and discount tiers each quarter.
+• Resolve order discrepancies with distributors and the finance team, usually pricing or quantity mismatches.
+• Cleaned up about 1,200 duplicate contact records in Salesforce during a CRM cleanup project.
+• Answer customer emails about order status, invoices and license counts, typically 20 to 30 a day.
 
 Customer Service Representative | Daywell Office Products, Columbus, OH | Jul 2018 to Feb 2021
-- Took phone and email orders from business customers for office supplies and furniture, about 60 orders a day.
-- Processed returns and credits in the order management system.
-- Kept a spreadsheet of backordered items and called customers with updated ship dates.
-- Kept customer account records current, updating billing addresses, tax exemption certificates and contact names.
-- Helped the warehouse lead log daily late shipments in a spreadsheet during the busy fall season.
-- Trained three new representatives on order entry and the returns process.
-- Logged customer complaints by category in a shared workbook so the customer service manager could see which product lines drew the most calls each month.
-- Filled in at the front reception desk during staff shortages, greeting visitors and routing calls.
+• Took phone and email orders from business customers for office supplies and furniture, about 60 orders a day.
+• Processed returns and credits in the order management system.
+• Kept a spreadsheet of backordered items and called customers with updated ship dates.
+• Kept customer account records current, updating billing addresses, tax exemption certificates and contact names.
+• Helped the warehouse lead log daily late shipments in a spreadsheet during the busy fall season.
+• Trained three new representatives on order entry and the returns process.
+• Logged customer complaints by category in a shared workbook so the customer service manager could see which product lines drew the most calls each month.
+• Filled in at the front reception desk during staff shortages, greeting visitors and routing calls.
 
 EDUCATION
 {DEGREE_LINE}, 2018
@@ -38,6 +38,6 @@ Office: Microsoft Word, Outlook, Teams, shared drive file organization
 Communication: distributor coordination, customer follow-up, written order notes
 
 ADDITIONAL
-- Microsoft Office Specialist certification in Excel, 2022
-- Completed a free online Excel for business course, 2023
-- Volunteer at a Columbus nonprofit thrift store, logging weekly donation counts by category
+• Microsoft Office Specialist certification in Excel, 2022
+• Completed a free online Excel for business course, 2023
+• Volunteer at a Columbus nonprofit thrift store, logging weekly donation counts by category

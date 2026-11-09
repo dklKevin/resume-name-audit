@@ -6,24 +6,24 @@ Business analyst at a property and casualty insurer, working between claims oper
 
 EXPERIENCE
 Business Analyst | Granitepoint Mutual Insurance, Columbus, OH | Jul 2022 to Present
-- Wrote requirements and acceptance criteria for 60+ Jira stories during the replacement of the auto claims system, working with a team of eight developers and two product owners.
-- Coordinated user acceptance sessions with 25 claims adjusters across three rounds, logging and triaging about 180 defects by severity and business impact.
-- Used SQL to compare claim, reserve and payment records between the old and new systems during data conversion, finding 2,100 claims with mismatched reserve amounts before go-live.
-- Mapped the first notice of loss process in Visio from phone intake through adjuster assignment, which the operations team used to remove two redundant handoffs.
-- Built an Excel tracker of open defects by severity and business area that the project manager used in weekly steering meetings.
-- Drafted the reporting requirements for six new claims operations reports after go-live, sitting with the reporting team to confirm field definitions and filters.
-- Ran short training walkthroughs for adjusters on the new claim intake screens, covering about 70 staff across four sessions.
+• Wrote requirements and acceptance criteria for 60+ Jira stories during the replacement of the auto claims system, working with a team of eight developers and two product owners.
+• Coordinated user acceptance sessions with 25 claims adjusters across three rounds, logging and triaging about 180 defects by severity and business impact.
+• Used SQL to compare claim, reserve and payment records between the old and new systems during data conversion, finding 2,100 claims with mismatched reserve amounts before go-live.
+• Mapped the first notice of loss process in Visio from phone intake through adjuster assignment, which the operations team used to remove two redundant handoffs.
+• Built an Excel tracker of open defects by severity and business area that the project manager used in weekly steering meetings.
+• Drafted the reporting requirements for six new claims operations reports after go-live, sitting with the reporting team to confirm field definitions and filters.
+• Ran short training walkthroughs for adjusters on the new claim intake screens, covering about 70 staff across four sessions.
 
 Associate Business Analyst | Granitepoint Mutual Insurance, Columbus, OH | Jul 2020 to Jun 2022
-- Documented current state workflows for the subrogation and salvage teams through interviews with 15 staff members.
-- Maintained the claims operations report catalog, a list of 90 recurring reports with owners, sources and refresh schedules.
-- Pulled monthly claim volume counts from the data warehouse using queries written by the reporting team, adjusting filters as requests changed.
-- Prepared meeting notes, decision logs and status updates for a claims portal enhancement project.
-- Built a simple Excel summary of portal adoption by month that the project sponsor shared with claims leadership.
+• Documented current state workflows for the subrogation and salvage teams through interviews with 15 staff members.
+• Maintained the claims operations report catalog, a list of 90 recurring reports with owners, sources and refresh schedules.
+• Pulled monthly claim volume counts from the data warehouse using queries written by the reporting team, adjusting filters as requests changed.
+• Prepared meeting notes, decision logs and status updates for a claims portal enhancement project.
+• Built a simple Excel summary of portal adoption by month that the project sponsor shared with claims leadership.
 
 Claims Operations Intern | Granitepoint Mutual Insurance, Columbus, OH | Jun 2019 to Aug 2019
-- Scanned and indexed claim files and updated a spreadsheet of aging claims for two claims supervisors.
-- Helped compile a summer report on average days to close by claim type.
+• Scanned and indexed claim files and updated a spreadsheet of aging claims for two claims supervisors.
+• Helped compile a summer report on average days to close by claim type.
 
 EDUCATION
 {DEGREE_LINE}, 2020
@@ -34,6 +34,6 @@ Data: SQL (SELECT, joins, GROUP BY, basic subqueries), Excel (pivot tables, VLOO
 Tools: Jira, Confluence, Visio, Guidewire ClaimCenter, SharePoint
 
 ADDITIONAL
-- IIBA Entry Certificate in Business Analysis (ECBA), 2021
-- Completed a self-paced SQL for business analysts course, 2025
-- Personal project: built a Power BI report on public county property sales data to practice data modeling and DAX
+• IIBA Entry Certificate in Business Analysis (ECBA), 2021
+• Completed a self-paced SQL for business analysts course, 2025
+• Personal project: built a Power BI report on public county property sales data to practice data modeling and DAX

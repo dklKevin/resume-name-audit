@@ -6,27 +6,27 @@ Office operations coordinator at a property management company that oversees 18 
 
 EXPERIENCE
 Office Operations Coordinator | Wexmoor Property Management, Columbus, OH | Apr 2021 to Present
-- Schedules maintenance, landscaping and cleaning vendors for 18 properties and keeps a shared calendar of recurring service visits.
-- Processes about 250 vendor invoices per month, matching each to a work order and coding it to the correct property and expense category before sending to accounting.
-- Prepares a weekly Excel report of open work orders by property and age, which the operations manager reviews every Monday.
-- Maintains a Microsoft Access database of vendor contacts, insurance certificates and contract end dates, with a simple query that lists certificates expiring in the next 60 days.
-- Created a monthly spending summary by property using pivot tables, which helped the company spot a landscaping contract billed twice for the same month.
-- Orders office supplies and tracks spending against the annual office budget of about $40,000.
-- Onboarded two new vendors for snow removal in 2023, collecting contracts and insurance documents and setting up recurring work orders.
-- Serves as the main contact for tenant maintenance calls when the property managers are out of the office.
-- Built a simple Excel chart of monthly work order counts by category for the 2025 annual review, which showed plumbing calls rising at two older buildings and supported a repair budget request.
-- Keeps the key log and access card records for all properties and audits the list against active vendor contracts each quarter.
+• Schedules maintenance, landscaping and cleaning vendors for 18 properties and keeps a shared calendar of recurring service visits.
+• Processes about 250 vendor invoices per month, matching each to a work order and coding it to the correct property and expense category before sending to accounting.
+• Prepares a weekly Excel report of open work orders by property and age, which the operations manager reviews every Monday.
+• Maintains a Microsoft Access database of vendor contacts, insurance certificates and contract end dates, with a simple query that lists certificates expiring in the next 60 days.
+• Created a monthly spending summary by property using pivot tables, which helped the company spot a landscaping contract billed twice for the same month.
+• Orders office supplies and tracks spending against the annual office budget of about $40,000.
+• Onboarded two new vendors for snow removal in 2023, collecting contracts and insurance documents and setting up recurring work orders.
+• Serves as the main contact for tenant maintenance calls when the property managers are out of the office.
+• Built a simple Excel chart of monthly work order counts by category for the 2025 annual review, which showed plumbing calls rising at two older buildings and supported a repair budget request.
+• Keeps the key log and access card records for all properties and audits the list against active vendor contracts each quarter.
 
 Leasing Assistant | Wexmoor Property Management, Columbus, OH | Aug 2019 to Mar 2021
-- Answered leasing calls and emails, scheduled tours and entered rental applications into AppFolio.
-- Updated the weekly vacancy list in Excel for the leasing manager, including days vacant and advertised rent.
-- Filed lease documents and kept resident move-in and move-out checklists up to date.
-- Sent renewal reminder letters 90 and 60 days before lease end and tracked responses in a spreadsheet.
+• Answered leasing calls and emails, scheduled tours and entered rental applications into AppFolio.
+• Updated the weekly vacancy list in Excel for the leasing manager, including days vacant and advertised rent.
+• Filed lease documents and kept resident move-in and move-out checklists up to date.
+• Sent renewal reminder letters 90 and 60 days before lease end and tracked responses in a spreadsheet.
 
 Office Assistant (part time) | Quarry Lane Insurance Agency, Columbus, OH | Sep 2017 to May 2019
-- Answered phones, scanned policy documents and updated client contact records.
-- Kept a spreadsheet log of incoming mail and payments for the office manager.
-- Helped convert paper client files to the agency's document system, indexing about 1,500 files over one summer.
+• Answered phones, scanned policy documents and updated client contact records.
+• Kept a spreadsheet log of incoming mail and payments for the office manager.
+• Helped convert paper client files to the agency's document system, indexing about 1,500 files over one summer.
 
 EDUCATION
 {DEGREE_LINE}, 2019
@@ -37,5 +37,5 @@ Property systems: AppFolio, vendor scheduling calendars, invoice coding
 Other: vendor communication, budget tracking, record keeping, document control
 
 ADDITIONAL
-- Earned an Excel Expert badge through an online course, 2024
-- Volunteer with a Columbus neighborhood cleanup group, keeping the sign-up sheet and supply counts for monthly events
+• Earned an Excel Expert badge through an online course, 2024
+• Volunteer with a Columbus neighborhood cleanup group, keeping the sign-up sheet and supply counts for monthly events

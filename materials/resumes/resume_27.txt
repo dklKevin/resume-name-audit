@@ -6,22 +6,22 @@ Marketing analyst at a regional credit card processor, measuring lead generation
 
 EXPERIENCE
 Marketing Analyst | Tidewell Payments, Columbus, OH | Feb 2023 to Present
-- Own monthly reporting on the merchant acquisition funnel, from website lead through signed processing agreement, for a sales team of 28 account executives.
-- Built three Tableau dashboards for marketing leadership covering lead volume by channel, cost per signed merchant and sales follow-up speed, using HubSpot and Salesforce exports prepared in Excel.
-- Set up lead scoring rules in HubSpot with the sales operations manager and reviewed results each quarter. The share of high score leads that signed rose from 14 to 21 percent over a year.
-- Analyzed an email nurture pilot for restaurant and salon prospects against a holdout group and recommended expanding it after a 2.4 point lift in booked demos.
-- Reconcile campaign spend against invoices each month and produce the channel budget summary for the marketing director.
-- Started writing SQL queries against a read-only copy of the CRM database in 2025 to pull lead history that HubSpot reports could not join easily, with the data engineer reviewing each query.
-- Compared paid search, trade association sponsorships and referral partner leads on cost per signed merchant, which moved about $35,000 of annual spend from sponsorships into the referral program.
-- Answer weekly questions from regional sales managers about lead counts and follow-up times, usually by email with a short table and one or two sentences of explanation.
+• Own monthly reporting on the merchant acquisition funnel, from website lead through signed processing agreement, for a sales team of 28 account executives.
+• Built three Tableau dashboards for marketing leadership covering lead volume by channel, cost per signed merchant and sales follow-up speed, using HubSpot and Salesforce exports prepared in Excel.
+• Set up lead scoring rules in HubSpot with the sales operations manager and reviewed results each quarter. The share of high score leads that signed rose from 14 to 21 percent over a year.
+• Analyzed an email nurture pilot for restaurant and salon prospects against a holdout group and recommended expanding it after a 2.4 point lift in booked demos.
+• Reconcile campaign spend against invoices each month and produce the channel budget summary for the marketing director.
+• Started writing SQL queries against a read-only copy of the CRM database in 2025 to pull lead history that HubSpot reports could not join easily, with the data engineer reviewing each query.
+• Compared paid search, trade association sponsorships and referral partner leads on cost per signed merchant, which moved about $35,000 of annual spend from sponsorships into the referral program.
+• Answer weekly questions from regional sales managers about lead counts and follow-up times, usually by email with a short table and one or two sentences of explanation.
 
 Marketing Coordinator | Tidewell Payments, Columbus, OH | Aug 2020 to Jan 2023
-- Scheduled and launched email campaigns, webinars and trade show follow-up sequences in HubSpot for a merchant base of about 9,000 small businesses.
-- Kept the campaign calendar and tracked open, click and registration rates in a shared Excel workbook.
-- Cleaned the HubSpot contact database before a CRM integration, merging about 6,500 duplicate records.
-- Built the first monthly marketing report for the director, which grew into the analyst role.
-- Coordinated booth logistics and lead capture for eight industry trade shows a year, then loaded and tagged the scanned leads within two days of each event.
-- Wrote the monthly email performance recap for the marketing director, comparing each send with the prior three months and noting which subject lines and offers drew the most demo requests.
+• Scheduled and launched email campaigns, webinars and trade show follow-up sequences in HubSpot for a merchant base of about 9,000 small businesses.
+• Kept the campaign calendar and tracked open, click and registration rates in a shared Excel workbook.
+• Cleaned the HubSpot contact database before a CRM integration, merging about 6,500 duplicate records.
+• Built the first monthly marketing report for the director, which grew into the analyst role.
+• Coordinated booth logistics and lead capture for eight industry trade shows a year, then loaded and tagged the scanned leads within two days of each event.
+• Wrote the monthly email performance recap for the marketing director, comparing each send with the prior three months and noting which subject lines and offers drew the most demo requests.
 
 EDUCATION
 {DEGREE_LINE}, 2020
@@ -33,6 +33,6 @@ Visualization: Tableau Desktop (three published dashboards)
 Communication: monthly written campaign summaries, budget reviews with marketing leadership
 
 ADDITIONAL
-- Completed an online SQL for data analysis course with a final project on campaign attribution, 2024
-- HubSpot Marketing Hub Software Certification, 2022
-- Volunteer at a Columbus nonprofit job resource center, helping visitors build simple budgeting spreadsheets
+• Completed an online SQL for data analysis course with a final project on campaign attribution, 2024
+• HubSpot Marketing Hub Software Certification, 2022
+• Volunteer at a Columbus nonprofit job resource center, helping visitors build simple budgeting spreadsheets

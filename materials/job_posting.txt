@@ -19,7 +19,7 @@ What we are looking for
 - Three or more years of experience in a data analyst, reporting analyst or similar role.
 - Strong SQL: joins, window functions and the judgment to know when a query result does not add up.
 - Advanced Excel and hands-on experience with a BI tool (Power BI preferred, Tableau or Looker welcome).
-- A bachelor's degree in statistics, economics, mathematics, computer science or a related quantitative field.
+- A bachelor's degree in statistics, economics, mathematics, computer science or a related quantitative field, or equivalent practical experience.
 - Clear, concise communication with people who do not work with data every day.
 
 Nice to have

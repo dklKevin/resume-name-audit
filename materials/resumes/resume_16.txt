@@ -6,24 +6,24 @@ Retail operations analyst with more than a decade in large format stores, includ
 
 EXPERIENCE
 Operations Analyst | Summit Ridge Outfitters, Columbus, OH | May 2025 to Present
-- Produce weekly store scorecards for 52 locations covering sales to plan, conversion, units per transaction, labor hours and shrink; built first in Excel, with a Power BI version rolled out to district managers in 2026.
-- Write SQL against the company's SQL Server warehouse for ad hoc requests from merchandising and store operations, mostly joins and aggregations; currently learning window functions for week over week comparisons.
-- Investigated an overstock problem in seasonal outerwear and showed that allocation still used prior year sales at stores that had since lost floor space. The allocation team adjusted quantities for 14 stores.
-- Built a markdown tracking workbook that matches clearance price changes to sell-through by store, used in the post season review.
-- Act as the link between the analytics team and store managers, turning field requests into clear report requirements.
+• Produce weekly store scorecards for 52 locations covering sales to plan, conversion, units per transaction, labor hours and shrink; built first in Excel, with a Power BI version rolled out to district managers in 2026.
+• Write SQL against the company's SQL Server warehouse for ad hoc requests from merchandising and store operations, mostly joins and aggregations; currently learning window functions for week over week comparisons.
+• Investigated an overstock problem in seasonal outerwear and showed that allocation still used prior year sales at stores that had since lost floor space. The allocation team adjusted quantities for 14 stores.
+• Built a markdown tracking workbook that matches clearance price changes to sell-through by store, used in the post season review.
+• Act as the link between the analytics team and store managers, turning field requests into clear report requirements.
 
 Store Manager | Summit Ridge Outfitters, Columbus, OH | Apr 2019 to Apr 2025
-- Ran a 38,000 square foot store with about $14 million in annual sales and a team of 45 full and part time employees.
-- Beat the sales plan by 9% in 2023 after reworking the front of store seasonal layout based on item level sales and margin reports.
-- Cut shrink from 2.1% to 1.3% of sales over two years through cycle count discipline, receiving audits and loss reviews with district asset protection.
-- Built an Excel tool for weekly labor scheduling against forecasted traffic, later adopted by four nearby stores.
-- Managed replenishment exceptions and vendor direct deliveries for the camping, footwear and outerwear departments.
-- Hired and trained five department leads, two of whom went on to run stores.
+• Ran a 38,000 square foot store with about $14 million in annual sales and a team of 45 full and part time employees.
+• Beat the sales plan by 9% in 2023 after reworking the front of store seasonal layout based on item level sales and margin reports.
+• Cut shrink from 2.1% to 1.3% of sales over two years through cycle count discipline, receiving audits and loss reviews with district asset protection.
+• Built an Excel tool for weekly labor scheduling against forecasted traffic, later adopted by four nearby stores.
+• Managed replenishment exceptions and vendor direct deliveries for the camping, footwear and outerwear departments.
+• Hired and trained five department leads, two of whom went on to run stores.
 
 Assistant Store Manager | Summit Ridge Outfitters, Columbus, OH | Jul 2015 to Mar 2019
-- Led receiving, stocking and price change execution for a store carrying 30,000 SKUs.
-- Prepared the weekly sales recap and payroll reports for the store manager and district office.
-- Coordinated two full store remodels, keeping the store open and on schedule.
+• Led receiving, stocking and price change execution for a store carrying 30,000 SKUs.
+• Prepared the weekly sales recap and payroll reports for the store manager and district office.
+• Coordinated two full store remodels, keeping the store open and on schedule.
 
 EDUCATION
 {DEGREE_LINE}, 2015
@@ -34,5 +34,5 @@ Retail operations: store P&L, labor scheduling, inventory replenishment, shrink 
 Systems: Oracle Retail, Blue Yonder workforce management, Microsoft 365
 
 ADDITIONAL
-- Completed an online SQL for data analysis course (2024) and the Microsoft Learn Power BI data analyst learning path (2025)
-- Volunteer at a Columbus nonprofit bike shop, tracking donated bikes and repair parts in a shared spreadsheet
+• Completed an online SQL for data analysis course (2024) and the Microsoft Learn Power BI data analyst learning path (2025)
+• Volunteer at a Columbus nonprofit bike shop, tracking donated bikes and repair parts in a shared spreadsheet
