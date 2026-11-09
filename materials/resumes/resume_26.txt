@@ -1,0 +1,40 @@
+{NAME}
+Columbus, OH | (614) 555-0126 | {EMAIL}
+
+SUMMARY
+Purchasing coordinator at a hardware and plumbing distributor, with eight years on the buying side and a long record of building the spreadsheets buyers rely on for pricing and vendor decisions. Recently completed a data analytics certificate and now uses beginner to intermediate SQL and Power BI alongside advanced Excel. Knows how hardware, fasteners and plumbing products are bought, priced and replenished, and wants to move from supporting buying decisions with spreadsheets to analyzing those decisions full time.
+
+EXPERIENCE
+Purchasing Coordinator | Tolliver Hardware Distributors, Columbus, OH | Mar 2021 to Present
+- Supports four buyers responsible for about 11,000 SKUs from 160 vendors, handling purchase orders, cost updates and vendor communication.
+- Built and maintains the vendor cost change workbook, which shows margin impact by SKU and customer price tier before each cost increase is accepted.
+- Created a monthly vendor fill rate and lead time report in Excel covering the top 40 vendors; buyers use it in annual vendor negotiations.
+- Started pulling purchase order history with SQL from the ERP reporting database in 2025, replacing a weekly export that often missed late receipts.
+- Built a small Power BI report showing open purchase orders by vendor and age for the purchasing manager.
+- Flagged 220 SKUs with conflicting units of measure between vendor files and the item master, and worked with IT on the corrections.
+- Compiled the data behind a 2024 decision to consolidate two plumbing fittings vendors, showing about $60,000 in annual cost savings at similar fill rates.
+
+Buyer's Assistant | Tolliver Hardware Distributors, Columbus, OH | Nov 2018 to Feb 2021
+- Entered and confirmed purchase orders for the fastener and hand tool categories, about 120 orders a week.
+- Tracked vendor promotions and rebate programs in a shared spreadsheet so buyers could time large orders.
+- Prepared a weekly overstock and slow mover list from ERP exports for buyer review.
+- Built a pricing template that calculated suggested sell prices from vendor cost and target margin, still used by the buying team.
+
+Inside Sales Representative | Tolliver Hardware Distributors, Columbus, OH | Jul 2014 to Oct 2018
+- Quoted and entered orders for 150 contractor and retail hardware store accounts.
+- Kept an Excel price list of special contract pricing that the sales team used for quotes.
+- Handled backorder follow-up with customers and the warehouse.
+- Answered daily product availability and lead time questions from contractors, which built a working knowledge of what moves in each season.
+
+EDUCATION
+{DEGREE_LINE}, 2014
+
+SKILLS
+Spreadsheets: advanced Excel (pivot tables, XLOOKUP, SUMIFS, nested IF logic, data validation, basic macros)
+Data and BI: SQL (SELECT, joins, GROUP BY, HAVING, beginning CTEs), Power BI (reports, basic DAX), Tableau Public (certificate projects)
+Systems: Infor SX.e ERP, EDI purchase order exchange, vendor portals
+Purchasing: vendor fill rate tracking, cost change review, rebate programs, reorder points
+
+ADDITIONAL
+- Google Data Analytics Professional Certificate, 2026
+- Certificate capstone: analyzed two years of public hardware store sales data in SQL and Tableau to identify seasonal demand patterns by product category

@@ -1,0 +1,35 @@
+{NAME}
+Columbus, OH | (614) 555-0110 | {EMAIL}
+
+SUMMARY
+Category data analyst at a building materials wholesaler with 22 branches, working every week with product managers on lumber, roofing, insulation and seasonal lines. Seven years of SQL, Power BI and Excel work on sales, margin and inventory, including the quarterly category reviews that decide what to add, drop or reprice. Understands how contractor demand, commodity costs and weather move building materials sales, and builds reports that account for all three.
+
+EXPERIENCE
+Category Data Analyst | Stonereach Builders Supply, Columbus, OH | Feb 2022 to Present
+- Prepares quarterly category reviews for five product managers covering 9,500 SKUs, combining sales, margin, vendor rebate and inventory turns data into one Power BI report per category.
+- Built the seasonal inventory planning workbook for lawn and garden, snow and ice melt, and patio lines from three years of weekly branch sales with weather adjusted baselines; season end overstock fell 18 percent in 2024.
+- Writes SQL against the company's Snowflake warehouse for ad hoc questions on product, branch and contractor account performance, roughly 30 requests a month.
+- Measured a 2023 controlled pilot of tiered contractor pricing on fasteners in six branches against six matched branches; the pilot added 2.1 margin points and was rolled out company wide.
+- Fixed product hierarchy problems after an ERP migration, reassigning 1,400 SKUs that had landed in the wrong subcategory and adding a weekly exception query to catch new ones.
+- Meets monthly with the replenishment team on stockout root causes, separating vendor fill rate problems from forecast misses in a short written summary.
+- Trained three branch operations staff to use the category Power BI reports, cutting routine data requests to the analytics inbox by about a quarter.
+
+Sales Analyst | Stonereach Builders Supply, Columbus, OH | Jun 2019 to Jan 2022
+- Owned weekly sales and gross margin reporting by branch and sales rep for regional directors.
+- Rebuilt the weekly flash report from a manual Excel file into Power BI, cutting Monday prep time from five hours to under one.
+- Tracked framing lumber price swings during 2020 and 2021, giving branch managers a weekly view of replacement cost against sell price so quotes kept pace with the market.
+- Pulled sales history and margin by vendor for 120 suppliers ahead of the annual line review.
+- Found that a contractor loyalty rebate was being paid on returned goods and documented the issue for finance, recovering about $85,000 in the first year.
+
+EDUCATION
+{DEGREE_LINE}, 2019
+
+SKILLS
+Querying: SQL (Snowflake, SQL Server), window functions, CTEs, data validation queries
+BI and spreadsheets: Power BI (DAX, Power Query, dataflows), advanced Excel (Power Pivot, pivot tables, INDEX MATCH, scenario models)
+Retail and distribution: category reviews, open to buy, vendor rebates, inventory turns, GMROI, seasonal buy planning
+Other tools: Epicor ERP, SharePoint, Python (pandas) for vendor file cleanup
+
+ADDITIONAL
+- Microsoft Certified: Power BI Data Analyst Associate, 2022
+- Volunteer materials coordinator for a Columbus home repair nonprofit, keeping the inventory spreadsheet for about 40 repair projects a year

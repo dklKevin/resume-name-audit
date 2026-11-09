@@ -1,0 +1,41 @@
+{NAME}
+Columbus, OH | (614) 555-0132 | {EMAIL}
+
+SUMMARY
+Assistant store manager at a consumer electronics retailer with ten years on the sales floor, first in sales and now running daily operations for a store with $11 million in annual sales. Tracks sales, attachment rates and staffing in Excel and reports weekly to the district office. Seeking a move into a reporting or analyst role in retail.
+
+EXPERIENCE
+Assistant Store Manager | Voltline Electronics, Columbus, OH | Apr 2020 to Present
+- Oversee daily operations, opening and closing procedures and a team of 28 sales, service and stock employees.
+- Track daily sales to goal by department (computing, mobile, TV and home theater, appliances) in an Excel workbook fed from the company's daily sales email, shared each morning with department supervisors.
+- Build the weekly staff schedule in Excel against the payroll budget and door counter traffic, keeping labor within 0.5% of budget for most of 2025.
+- Monitor protection plan and accessory attachment rates by employee and coach staff who fall below target; store attachment rate rose from 22% to 29% over two years.
+- Lead quarterly physical inventory preparation and daily cycle counts on high value items.
+- Prepare the weekly district call notes covering sales, staffing and shrink.
+- Handle customer escalations, returns approvals and price adjustment requests.
+- Compiled a monthly shrink summary in Excel from inventory adjustment printouts, sorted by category and SKU, which helped the district loss prevention lead target the 15 most stolen items for locked display.
+- Reconcile open orders and in-store pickup holds each week so customers are contacted before holds expire.
+- Coordinate holiday season staffing, hiring and onboarding 10 to 12 seasonal employees each year.
+- Covered as acting store manager for three months in 2024 while the position was vacant, keeping the store at 101% of its sales plan for the quarter.
+
+Sales Consultant | Voltline Electronics, Columbus, OH | Jul 2016 to Mar 2020
+- Sold computers, tablets and home theater systems, averaging 112% of personal sales goal over three years.
+- Kept a personal Excel log of sales and customer follow ups that later became a template for the department.
+- Trained new hires on the point of sale system and product knowledge.
+- Named the store's top seller of protection plans in 2018 and 2019.
+- Set up weekly merchandising resets from corporate planograms.
+- Helped the department supervisor count open box and display inventory each month and record the results in a shared Excel file.
+- Answered product questions on the store's phone line and processed online order pickups during evening shifts.
+
+EDUCATION
+{DEGREE_LINE}, 2016
+
+SKILLS
+Software: Excel (pivot tables, SUMIFS, charts, conditional formatting), Google Sheets, Microsoft Outlook
+Retail systems: point of sale, inventory lookup, Kronos scheduling
+Retail operations: scheduling, sales coaching, inventory counts, merchandising resets, customer service
+
+ADDITIONAL
+- Excel Skills for Business specialization (Coursera), 2023
+- Volunteer at a Columbus electronics recycling drive, sorting donated devices and logging counts by type in a shared spreadsheet
+- Completed the company's assistant manager development program, including modules on store P&L basics and inventory control, 2020

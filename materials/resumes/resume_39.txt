@@ -1,0 +1,41 @@
+{NAME}
+Columbus, OH | (614) 555-0139 | {EMAIL}
+
+SUMMARY
+Data entry specialist at an independent insurance agency, keying policy, claim and customer records with a 99.7 percent accuracy rate on quarterly quality audits. Works in Excel every day to track renewals and missing documents for the agents. Seeking an entry point into analysis work where accuracy and organization matter, and building spreadsheet skills toward that goal.
+
+EXPERIENCE
+Data Entry Specialist | Wrenfield Insurance Agency, Columbus, OH | Mar 2023 to Present
+- Enter new auto, home and small business policy applications into the agency management system, averaging about 120 records a day.
+- Scan, index and file signed documents, endorsements and claim forms so agents can pull up any file by policy number.
+- Keep an Excel list of upcoming renewals for three agents, with conditional formatting that highlights policies expiring within 30 days.
+- Run a weekly report from the agency system showing policies missing signatures or inspection photos, and send reminders to the responsible agent.
+- Correct duplicate customer records found during monthly audits, about 40 a month.
+- Help train two new office staff on data entry steps and document naming rules, and wrote a one page checklist the office still uses for new hires.
+- Reconcile the daily list of policy changes from two carriers against the agency system and fix mismatched effective dates or premium amounts.
+- Converted roughly 3,000 paper customer files into scanned records during a 2024 office move, checking each against the system for matching names and policy numbers.
+- Update carrier commission statements in a spreadsheet each month so the office manager can compare paid amounts with expected amounts.
+- Answer phone questions from customers about document status and forward coverage questions to the assigned agent.
+- Built a pivot table in 2025 that counts new policies by line of business and month, which the agency owner now asks for before each quarterly sales meeting.
+- Order supplies and keep the shared office calendar up to date for six staff.
+
+Front Desk Receptionist | Tamarack Dental Care, Columbus, OH | Aug 2022 to Feb 2023
+- Checked in patients, verified insurance information and updated contact details in the scheduling system.
+- Confirmed appointments by phone and text and kept the daily schedule current for four dental providers.
+- Entered payments and copays and balanced the front desk cash drawer at the end of each day.
+- Kept a simple Excel log of cancellations and no-shows that the office manager reviewed each month.
+- Called patients with unpaid balances over 60 days and noted payment plans in the billing system.
+
+EDUCATION
+{DEGREE_LINE}, 2022
+
+SKILLS
+Software: Microsoft Excel (sorting, filters, conditional formatting, simple formulas, basic pivot tables), Word, Outlook
+Systems: Applied Epic agency management system, document scanning and indexing, Dentrix scheduling
+Data entry: about 70 words per minute, 10-key, record auditing and correction
+Working style: careful proofreading, organized filing, follow-up with agents on missing paperwork
+
+ADDITIONAL
+- Licensed property and casualty insurance agent, 2024
+- Completed an online introduction to Excel data analysis course, 2025
+- Volunteer at a Columbus public library branch, helping patrons with computer basics during weekly open lab hours

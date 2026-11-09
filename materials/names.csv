@@ -1,0 +1,13 @@
+name,first,last,race,gender,degree_swap,mean_correct,avg_income,avg_education,avg_citizenship
+Tamika Jackson,Tamika,Jackson,Black,F,yes,0.8644,1.8814,2.0508,0.9661
+Latonya Williams,Latonya,Williams,Black,F,no,0.8088,1.8382,1.8824,0.9412
+Latasha Burke,Latasha,Burke,Black,F,no,0.8065,1.8065,1.9016,0.9194
+Jermaine Wood,Jermaine,Wood,Black,M,yes,0.7460,1.7778,1.7619,0.9841
+Jermaine Jackson,Jermaine,Jackson,Black,M,no,0.7424,1.8788,1.9545,0.9545
+Darnell Williams,Darnell,Williams,Black,M,no,0.6923,1.8769,2.0308,0.9538
+Mary Meyer,Mary,Meyer,white,F,yes,0.9111,1.8222,1.9111,0.9778
+Mary Ryan,Mary,Ryan,white,F,no,0.8842,1.9043,1.9263,0.9789
+Mary Snyder,Mary,Snyder,white,F,no,0.8482,1.8839,1.9643,0.9464
+Thomas Snyder,Thomas,Snyder,white,M,yes,0.9048,1.9405,2.0595,0.9762
+David Ryan,David,Ryan,white,M,no,0.8857,1.9429,2.0000,0.9714
+Michael Meyer,Michael,Meyer,white,M,no,0.8155,1.9126,1.9510,0.9612

@@ -1,0 +1,36 @@
+{NAME}
+Columbus, OH | (614) 555-0115 | {EMAIL}
+
+SUMMARY
+Digital analyst at a marketing agency with two and a half years producing monthly performance reporting, currently for a book of nine client accounts. Builds Looker Studio dashboards on GA4, ad platform and BigQuery data, and writes the plain-language recaps that account managers send to clients. Aiming to move from campaign reporting into broader business analytics with sales and inventory data.
+
+EXPERIENCE
+Digital Analyst | Ninebark Digital, Columbus, OH | May 2024 to Present
+- Prepare monthly and quarterly performance reports for nine clients, including a 12 location furniture retailer, a dental group and a heating and cooling contractor, covering paid search, paid social, email and organic traffic.
+- Built 14 client dashboards in Looker Studio that combine GA4, Google Ads, Meta Ads and Mailchimp data, ending most of the screenshot decks the account team had been assembling by hand.
+- Write basic to intermediate SQL in BigQuery against the GA4 export to pull session, conversion and landing page data that the standard interface samples or hides. Currently working through window functions for path analysis.
+- Ran a six week geo holdout for the furniture client that paused branded search in two markets. Incremental leads came to about 8 percent of what the platform reported, and the client moved $4,000 a month to non-branded terms.
+- Reconcile conversion counts when platform totals disagree with CRM leads, and keep a running issues log that account managers use to explain gaps to clients.
+- Join quarterly business reviews with two larger clients to walk through results and answer questions about the numbers, usually alongside the account director.
+- Pulled online order and coupon redemption exports for the furniture retailer into Excel to compare promotion weeks against normal weeks, the first project at the agency that used sales data rather than ad platform data.
+
+Account Coordinator | Ninebark Digital, Columbus, OH | Sep 2021 to Apr 2024
+- Set up and checked paid search and social campaigns for more than 20 small business clients, including UTM tagging and conversion tracking.
+- Pulled weekly spend and lead counts into Excel and flagged pacing problems to account managers before budgets overran.
+- Moved client tracking from Universal Analytics to GA4 for 11 accounts in 2023, documenting each event and conversion mapping in a shared tracker.
+- Drafted the first version of the agency's monthly report template, which was later rebuilt in Looker Studio.
+- Handled invoice reconciliation for media spend across Google and Meta, catching about $2,600 in duplicate charges over one year.
+
+EDUCATION
+{DEGREE_LINE}, 2021
+
+SKILLS
+Analytics platforms: Google Analytics 4, Google Tag Manager, Google Ads, Meta Ads Manager, Mailchimp
+Data: Excel (pivot tables, XLOOKUP, conditional formatting), Google Sheets, BigQuery SQL (joins, aggregation, CTEs)
+Reporting: Looker Studio, Supermetrics connectors, scheduled PDF delivery
+Working style: written client recaps, issue logs, campaign documentation
+
+ADDITIONAL
+- Google Analytics Certification, 2024
+- Completed a self-paced intermediate SQL course with weekly practice problems, 2025
+- Volunteer at a Columbus animal shelter, updating adoption listings and weekly intake counts

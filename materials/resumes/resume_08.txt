@@ -1,0 +1,35 @@
+{NAME}
+Columbus, OH | (614) 555-0108 | {EMAIL}
+
+SUMMARY
+Sales and labor analyst for a 40-location restaurant group, responsible for the weekly forecast that sets staffing at every unit. Builds the Power BI reporting and Excel models that operations directors and finance use to plan labor, judge menu price moves and spot struggling locations early. Strong SQL, plus a habit of checking a surprising number against the source system before anyone acts on it.
+
+EXPERIENCE
+Senior Sales and Labor Analyst | Cobblestone Hospitality Group, Columbus, OH | Jan 2022 to Present
+- Built and maintain a weekly sales forecast for 40 locations across four restaurant brands using SQL Server, Excel and a Python seasonality model; location-week forecast error fell from 11.2% to 6.4% MAPE.
+- Designed the labor scheduling model that converts forecasted covers by daypart into recommended hours by station. All general managers adopted it in 2023, and labor cost dropped from 31.5% to 29.8% of sales with no decline in guest satisfaction scores.
+- Led three rounds of menu price change analysis, comparing pilot locations against matched control locations on traffic, check average and item mix. Recommended holding prices on two value items after the pilot showed a 4% traffic drop at suburban units.
+- Own the Power BI sales and labor dashboard used by 12 directors and the executive team, refreshed nightly from Toast POS and 7shifts exports landed in Snowflake.
+- Chase down weekly anomalies such as missing POS batches, voided check spikes and gift card redemptions coded as sales, and document each fix with IT and accounting.
+- Write a two page monthly summary of sales drivers for the operating review, plus a short note to each brand president when a location misses forecast by more than 8% two weeks running.
+- Sized a third party delivery commission change by modeling order volume, average ticket and packaging cost by location, which supported renegotiating the rate at the 15 highest volume units.
+
+Sales and Labor Analyst | Cobblestone Hospitality Group, Columbus, OH | Aug 2018 to Dec 2021
+- Took over a weekly flash report spread across 30 linked spreadsheets and rebuilt it as SQL views feeding one Power BI report, saving about 10 analyst hours per week.
+- Built a food cost variance report comparing theoretical to actual usage by location, which surfaced portioning and waste problems at five units.
+- Supported reopening plans in 2020 and 2021 with daily sales and staffing tracking as dining rooms moved through capacity limits.
+- Created location profit and loss bridges for quarterly reviews with regional directors.
+- Mapped 1,100 POS menu items to a consistent category hierarchy so item mix could be compared across brands.
+
+EDUCATION
+{DEGREE_LINE}, 2018
+
+SKILLS
+SQL: SQL Server, Snowflake, CTEs, window functions, stored procedures
+BI and spreadsheets: Power BI (DAX, Power Query), Excel (forecast models, data tables, Solver, macros)
+Analysis: Python (pandas, Prophet), time series forecasting, pilot design, price elasticity
+Systems: Toast POS, 7shifts, Restaurant365
+
+ADDITIONAL
+- Microsoft Certified Power BI Data Analyst (PL-300), 2023
+- Volunteer at a Columbus food bank, maintaining the donation intake spreadsheet and the monthly pounds distributed report

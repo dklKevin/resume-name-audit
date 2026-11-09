@@ -1,0 +1,33 @@
+Data Analyst, Merchandising Analytics
+Halvorsen Home Supply | Columbus, OH (hybrid, three days a week in our Polaris office)
+
+About us
+Halvorsen Home Supply is a regional home improvement retailer with 64 stores across Ohio, Indiana, Kentucky and western Pennsylvania, plus a growing online business. Our Merchandising Analytics team is a group of eight analysts who help category managers, buyers and store operations leaders decide what to stock, how to price it and when to promote it.
+
+The role
+We are hiring a Data Analyst to own weekly sales, margin and inventory reporting for two of our largest departments, building materials and seasonal. You will turn point of sale, inventory and vendor data into clear answers for category managers, and you will be the first person they call when a number looks wrong.
+
+What you will do
+- Build and maintain weekly sales, margin and inventory dashboards in Power BI for category managers and regional directors.
+- Write SQL against our Snowflake data warehouse to answer ad hoc questions about product, store and promotion performance.
+- Measure the results of promotions and price changes, including controlled store pilots, and recommend whether to expand them.
+- Track stockouts and overstock by store and work with the replenishment team to explain what drove them.
+- Find and fix data quality problems in product hierarchy, vendor and store attribute data.
+- Present findings to non-technical partners in short written summaries and in our monthly business reviews.
+
+What we are looking for
+- Three or more years of experience in a data analyst, reporting analyst or similar role.
+- Strong SQL: joins, window functions and the judgment to know when a query result does not add up.
+- Advanced Excel and hands-on experience with a BI tool (Power BI preferred, Tableau or Looker welcome).
+- A bachelor's degree in statistics, economics, mathematics, computer science or a related quantitative field.
+- Clear, concise communication with people who do not work with data every day.
+
+Nice to have
+- Python or R for analysis and automation.
+- Experience with retail, distribution or supply chain data.
+- Familiarity with Snowflake or another cloud data warehouse.
+
+What we offer
+- Salary range of $72,000 to $88,000, plus an annual bonus.
+- Medical, dental and vision coverage, a 401(k) with a 5 percent match and an employee discount.
+- Fifteen days of paid time off in your first year, plus paid holidays.

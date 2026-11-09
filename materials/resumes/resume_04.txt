@@ -1,0 +1,36 @@
+{NAME}
+Columbus, OH | (614) 555-0104 | {EMAIL}
+
+SUMMARY
+Ecommerce marketing analyst with seven years of experience turning web, email and order data into decisions about spend, merchandising and customer retention. Designs and reads controlled experiments, builds customer segments from purchase behavior, and maintains the attribution reporting a $90 million online apparel business uses to set weekly budgets. Writes BigQuery SQL and Python every day and explains the results to buyers and creative leads in plain terms.
+
+EXPERIENCE
+Ecommerce Marketing Analyst | Threadwell Apparel Co., Columbus, OH | Apr 2021 to Present
+- Own the weekly ecommerce performance pack (traffic, conversion, average order value, margin after returns), delivered in Looker to 30 merchandising, marketing and finance partners.
+- Designed and analyzed 45 controlled email and site experiments over three years, including holdout groups for promotional emails. A 2024 holdout showed one weekly discount email drove no incremental margin, and retiring it saved roughly $310,000 a year in markdown cost.
+- Built a purchase behavior segmentation in BigQuery and Python (recency, frequency, category mix, discount reliance) covering 1.4 million customers. The segments now set email cadence and feed the planning team's size curve and assortment work.
+- Rebuilt multi-touch attribution reporting after a cookie consent change cut tracked sessions by 18%, combining order level data with modeled channel weights so paid media decisions did not stall.
+- Compared sell-through by discount band across 2,200 styles in a markdown depth study; buyers used it to pull the second markdown on slow seasonal items forward by one week.
+- Joined weekly inventory snapshots to site sessions to flag high traffic styles running out of core sizes, giving the replenishment planner a Monday list of 20 to 40 reorder candidates.
+- Added dbt data quality checks on product catalog attributes (color family, fit, department) after mismatched hierarchy codes caused a month of misreported category sales.
+- Review queries and experiment plans for two junior analysts, and run a monthly office hour for merchants who want to self-serve in Looker.
+
+Marketing Reporting Specialist | Bellamy Direct, Columbus, OH | Jul 2019 to Mar 2021
+- Produced daily and weekly channel reports for a catalog and online retailer of home and gift products using SQL Server and Excel.
+- Automated a 14-tab Monday spend report with Python and scheduled SQL, cutting preparation time from six hours to under one.
+- Reconciled ad platform spend against finance invoices each month and flagged $48,000 in duplicate billing over one year.
+- Set up sample size calculations and the readout template for the first checkout page experiments, a template the team still uses.
+
+EDUCATION
+{DEGREE_LINE}, 2019
+
+SKILLS
+Data and querying: BigQuery SQL, SQL Server, window functions, dbt, Google Analytics 4
+Analysis: Python (pandas, statsmodels, SciPy), experiment design, power analysis, customer segmentation, regression
+Reporting: Looker, LookML, Excel (Power Query, pivot tables, XLOOKUP), Google Sheets
+Domain: ecommerce, apparel merchandising, email and paid media, markdown and promotion analysis
+
+ADDITIONAL
+- Google Cloud Certified Looker Business Analyst, 2022
+- Volunteer data support for a Columbus animal rescue, building a monthly adoptions and foster capacity dashboard in Looker Studio
+- Speaker at a local analytics meetup on reading holdout results without overstating the effect size

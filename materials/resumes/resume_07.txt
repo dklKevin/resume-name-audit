@@ -1,0 +1,35 @@
+{NAME}
+Columbus, OH | (614) 555-0107 | {EMAIL}
+
+SUMMARY
+Data analyst at a regional bank with nine years in lending operations and reporting. Inherited a backlog of manual monthly reports, automated most of it with Python and SQL, and now builds the Tableau dashboards that lending leadership uses in weekly pipeline meetings. Comfortable owning a number end to end, from the source table to the explanation in front of a committee.
+
+EXPERIENCE
+Data Analyst | Larkspur National Bank, Columbus, OH | Jun 2021 to Present
+- Built the loan pipeline dashboard in Tableau that tracks roughly 1,100 open commercial and consumer applications by stage, product, branch and loan officer. Regional lending managers review it every Monday, and it replaced a 30 page PDF packet.
+- Automated 22 monthly reports that two analysts had assembled by hand from core banking exports, using scheduled Python scripts and SQL views in the reporting database. Reporting close dropped from six business days to two.
+- Wrote 85 nightly data quality checks (missing collateral codes, mismatched rate types, maturity dates earlier than origination) that email the owning team when a rule fails. Open exceptions fell from about 1,400 to under 150 in eight months.
+- Analyzed mortgage pull-through after a pricing change and showed that approvals held steady while withdrawals rose in two branches, which led to a staffing fix instead of a rate rollback.
+- Reconcile call report loan balances to the general ledger each quarter with credit administration and finance, and prepare support files for internal audit.
+- Serve as the reporting contact for a 2025 loan origination system conversion, mapping 140 legacy fields to the new schema and signing off on parallel run results.
+
+Credit Operations Reporting Analyst | Larkspur National Bank, Columbus, OH | Aug 2017 to May 2021
+- Produced daily and monthly reports on loan boarding volume, document exceptions and processing turnaround for a 45 person operations group.
+- Rewrote the department's largest Access queries in SQL against the data warehouse, cutting run time for the delinquency report from 40 minutes to under three.
+- Built an Excel staffing model for loan processing teams based on application forecasts, used by the operations manager in two annual budget cycles.
+- Documented definitions for 60 reporting fields after finding that two departments calculated days past due differently, then worked with both to agree on one rule.
+- Answered ad hoc requests from branch managers and the collections team, typically 10 to 15 a month, about past due balances, payoff volume and document backlog by branch.
+
+EDUCATION
+{DEGREE_LINE}, 2017
+
+SKILLS
+SQL: Microsoft SQL Server, CTEs, window functions, stored procedures, query tuning with execution plans
+Programming: Python (pandas, openpyxl, requests), Git for version control
+Visualization: Tableau Desktop and Server, Excel (Power Pivot, LET and LAMBDA formulas)
+Banking data: Fiserv core extracts, loan origination system data, call report schedules, general ledger mapping
+
+ADDITIONAL
+- Tableau Desktop Specialist, 2020
+- Co-organizer of a Columbus analytics meetup that hosts monthly talks on SQL and reporting automation
+- Volunteer tax preparation site coordinator, tracking appointment volume and return counts in a shared workbook each filing season

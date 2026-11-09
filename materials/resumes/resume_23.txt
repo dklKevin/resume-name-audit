@@ -1,0 +1,38 @@
+{NAME}
+Columbus, OH | (614) 555-0123 | {EMAIL}
+
+SUMMARY
+Survey analyst at a nonprofit policy research center, designing questionnaires, weighting results and writing reports for state agency clients. Seven years of applied quantitative work in SPSS and R, with limited SQL and no experience yet in a commercial setting. Interested in bringing careful survey and statistical methods into a business analytics team.
+
+EXPERIENCE
+Survey Analyst | Hollister Center for Public Policy Research, Columbus, OH | Jul 2021 to Present
+- Manage data analysis for four to six concurrent survey projects a year for state agencies, including a statewide transit rider survey, a workforce training follow-up study and a licensing board customer satisfaction survey.
+- Build sampling frames and weights in R (survey package) and SPSS, raking results to population benchmarks so agency reports reflect the people each program serves.
+- Wrote reusable R scripts for cleaning Qualtrics exports, coding open-ended responses and producing crosstabs, which cut report preparation time for a typical project from three weeks to about eight days.
+- Analyzed a mailed versus text message invitation pilot for the workforce study and showed that text invitations doubled response among program completers at roughly one third the cost.
+- Draft the methods and findings chapters of client reports, usually 40 to 80 pages, and prepare slide summaries for agency program directors.
+- Pull participant contact and enrollment records from agency data files and occasionally write simple SQL queries in the center's PostgreSQL database to join project tables.
+- Meet with agency project managers at kickoff and at each interim report to agree on question wording, sample sizes and deadlines, typically for budgets between $60,000 and $250,000.
+- Built a project tracking workbook in Excel that the center's five survey staff use to monitor fieldwork status, response rates and invoicing milestones.
+
+Research Assistant | Hollister Center for Public Policy Research, Columbus, OH | Jun 2019 to Jun 2021
+- Supported three project directors on studies for state health and transportation agencies.
+- Cleaned and merged administrative data files in SPSS, documenting every recode in a project codebook.
+- Ran descriptive statistics and regression models and built the tables and charts for interim reports.
+- Coordinated phone survey fieldwork with an outside call center, tracking daily completes against quotas in Excel.
+- Built a small Shiny app in R so project leads could check response rates by region during fieldwork.
+- Checked agency administrative files against survey sample lists and flagged about 1,200 records with outdated addresses before a mail wave.
+
+EDUCATION
+{DEGREE_LINE}, 2019
+
+SKILLS
+Statistical software: SPSS, R (tidyverse, survey, Shiny), Stata (reading and editing existing code)
+Survey tools: Qualtrics, REDCap, sampling and weighting, questionnaire design
+Data: Excel (pivot tables, lookups), basic SQL (SELECT, joins, GROUP BY) in PostgreSQL
+Reporting: Word and PowerPoint reports, ggplot2 charts, Tableau Public (personal projects)
+
+ADDITIONAL
+- Presented a poster on text message survey invitations at a public opinion research conference, 2024
+- Volunteer survey design help for a Columbus neighborhood association's annual resident survey
+- Working through an intermediate SQL course on window functions, 2026

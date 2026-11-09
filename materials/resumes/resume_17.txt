@@ -1,0 +1,40 @@
+{NAME}
+Columbus, OH | (614) 555-0117 | {EMAIL}
+
+SUMMARY
+Financial analyst in hospital FP&A with seven years of experience in budgeting, forecasting and variance analysis. Builds detailed Excel models that department leaders rely on every month, and has recently started writing SQL to pull data directly instead of waiting on scheduled reports. Looking to move from financial planning into operational analytics with more hands-on BI work.
+
+EXPERIENCE
+Financial Analyst, FP&A | Linden Park Medical Center, Columbus, OH | Jan 2022 to Present
+- Prepare monthly budget variance reports for 22 cost centers in surgery, imaging, laboratory and support services, about $310M in annual operating expense.
+- Built the department level annual budget model in Excel with driver tabs for patient volume, staffing and supply cost per case; finance leadership adopted it for the 2025 and 2026 budget cycles.
+- Write variance commentary for the CFO's monthly operating review and meet with department directors to walk through any line that moves more than 5 percent.
+- Pull general ledger and payroll detail from the financial data mart with basic SQL, mostly SELECT statements with simple joins and filters, written with help from the decision support team.
+- Use Tableau dashboards maintained by decision support for volume and labor data; made small edits to two existing workbooks to add cost center filters.
+- Modeled the cost impact of a proposed overtime policy change, showing about $1.1M in annual savings; the change was approved after review by nursing and HR leadership.
+- Partner with supply chain on a quarterly review of implant and surgical supply spend per case by surgical service, built in Excel from data mart extracts.
+- Support the annual capital budget by tracking 150 equipment requests, vendor quotes and approval status in a shared workbook.
+- Answer weekly questions from department managers about staffing variances and supply charges, usually by email with a short Excel attachment.
+- Rebuilt the rolling 12 month forecast template so that monthly updates take one day instead of three.
+
+Accounting Analyst | Arbor Surgical Supply, Columbus, OH | Jul 2019 to Dec 2021
+- Handled month end close tasks for a medical supply distributor: accruals, inventory reserve calculations and balance sheet reconciliations.
+- Built a gross margin by customer report in Excel that the sales director used in quarterly pricing conversations.
+- Reconciled inventory between the ERP and the warehouse management system each month and documented recurring timing differences.
+- Prepared freight cost analysis by carrier that supported renegotiation of two shipping contracts.
+- Assisted with the annual physical inventory count and the reconciliation of count variances.
+
+EDUCATION
+{DEGREE_LINE}, 2019
+
+SKILLS
+Excel: financial modeling, XLOOKUP and INDEX/MATCH, pivot tables, Power Query, scenario tables, basic macros
+Data: SQL (basic SELECT, joins, filters), Epic financial reports, Oracle ERP
+BI: Tableau (viewing and light edits), PowerPoint for executive summaries
+Finance: budgeting, forecasting, variance analysis, cost per case, month end close, account reconciliation
+Healthcare: payer mix, patient volume statistics, labor productivity reporting
+
+ADDITIONAL
+- Took a six week evening SQL class, 2024
+- Member of a local healthcare finance association chapter, attending monthly education sessions
+- Volunteer bookkeeping support for a neighborhood food pantry, preparing quarterly budget summaries

@@ -1,0 +1,36 @@
+{NAME}
+Columbus, OH | (614) 555-0111 | {EMAIL}
+
+SUMMARY
+Analyst with twelve years of experience building forecasts, dashboards and research briefs for executive teams in public education and community health. Writes SQL and R daily, publishes in Tableau, and spends as much care on the written explanation as on the model behind it. Ready to apply that rigor to retail sales, pricing and inventory questions.
+
+EXPERIENCE
+Lead Data Analyst | Alder Street Health Partners, Columbus, OH | Jul 2020 to Present
+- Lead analyst for a nonprofit network of 11 community health clinics serving about 68,000 active patients, reporting to the chief operating officer.
+- Built the executive operations dashboard in Tableau (visits, no-show rate, provider productivity, payer mix, days in accounts receivable), refreshed nightly from a SQL Server warehouse fed by the electronic health record.
+- Designed a controlled pilot of text message appointment reminders at four clinics with four matched comparison clinics. The difference-in-differences estimate showed a 3.1 point drop in no-shows, and the program expanded across the network in 2023.
+- Forecast monthly visit volume by clinic and service line in R for provider scheduling and the annual budget, with average error under 5 percent for three budget cycles.
+- Rebuilt patient attribution logic after finding that duplicate records inflated panel sizes by roughly 7 percent, and wrote the matching rules the data team still uses.
+- Review SQL and R code for two analysts and maintain the team's shared style guide and code repository.
+- Write a one page monthly operations brief for the board finance committee, translating clinic trends into two or three decisions for the coming month.
+- Worked with the revenue cycle team to trace a 9 day jump in days in accounts receivable to a payer file format change, then built a daily check on claim file record counts.
+
+Research Analyst | Glenmoor City Schools, Columbus, OH | Aug 2014 to Jun 2020
+- Produced the district's five-year enrollment forecast for 31 buildings using cohort survival ratios, housing permit data and kindergarten registration trends. The forecast informed a $90 million facilities plan and two boundary changes.
+- Built the first Tableau dashboards for the superintendent's cabinet covering attendance, course enrollment and staffing ratios, replacing a quarterly binder of printed tables.
+- Wrote SQL against the student information system and state reporting extracts to answer 15 to 25 ad hoc requests a month from principals and central office staff.
+- Assessed a reading intervention program with a matched comparison design and presented the results, limitations included, to the school board.
+- Fixed recurring errors in building and course codes that caused mismatches between district and state attendance figures.
+
+EDUCATION
+{DEGREE_LINE}, 2014
+
+SKILLS
+Languages: SQL (SQL Server, PostgreSQL), R (tidyverse, fable, MatchIt, R Markdown)
+Visualization: Tableau Desktop and Server, ggplot2, Excel (pivot tables, Power Query)
+Methods: time series forecasting, regression, matched comparison and difference-in-differences designs, survey weighting
+Practices: Git, code review, data dictionaries, short written research briefs
+
+ADDITIONAL
+- Volunteer instructor for a free introductory SQL workshop series at a Columbus public library branch
+- Speaker at a local data visualization meetup on designing dashboards for executive audiences

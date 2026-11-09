@@ -1,0 +1,39 @@
+{NAME}
+Columbus, OH | (614) 555-0112 | {EMAIL}
+
+SUMMARY
+Supply chain analyst at a manufacturer of replacement parts for kitchen appliances, focused on demand planning, supplier lead times and inventory levels across 18,000 active SKUs. Writes SQL and Python daily, builds Power BI reporting for planners and buyers, and turns inventory questions into specific stocking recommendations. The stockout, overstock and vendor data problems in this work map closely to retail replenishment.
+
+EXPERIENCE
+Supply Chain Analyst | Corbett Appliance Components, Columbus, OH | Mar 2020 to Present
+- Produce the monthly statistical forecast for 18,000 service part SKUs sold to distributors and online retailers, using SQL extracts from Epicor ERP and Python models; accuracy on the top 2,000 SKUs improved from 61% to 72%.
+- Built a supplier lead time analysis covering 140 vendors and four years of purchase order history. It showed quoted lead times understated actual lead times by an average of nine days for overseas suppliers, and planning parameters were reset to match.
+- Recommended new safety stock levels by SKU class using service level targets and demand variability; inventory fell $1.9 million while fill rate rose from 93.1% to 95.6%.
+- Maintain a Power BI inventory health report (weeks of supply, excess, obsolete, backorders) reviewed weekly by the planning manager and three buyers.
+- Rebuilt the product family hierarchy after a system migration left 2,600 parts with missing or wrong family codes.
+- Write short root cause notes on major shortages for customer service to share with the top distributor accounts.
+- Built a supplier on-time and fill rate scorecard in Power BI that procurement brings to quarterly business reviews with the 25 largest vendors; two chronically late suppliers were moved to dual sourcing.
+- Ran a controlled rollout of a new reorder point method on 400 SKUs in one product family before extending it, comparing backorders and inventory turns against a matched group still on the old settings.
+- Automated the weekly excess and obsolete report in Python, which had taken a planner most of each Monday to assemble by hand.
+
+Materials Planning Analyst | Corbett Appliance Components, Columbus, OH | Jun 2018 to Feb 2020
+- Ran weekly MRP exception reports and expedited purchase orders for 3,000 SKUs.
+- Built Excel models for supplier minimum order quantities and freight consolidation, saving about $85,000 a year in expedite charges.
+- Replaced manual ERP exports with a library of SQL queries, then shared the library with the planning team.
+
+Operations Intern | Westbury Packaging Solutions, Columbus, OH | May 2017 to Aug 2017
+- Measured changeover times on two packaging lines and summarized downtime causes in Excel for the plant manager.
+- Cleaned a 9,000 row bill of materials file ahead of an ERP upgrade.
+
+EDUCATION
+{DEGREE_LINE}, 2018
+
+SKILLS
+Data: SQL (SQL Server, Snowflake), Python (pandas, statsmodels, NumPy), Epicor ERP
+Reporting: Power BI (DAX, dataflows), Excel (Power Pivot, advanced formulas, VBA)
+Planning methods: demand forecasting, safety stock, ABC/XYZ classification, lead time variability, MRP
+
+ADDITIONAL
+- APICS Certified in Planning and Inventory Management (CPIM), 2022
+- Member, Association for Supply Chain Management (ASCM)
+- Built a volunteer inventory tracking workbook for a Columbus furniture donation warehouse

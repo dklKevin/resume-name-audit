@@ -1,0 +1,39 @@
+{NAME}
+Columbus, OH | (614) 555-0136 | {EMAIL}
+
+SUMMARY
+Personal banker at a community bank with five years of branch experience covering account openings, loan referrals and branch sales goals. Uses Excel to track referrals and goal progress for the branch, and recently finished an online SQL course. Interested in building on that start in an entry level data or reporting role.
+
+EXPERIENCE
+Personal Banker | Marlowe Community Bank, Columbus, OH | Oct 2023 to Present
+- Open checking, savings and certificate of deposit accounts and refer mortgage, auto and small business loan customers to lenders, averaging 34 new accounts a month.
+- Built an Excel tracker of branch referrals by employee and product that the branch manager now uses in weekly huddles; the branch moved from 9th to 4th of 16 branches in referral volume in 2025.
+- Reconcile monthly goal reports from the regional office against branch records and flag discrepancies, usually missing referral credits.
+- Review new account documentation for completeness before it goes to the operations center.
+- Resolve customer escalations such as disputed card charges and suspected fraud.
+- Cover the teller line and vault during staffing gaps.
+- Keep a monthly Excel summary of new accounts, closed accounts and average opening balances for the branch manager to bring to regional reviews.
+- Noticed that a third of new checking accounts went unfunded after 60 days and put together a simple follow up call list in Excel; funded rates improved over the following two quarters.
+- Help coordinate branch participation in quarterly product campaigns, such as certificate of deposit specials, and report weekly progress to the regional sales manager.
+- Complete annual compliance training on the Bank Secrecy Act, privacy and fraud prevention.
+
+Teller | Marlowe Community Bank, Columbus, OH | Jun 2021 to Sep 2023
+- Processed 120 to 180 transactions a day and balanced the cash drawer on 99% of shifts.
+- Served as backup vault teller and placed daily cash orders.
+- Recognized as branch teller of the quarter twice.
+- Passed product referrals to bankers when customer needs came up at the window, ranking first among the branch's five tellers in referrals during 2022.
+- Logged daily transaction counts by hour in a shared spreadsheet for three months, which the branch manager used to shift one teller's lunch break to the busier midday window.
+- Trained four new tellers on cash handling, endorsement checks and the core system's transaction screens.
+- Helped with the branch's quarterly audit preparation by pulling and organizing signature cards and account files.
+
+EDUCATION
+{DEGREE_LINE}, 2021
+
+SKILLS
+Software: Excel (pivot tables, SUMIFS, VLOOKUP, basic charts), Microsoft Word, Outlook
+Banking systems: Jack Henry SilverLake core, Salesforce referral tracking
+Data: SQL basics from an online course (SELECT, WHERE, GROUP BY, simple joins)
+
+ADDITIONAL
+- Completed an introductory SQL course online, writing practice queries on a sample sales database and a short final project summarizing monthly revenue by product line, 2026
+- Volunteer at a Columbus library branch, helping patrons set up household budget spreadsheets

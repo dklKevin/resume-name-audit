@@ -1,0 +1,43 @@
+{NAME}
+Columbus, OH | (614) 555-0121 | {EMAIL}
+
+SUMMARY
+Data analyst at an education nonprofit, two years into the analyst role after four years teaching math in grades 9 to 12 and three years coordinating program data. Works in R, SQL and Tableau to report on student outcomes for program staff, district partners and funders. Strongest at turning numbers into plain terms for audiences who do not work with data every day.
+
+EXPERIENCE
+Data Analyst | Lanternworks Education Partners, Columbus, OH | Nov 2024 to Present
+- Maintain Tableau dashboards on attendance, course completion and tutoring hours for 14 partner sites serving about 3,500 students.
+- Write SQL against the Postgres database behind the program management system to answer weekly questions from site directors.
+- Built an R script that cleans and merges quarterly attendance files from partner districts, replacing a manual process that took two days each quarter.
+- Analyzed results from a tutoring pilot by comparing participating students with similar non-participants on course pass rates; wrote a four page brief the board used when deciding to expand to three more sites.
+- Rebuilt the student identifier matching between the program system and district files, raising the match rate from 81 to 96 percent.
+- Meet monthly with program directors to walk through dashboard changes and collect new reporting requests.
+- Prepare the data sections of eight to ten grant reports a year and answer follow-up questions from funders.
+
+Program Data Coordinator | Lanternworks Education Partners, Columbus, OH | Aug 2021 to Oct 2024
+- Entered and checked enrollment and attendance records in Salesforce for after-school programs at nine sites.
+- Produced monthly Excel summaries of participation and retention for program managers.
+- Trained site staff on data entry standards, which cut missing attendance records from 12 percent to under 3 percent.
+- Set up a shared Excel attendance template that standardized date and ID formats across sites.
+- Started learning SQL and R through online courses and took over small reporting requests from the previous analyst.
+
+Math Teacher, Grades 9 to 12 | Ashbury Charter Network, Columbus, OH | Aug 2017 to Jun 2021
+- Taught algebra, geometry and introductory statistics to about 140 students per year.
+- Built gradebook and quiz score trackers in Excel and Google Sheets to spot students falling behind early in each unit.
+- Led quarterly data meetings for the math department, reviewing benchmark results with six colleagues and planning reteach groups.
+- Managed the department's online homework platform and reported weekly completion rates to the assistant principal.
+- Explained student progress at twice yearly conferences in clear, nontechnical terms.
+
+EDUCATION
+{DEGREE_LINE}, 2017
+
+SKILLS
+Analysis: R (tidyverse, ggplot2, R Markdown), comparison group analysis, descriptive statistics
+Data: SQL (Postgres, joins, aggregates, some window functions), Salesforce reports, Excel (pivot tables, XLOOKUP), Google Sheets
+Visualization: Tableau Desktop and Tableau Cloud
+Communication: grant report writing, board briefs, presenting to nontechnical audiences
+
+ADDITIONAL
+- Finished the SQL track on an online learning platform, 2022
+- Member of a local data analytics meetup
+- Volunteer at a public library homework help desk, one evening a week

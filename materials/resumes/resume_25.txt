@@ -1,0 +1,40 @@
+{NAME}
+Columbus, OH | (614) 555-0125 | {EMAIL}
+
+SUMMARY
+Reporting analyst at a credit union with about $2.4B in assets, three years into the role after starting in loan operations. Writes SQL and builds SSRS reports for compliance, lending and the leadership team, and has begun automating small tasks in Python. Strongest at accurate, repeatable reporting on regulatory deadlines, and comfortable handling data requests from auditors and examiners.
+
+EXPERIENCE
+Reporting Analyst | Harborstone Federal Credit Union, Columbus, OH | Nov 2023 to Present
+- Build and maintain 35 SSRS reports on loan originations, delinquency, deposit balances and member growth, delivered on fixed schedules to lending, finance and the executive team.
+- Write SQL Server queries for HMDA and quarterly call report data pulls, reconciling totals to the general ledger before each submission.
+- Handle 10 to 15 ad hoc requests a month from branch and lending managers, such as auto loan volume by dealer or certificate maturities by month.
+- Wrote a Python script with pandas that formats the monthly delinquency extract for the board packet, saving about three hours a month.
+- Found and corrected a join in a legacy report that double counted members with joint accounts and had overstated active membership by 4 percent.
+- Started a Power BI proof of concept for branch managers covering new accounts and loan referrals; it is now in use at four of 17 branches.
+- Built a monthly branch scorecard in Excel covering new memberships, loan applications and deposit growth, emailed to branch managers on the third business day.
+- Served as the reporting contact on the core banking system conversion, rewriting 12 reports against the new table structure and comparing outputs line by line for two months.
+- Document report logic and data sources in a shared wiki so other staff can answer routine questions.
+
+Loan Operations Specialist | Harborstone Federal Credit Union, Columbus, OH | Jul 2021 to Oct 2023
+- Processed auto and personal loan documents and checked data entry in the loan origination system, about 40 files a week.
+- Kept Excel trackers of funding times and document exceptions for the loan operations supervisor.
+- Helped the reporting team clean up loan purpose codes on 6,000 records, which led to the move into reporting.
+- Answered member and dealer questions about funding status by phone and email.
+- Pulled samples for quarterly loan file audits and checked documents against the review checklist.
+- Covered the member contact center during peak months, answering loan payment and payoff questions.
+
+EDUCATION
+{DEGREE_LINE}, 2021
+
+SKILLS
+SQL: SQL Server (joins, CTEs, aggregate queries, some window functions), stored procedures for report datasets
+Reporting: SSRS, Excel (pivot tables, XLOOKUP, conditional formatting), early Power BI work
+Programming: Python (pandas basics, scheduled scripts)
+Domain: consumer lending, deposit reporting, HMDA, NCUA call report, member data
+Tools: Visual Studio report projects, SharePoint, Jira for request tracking
+
+ADDITIONAL
+- Completed an online Power BI fundamentals course, 2025
+- Member of a local SQL Server user group
+- Volunteer at a free tax preparation site each spring, handling intake and data entry
