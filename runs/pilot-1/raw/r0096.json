@@ -1,0 +1,85 @@
+{
+ "run_id": "r0096",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T06:38:11Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 92, \"decision\": \"ADVANCE\", \"reason\": \"David is a Columbus-based candidate with over five years of relevant pricing and margin analysis experience, strong SQL and Power BI expertise, and direct experience working with retail/distribution data.\"}",
+   "input_tokens": 1354,
+   "output_tokens": 55,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 92, \"decision\": \"ADVANCE\", \"reason\": \"David is a Columbus-based candidate with over five years of relevant pricing and margin analysis experience, strong SQL and Power BI expertise, and direct experience working with retail/distribution data.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T1Fwb8LvI4syQMHGzXFMxbqowMc4DKCFfod2cYmUcxR1tbwn6_FBim6G6kBkfphsjHBlyFdNSjqJJsHOIM6F6hMh4IXHxt2B4UPdQW4E-CAA1V9cYh5nt_yeA8njHMKQLUb8=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "U2rxat3VM_Gbo_UPzqSB6AE",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 55,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1354,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1354
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1409,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 92,
+     "decision": "ADVANCE",
+     "reason": "David is a Columbus-based candidate with over five years of relevant pricing and margin analysis experience, strong SQL and Power BI expertise, and direct experience working with retail/distribution data."
+    }
+   }
+  }
+ ]
+}

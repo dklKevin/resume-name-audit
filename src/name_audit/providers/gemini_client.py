@@ -5,6 +5,7 @@ from typing import Any
 from google import genai
 from google.genai import errors, types
 
+from ..config import REASONING
 from .base import Completion, ProviderError
 
 RETRY_STATUS = [408, 429, 500, 502, 503, 504]
@@ -30,7 +31,9 @@ class GeminiProvider:
             system_instruction=system,
             response_mime_type="application/json",
             response_json_schema=schema["schema"],
-            thinking_config=types.ThinkingConfig(thinking_level=types.ThinkingLevel.MINIMAL),
+            thinking_config=types.ThinkingConfig(
+                thinking_level=types.ThinkingLevel(REASONING["gemini"].upper())
+            ),
         )
         try:
             response = self._client.models.generate_content(

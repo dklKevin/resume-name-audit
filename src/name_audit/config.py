@@ -14,6 +14,13 @@ MODELS = {
     "gemini": "gemini-3.6-flash",
 }
 
+# The lowest reasoning setting each model accepts. GPT-6 Luna rejects "minimal" (its
+# lowest value is "none"); Gemini 3.6 Flash accepts thinking level "minimal".
+REASONING = {
+    "openai": "none",
+    "gemini": "minimal",
+}
+
 # US dollars per million tokens (input, output), standard paid tier, used for spend limits.
 # Reasoning and thinking tokens bill as output. Gemini 3.6 Flash is $0.75 / $3.75 through
 # 2026-12-31 and $1.50 / $7.50 from 2027-01-01 (Google AI Studio pricing page, 2026-11-09).

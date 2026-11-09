@@ -1,0 +1,85 @@
+{
+ "run_id": "r0098",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T06:38:12Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 38, \"decision\": \"REJECT\", \"reason\": \"David lacks the required three years of professional data analyst experience and advanced technical skills like complex SQL and Power BI, despite his recent certificate and Excel work.\"}",
+   "input_tokens": 1327,
+   "output_tokens": 49,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 38, \"decision\": \"REJECT\", \"reason\": \"David lacks the required three years of professional data analyst experience and advanced technical skills like complex SQL and Power BI, despite his recent certificate and Excel work.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TxtaqLoMLSEG3TFGKahW0qBHFTrzjf161V8F9jvYApki0vHgDmAusu8wLoevJ6KtwYd_tgqFmxhmBomT27GBRAlUUJPQ3EMWZCCJX_znasWKbs7sskWY43l8IYkCpL7AvIH0=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "VGrxaqfhI5yhuMYP9fuxgQ8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 49,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1327,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1327
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1376,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 38,
+     "decision": "REJECT",
+     "reason": "David lacks the required three years of professional data analyst experience and advanced technical skills like complex SQL and Power BI, despite his recent certificate and Excel work."
+    }
+   }
+  }
+ ]
+}

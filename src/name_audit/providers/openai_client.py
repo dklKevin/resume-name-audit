@@ -4,6 +4,7 @@ from typing import Any
 
 import openai
 
+from ..config import REASONING
 from .base import Completion, ProviderError
 
 
@@ -22,7 +23,7 @@ class OpenAIProvider:
                     {"role": "system", "content": system},
                     {"role": "user", "content": user},
                 ],
-                reasoning={"effort": "minimal"},
+                reasoning={"effort": REASONING["openai"]},
                 text={
                     "format": {
                         "type": "json_schema",

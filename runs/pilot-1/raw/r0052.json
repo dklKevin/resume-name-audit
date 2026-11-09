@@ -1,0 +1,85 @@
+{
+ "run_id": "r0052",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T06:38:04Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 95, \"decision\": \"ADVANCE\", \"reason\": \"David is an exceptionally strong match with six years of retail analytics experience, advanced SQL/Power BI skills, Python proficiency, direct Snowflake experience, and a relevant B.S. in Statistics.\"}",
+   "input_tokens": 1389,
+   "output_tokens": 57,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 95, \"decision\": \"ADVANCE\", \"reason\": \"David is an exceptionally strong match with six years of retail analytics experience, advanced SQL/Power BI skills, Python proficiency, direct Snowflake experience, and a relevant B.S. in Statistics.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TkplcTRHE-VNZ4kj8gZyqpVgWueFXvVyINUcHEUZZ-9X_Zk9QwBceJSFc75lmMaeLaAoPozW2ovRay56JTAIGieno4icRAD0nagVpw4HExhhdgkT_-VygENvPn9JtlHC5Hjs=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "TGrxaq_EJNnJ0_gPupa3qQg",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 57,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1389,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1389
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1446,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 95,
+     "decision": "ADVANCE",
+     "reason": "David is an exceptionally strong match with six years of retail analytics experience, advanced SQL/Power BI skills, Python proficiency, direct Snowflake experience, and a relevant B.S. in Statistics."
+    }
+   }
+  }
+ ]
+}
