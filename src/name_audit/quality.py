@@ -430,7 +430,12 @@ def render(checks: list[Check]) -> str:
     for c in checks:
         lines.append(f"### {c.title}: {'PASS' if c.passed else 'FAIL'}")
         lines.append("")
+        previous_table = False
         for d in c.details:
-            lines.append(d if d.startswith("|") else f"- {d}")
+            table = d.startswith("|")
+            if table and not previous_table:
+                lines.append("")
+            lines.append(d if table else f"- {d}")
+            previous_table = table
         lines.append("")
     return "\n".join(lines)
