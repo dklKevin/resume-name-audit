@@ -1,0 +1,148 @@
+{
+ "run_id": "r2538",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:27:24Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":64,\"decision\":\"REJECT\",\"reason\":\"Strong retail context, quantitative degree, and hands-on reporting, automation, and promotion analysis are offset by limited analyst experience, entry-level SQL, no Power BI or cloud warehouse experience, and no clear evidence of advanced Excel or work at the role\u2019s scale.\"}",
+   "input_tokens": 1376,
+   "output_tokens": 74,
+   "error": null,
+   "response": {
+    "id": "resp_03bda0f2f87a3971016af2027cea3487d280d65d0e6f1595e7",
+    "access_programs": null,
+    "created_at": 1794245244.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_03bda0f2f87a3971016af2027da82487d28c41f5f8d0146d01",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":64,\"decision\":\"REJECT\",\"reason\":\"Strong retail context, quantitative degree, and hands-on reporting, automation, and promotion analysis are offset by limited analyst experience, entry-level SQL, no Power BI or cloud warehouse experience, and no clear evidence of advanced Excel or work at the role\u2019s scale.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794245246.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1376,
+     "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1373,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 74,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1450
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

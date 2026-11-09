@@ -1,0 +1,85 @@
+{
+ "run_id": "r0110",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:15:24Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"Jermaine has a relevant B.S. in Statistics and good SQL/Tableau skills, but he only has about 18 months of total reporting experience, falling short of the required three years in an analytics role.\"}",
+   "input_tokens": 1440,
+   "output_tokens": 65,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"Jermaine has a relevant B.S. in Statistics and good SQL/Tableau skills, but he only has about 18 months of total reporting experience, falling short of the required three years in an analytics role.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T3l4QMnDRySy_Q-serNsxwmjFACja49Nn6d9pDyS449_Vx1j7D1_KIqo6bu0UPhhh2BiT0q-wo8_a0lM-6DFeHOJbX51vaC_tL-7r0DmS4UQuHVC96Jm8yj2DyZ4bJfiGVXo=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "sP_xarP7H52niLMP8puwiQs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 65,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1440,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1440
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1505,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 52,
+     "decision": "REJECT",
+     "reason": "Jermaine has a relevant B.S. in Statistics and good SQL/Tableau skills, but he only has about 18 months of total reporting experience, falling short of the required three years in an analytics role."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r2364",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:46Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 68, \"decision\": \"ADVANCE\", \"reason\": \"While Mary has spent most of her career in sales operations rather than a dedicated data role and lacks BI tool experience (Power BI/Tableau), she holds a BS in Statistics, lives in Columbus, and demonstrates strong practical SQL, Excel, and promotional/margin analysis skills directly applicable to the job.\"}",
+   "input_tokens": 1461,
+   "output_tokens": 79,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 68, \"decision\": \"ADVANCE\", \"reason\": \"While Mary has spent most of her career in sales operations rather than a dedicated data role and lacks BI tool experience (Power BI/Tableau), she holds a BS in Statistics, lives in Columbus, and demonstrates strong practical SQL, Excel, and promotional/margin analysis skills directly applicable to the job.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TUT-87GhH1G_1g8otn2xE9e44P5vdALizKnv_oom6YCwSIkVbyk3wLUKLCvgr6neMByGMbikIQvdxhX5qXB4_hUmCxfcnQIXBGRxANNxmESO85jnDroFSJAgkb6wQVAk_6jE=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "VgLyaqOGMPudiLMPqfLJ4Ao",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 79,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1461,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1461
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1540,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 68,
+     "decision": "ADVANCE",
+     "reason": "While Mary has spent most of her career in sales operations rather than a dedicated data role and lacks BI tool experience (Power BI/Tableau), she holds a BS in Statistics, lives in Columbus, and demonstrates strong practical SQL, Excel, and promotional/margin analysis skills directly applicable to the job."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r2205",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:10Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a strong fit with relevant building materials domain knowledge, a BS in Statistics, local Columbus residency, and direct experience with Power BI, Excel, and SQL in Snowflake.\"}",
+   "input_tokens": 1336,
+   "output_tokens": 56,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a strong fit with relevant building materials domain knowledge, a BS in Statistics, local Columbus residency, and direct experience with Power BI, Excel, and SQL in Snowflake.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TEBhriqKf5XT4mozex2pcJqnhp1VtOqAduZ2H6oRbGfaL7BwB_RxW_XnTdT9IGFbWKYRxvm3oK152RbCVercUzKK-MC7yDDDXLX7R2COJ-B-b-fcnkCkBaa78t02PjH9EAeI=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "MgLyasjrGfy_ytMP2qO8oQM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 56,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1336,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1336
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1392,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "Jermaine is a strong fit with relevant building materials domain knowledge, a BS in Statistics, local Columbus residency, and direct experience with Power BI, Excel, and SQL in Snowflake."
+    }
+   }
+  }
+ ]
+}

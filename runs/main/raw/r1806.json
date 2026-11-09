@@ -1,0 +1,85 @@
+{
+ "run_id": "r1806",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:43Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 60,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Latasha lives locally and has a BS in Statistics and Power BI skills, her background is in municipal public finance rather than retail, and her SQL capabilities are self-described as basic.\"\n}",
+   "input_tokens": 1348,
+   "output_tokens": 65,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 60,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Latasha lives locally and has a BS in Statistics and Power BI skills, her background is in municipal public finance rather than retail, and her SQL capabilities are self-described as basic.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TtD21tq7CpdzuqncJ2vJtMAaPf_1INzK1RGx81TRjQFT1QPy90G5bDK_9jbY0li0ItvBocG8KpdhLDxy-MGlhR5pmO9G4EFMRdwNB_b_m-R6-NZZmWhTSgkFfyx7TqKpjENA=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "2wHyaozVONywytMPnKy6yQc",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 65,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1348,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1348
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1413,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 60,
+     "decision": "REJECT",
+     "reason": "While Latasha lives locally and has a BS in Statistics and Power BI skills, her background is in municipal public finance rather than retail, and her SQL capabilities are self-described as basic."
+    }
+   }
+  }
+ ]
+}

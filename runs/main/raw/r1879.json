@@ -1,0 +1,85 @@
+{
+ "run_id": "r1879",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:59Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 58,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary has a relevant BS in Statistics and recent hands-on SQL/Power BI experience in logistics, her primary career history is as a logistics coordinator rather than having the required 3+ years in a dedicated data analyst role.\"\n}",
+   "input_tokens": 1393,
+   "output_tokens": 73,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 58,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary has a relevant BS in Statistics and recent hands-on SQL/Power BI experience in logistics, her primary career history is as a logistics coordinator rather than having the required 3+ years in a dedicated data analyst role.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TV_NeOHWLbEZRV6ehgNCX-8a8hVfFZicFUgf65oA5UMOvxxE-nYMAKSF8UsMgtcH-n9faRryCxI2Ddw_UBPPsTNnyJJ1uhI0F0aAcjIPfbfXi31gICrXQs94ApJR4pKKpWk0=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "6wHyaqX_Mv3h0_gPmcqegAs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 73,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1393,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1393
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1466,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 58,
+     "decision": "REJECT",
+     "reason": "While Mary has a relevant BS in Statistics and recent hands-on SQL/Power BI experience in logistics, her primary career history is as a logistics coordinator rather than having the required 3+ years in a dedicated data analyst role."
+    }
+   }
+  }
+ ]
+}

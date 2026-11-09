@@ -1,0 +1,85 @@
+{
+ "run_id": "r2163",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:00Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 68, \"decision\": \"ADVANCE\", \"reason\": \"While Tamika holds an associate degree rather than the preferred quantitative bachelor's, she brings ten years of strong SQL, Python, data quality, and BI reporting experience locally in Columbus, making her a solid candidate to interview.\"}",
+   "input_tokens": 1347,
+   "output_tokens": 64,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 68, \"decision\": \"ADVANCE\", \"reason\": \"While Tamika holds an associate degree rather than the preferred quantitative bachelor's, she brings ten years of strong SQL, Python, data quality, and BI reporting experience locally in Columbus, making her a solid candidate to interview.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TkeJ3sS9tKJyqB-ZCa8wAXs9WcTpti6rvBg59bwb4iG0h_H1E9KosOpX6WoZnCptobB-0Hi5l80uz07TavTtwrD9UL19rgr0aFBtLUU03LCIkLAnDXtWEeG5yPFthbdesfug=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "KALyasaWNfiswbUP1r6GsQg",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 64,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1347,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1347
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1411,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 68,
+     "decision": "ADVANCE",
+     "reason": "While Tamika holds an associate degree rather than the preferred quantitative bachelor's, she brings ten years of strong SQL, Python, data quality, and BI reporting experience locally in Columbus, making her a solid candidate to interview."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r0142",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:15:53Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 65, \"decision\": \"REJECT\", \"reason\": \"While Thomas has relevant retail operations experience and is local to Columbus, he lacks the required bachelor's degree in a quantitative field and has only basic SQL experience compared to the strong SQL capabilities required for the role.\"}",
+   "input_tokens": 1312,
+   "output_tokens": 61,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 65, \"decision\": \"REJECT\", \"reason\": \"While Thomas has relevant retail operations experience and is local to Columbus, he lacks the required bachelor's degree in a quantitative field and has only basic SQL experience compared to the strong SQL capabilities required for the role.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Tg_VsLQkSTA7boySWpXuLXqRW92m1EFo2FqbPvtAyLheNbpVgbeE0sKrel48SP0mqyMYh4LH8GtCqC2PCvd-8LrNAS1Okj0rLSgZQLWZWRFmfqTpnxKZgPrfHk6Gk5hgLbl4=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "yv_xauHOKt_HiLMPpMi4iAs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 61,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1312,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1312
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1373,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 65,
+     "decision": "REJECT",
+     "reason": "While Thomas has relevant retail operations experience and is local to Columbus, he lacks the required bachelor's degree in a quantitative field and has only basic SQL experience compared to the strong SQL capabilities required for the role."
+    }
+   }
+  }
+ ]
+}

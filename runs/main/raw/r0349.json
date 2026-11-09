@@ -1,0 +1,85 @@
+{
+ "run_id": "r0349",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:17:06Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a Columbus local with a BS in Statistics and strong SQL/Python skills, plus relevant operational and supply chain analytical experience.\"}",
+   "input_tokens": 1356,
+   "output_tokens": 48,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a Columbus local with a BS in Statistics and strong SQL/Python skills, plus relevant operational and supply chain analytical experience.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TrwsOQMvB8g5w3Irw9_udTP7tt9lC5c2pRSDehnsn3KNS-z88UgFr7p5WQb4fFkKcl35protlucXQYNvoPJCnN_OrYt30U1hgUKZ49x--8hKQGiPa0GyGuQHuK4DBzMMUlvA=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "EwDyapqkE7OHiLMPvsDu8Qw",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 48,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1356,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1356
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1404,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Jermaine is a Columbus local with a BS in Statistics and strong SQL/Python skills, plus relevant operational and supply chain analytical experience."
+    }
+   }
+  }
+ ]
+}

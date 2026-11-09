@@ -1,0 +1,85 @@
+{
+ "run_id": "r0001",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:05:50Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 68,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"While his formal data analyst experience is light and SQL skills are recent, his strong retail background, BS in Statistics, local presence, and practical experience building district-wide Tableau and Excel tools make him a strong candidate to interview.\"\n}",
+   "input_tokens": 1508,
+   "output_tokens": 72,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 68,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"While his formal data analyst experience is light and SQL skills are recent, his strong retail background, BS in Statistics, local presence, and practical experience building district-wide Tableau and Excel tools make him a strong candidate to interview.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TLNs1Xr5GfgR_mpl-XK-ARuLQy1xZCWKNIC_Fjkc6g6uEQ6F1dH8a4eWaq02RuM0QNmfwOkFQ4BgOU8LOyjneACLgjrRZRU16woEAZ7wLofLhtPZNi5BccFKzaeA1s27DugU=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "df3xaq2KN8uzytMP8MHcsA8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 72,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1508,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1508
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1580,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 68,
+     "decision": "ADVANCE",
+     "reason": "While his formal data analyst experience is light and SQL skills are recent, his strong retail background, BS in Statistics, local presence, and practical experience building district-wide Tableau and Excel tools make him a strong candidate to interview."
+    }
+   }
+  }
+ ]
+}

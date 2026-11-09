@@ -1,0 +1,173 @@
+{
+  "models": {
+    "gemini": {
+      "provider": "gemini",
+      "models_seen": [
+        "gemini-3.6-flash"
+      ],
+      "resumes": 40,
+      "calls": 1280,
+      "failed_calls": 0,
+      "score_gap": {
+        "Black F": {
+          "estimate": 0.3156250000000007,
+          "low": -0.31354166666666644,
+          "high": 0.8864583333333348
+        },
+        "Black M": {
+          "estimate": -0.20104166666666626,
+          "low": -0.8520833333333337,
+          "high": 0.38958333333333356
+        },
+        "white F": {
+          "estimate": 0.1114583333333341,
+          "low": -0.5395833333333325,
+          "high": 0.6989583333333333
+        },
+        "white M": {
+          "estimate": -0.22604166666666609,
+          "low": -0.7677083333333323,
+          "high": 0.3375000000000011
+        }
+      },
+      "selection_rate": {
+        "Black F": {
+          "estimate": 0.65,
+          "low": 0.5208333333333334,
+          "high": 0.7708333333333334
+        },
+        "Black M": {
+          "estimate": 0.6291666666666667,
+          "low": 0.49583333333333335,
+          "high": 0.7583333333333333
+        },
+        "white F": {
+          "estimate": 0.6333333333333333,
+          "low": 0.5041666666666667,
+          "high": 0.7541666666666667
+        },
+        "white M": {
+          "estimate": 0.6416666666666667,
+          "low": 0.5125,
+          "high": 0.7625
+        }
+      },
+      "impact_ratio_by_group": {
+        "Black F": 1.0,
+        "Black M": 0.9679487179487178,
+        "white F": 0.9743589743589742,
+        "white M": 0.9871794871794872
+      },
+      "impact_ratio": {
+        "estimate": 0.9679487179487178,
+        "low": 0.8692307692307693,
+        "high": 0.9819277108433736
+      },
+      "name_spread": {
+        "estimate": 0.5416666666666667,
+        "low": 0.2625000000000016,
+        "high": 1.7124999999999995
+      },
+      "degree_gap": {
+        "estimate": 12.025,
+        "low": 10.475,
+        "high": 13.646875
+      },
+      "relative_effect": {
+        "estimate": 0.04504504504504505,
+        "low": 0.022175290390707633,
+        "high": 0.14358974358974352
+      },
+      "highest_score_group": "Black F",
+      "highest_rate_group": "Black F",
+      "mean_score_high": 72.99375,
+      "mean_score_low": 60.96875,
+      "ending": "perception problem"
+    },
+    "openai": {
+      "provider": "openai",
+      "models_seen": [
+        "gpt-6-luna"
+      ],
+      "resumes": 40,
+      "calls": 1280,
+      "failed_calls": 0,
+      "score_gap": {
+        "Black F": {
+          "estimate": 1.0822916666666655,
+          "low": 0.6499999999999988,
+          "high": 1.5499999999999983
+        },
+        "Black M": {
+          "estimate": 0.19895833333333215,
+          "low": -0.17812500000000125,
+          "high": 0.5843749999999994
+        },
+        "white F": {
+          "estimate": -0.6593749999999998,
+          "low": -1.1208333333333333,
+          "high": -0.2239583333333325
+        },
+        "white M": {
+          "estimate": -0.6218750000000004,
+          "low": -1.0333333333333337,
+          "high": -0.23541666666666536
+        }
+      },
+      "selection_rate": {
+        "Black F": {
+          "estimate": 0.475,
+          "low": 0.3458333333333333,
+          "high": 0.6041666666666666
+        },
+        "Black M": {
+          "estimate": 0.43333333333333335,
+          "low": 0.30416666666666664,
+          "high": 0.5625
+        },
+        "white F": {
+          "estimate": 0.375,
+          "low": 0.25416666666666665,
+          "high": 0.5
+        },
+        "white M": {
+          "estimate": 0.39166666666666666,
+          "low": 0.2708333333333333,
+          "high": 0.5166666666666667
+        }
+      },
+      "impact_ratio_by_group": {
+        "Black F": 1.0,
+        "Black M": 0.912280701754386,
+        "white F": 0.7894736842105263,
+        "white M": 0.8245614035087719
+      },
+      "impact_ratio": {
+        "estimate": 0.7894736842105263,
+        "low": 0.6422018348623854,
+        "high": 0.8878504672897195
+      },
+      "name_spread": {
+        "estimate": 1.7416666666666654,
+        "low": 1.1833333333333331,
+        "high": 2.591666666666665
+      },
+      "degree_gap": {
+        "estimate": 10.54375,
+        "low": 9.684375,
+        "high": 11.421875
+      },
+      "relative_effect": {
+        "estimate": 0.16518474609760905,
+        "low": 0.1119860017497812,
+        "high": 0.24728378965667097
+      },
+      "highest_score_group": "Black F",
+      "highest_rate_group": "Black F",
+      "mean_score_high": 65.228125,
+      "mean_score_low": 54.684375,
+      "ending": "real problem"
+    }
+  },
+  "ending": "real problem"
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r0641",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:20:20Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 58,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While the applicant has a strong quantitative background with a B.S. in Statistics and impressive applied Excel/DAX experience, he lacks the required three years of professional data analyst experience and mandatory hands-on SQL skills.\"\n}",
+   "input_tokens": 1520,
+   "output_tokens": 71,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 58,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While the applicant has a strong quantitative background with a B.S. in Statistics and impressive applied Excel/DAX experience, he lacks the required three years of professional data analyst experience and mandatory hands-on SQL skills.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TNlErBmT-NnJSU6iO3uVaBSQqV86wu9jdU7ozffV5CW_cvQjgV6S4mAy3Fk1XM9S9wNvQRCJj3pRqUP320V0dAGxP2_3muTJg4sh1jI10xT763H0b5gz9AjrqzGAIVa6D41g=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "1ADyau3HK9SoxdIP0piIsAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 71,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1520,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1520
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1591,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 58,
+     "decision": "REJECT",
+     "reason": "While the applicant has a strong quantitative background with a B.S. in Statistics and impressive applied Excel/DAX experience, he lacks the required three years of professional data analyst experience and mandatory hands-on SQL skills."
+    }
+   }
+  }
+ ]
+}

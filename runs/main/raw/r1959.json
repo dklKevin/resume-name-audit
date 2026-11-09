@@ -1,0 +1,85 @@
+{
+ "run_id": "r1959",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:25:16Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Latasha brings valuable hands-on retail operations domain knowledge, a BS in Statistics, strong Excel and Tableau experience, and practical SQL skills from driving impactful analytics projects for her district.\"}",
+   "input_tokens": 1507,
+   "output_tokens": 55,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Latasha brings valuable hands-on retail operations domain knowledge, a BS in Statistics, strong Excel and Tableau experience, and practical SQL skills from driving impactful analytics projects for her district.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TkaVEAryaOSo6l88ETZTJl49q6WyvxTgXwRX-bgnyD3mAENvT_xKc14kbDJ3z_VVyCph5u-yEaH4YMDWZakuzHyN1dW9-ERaClhQ-e1LwVuMdr4-lK8aw3DeY4u6aFkpxzmk=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "_AHyasavMIyco_UP2KOO6Q4",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 55,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1507,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1507
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1562,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Latasha brings valuable hands-on retail operations domain knowledge, a BS in Statistics, strong Excel and Tableau experience, and practical SQL skills from driving impactful analytics projects for her district."
+    }
+   }
+  }
+ ]
+}

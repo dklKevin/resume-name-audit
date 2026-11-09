@@ -1,0 +1,85 @@
+{
+ "run_id": "r2329",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:38Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings nearly four years of full-time experience, a BS in Statistics, strong local presence, solid SQL skills, and direct experience building operational Power BI reports.\"}",
+   "input_tokens": 1405,
+   "output_tokens": 52,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings nearly four years of full-time experience, a BS in Statistics, strong local presence, solid SQL skills, and direct experience building operational Power BI reports.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TJ2U6AJKjdo54r7G5w2YUp1FP8ONPeV_QCL6oai32wJgiso_d9LdOeyN0VV4tjjJfFjGE4Id6ZUM32Go-e1gWvF_x7Dk5fmGtSZlNnCeLRmEgAYYAiOApkjz1RNKmX8CheDw=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "TgLyarbgHcys0_gP066NoAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 52,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1405,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1405
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1457,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 82,
+     "decision": "ADVANCE",
+     "reason": "Thomas brings nearly four years of full-time experience, a BS in Statistics, strong local presence, solid SQL skills, and direct experience building operational Power BI reports."
+    }
+   }
+  }
+ ]
+}

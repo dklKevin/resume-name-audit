@@ -1,0 +1,148 @@
+{
+ "run_id": "r0749",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:20:51Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":61,\"decision\":\"REJECT\",\"reason\":\"She brings a relevant statistics degree, strong Excel, clear stakeholder communication, and some SQL, Tableau, inventory, and margin experience, but her SQL and BI skills appear limited and she lacks the three years of hands-on analytics and retail merchandising experience sought for this role.\"}",
+   "input_tokens": 1327,
+   "output_tokens": 76,
+   "error": null,
+   "response": {
+    "id": "resp_0d3e2c5c057ec27d016af200f36ed887d2a98e97eedfbd9a4a",
+    "access_programs": null,
+    "created_at": 1794244851.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_0d3e2c5c057ec27d016af200f454a487d293fb97b0fb2b9b9e",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":61,\"decision\":\"REJECT\",\"reason\":\"She brings a relevant statistics degree, strong Excel, clear stakeholder communication, and some SQL, Tableau, inventory, and margin experience, but her SQL and BI skills appear limited and she lacks the three years of hands-on analytics and retail merchandising experience sought for this role.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794244853.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1327,
+     "input_tokens_details": {
+      "cache_write_tokens": 1324,
+      "cached_tokens": 0,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 76,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1403
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

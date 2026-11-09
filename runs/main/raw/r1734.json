@@ -1,0 +1,85 @@
+{
+ "run_id": "r1734",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:28Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 62,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While local with a relevant statistics degree and ecommerce reporting experience, her background shows mostly basic SQL execution and maintaining existing dashboards rather than building complex Power BI reports and writing advanced queries independently.\"\n}",
+   "input_tokens": 1371,
+   "output_tokens": 63,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 62,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While local with a relevant statistics degree and ecommerce reporting experience, her background shows mostly basic SQL execution and maintaining existing dashboards rather than building complex Power BI reports and writing advanced queries independently.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TrYIN4czNqxaCGE3RPkf3E67cuwD9KKIUQTmyWm1gWYVvuW4P3ZWAEuSr7uY1DZFTbyoEfBfXw98qTcKKCk7wJ-oOBpZ8Jvj6JJXk9pD8h34qZZvGJbVFEmpsVFtxoGy_G3o=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "zAHyavu0LfqHytMPr63cyQI",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 63,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1371,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1371
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1434,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 62,
+     "decision": "REJECT",
+     "reason": "While local with a relevant statistics degree and ecommerce reporting experience, her background shows mostly basic SQL execution and maintaining existing dashboards rather than building complex Power BI reports and writing advanced queries independently."
+    }
+   }
+  }
+ ]
+}

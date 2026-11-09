@@ -1,0 +1,85 @@
+{
+ "run_id": "r0427",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:18:41Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 75,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Tamika brings five years of relevant retail reporting experience in Columbus with solid Power BI, Excel, and SQL skills backed by a BS in Statistics.\"\n}",
+   "input_tokens": 1351,
+   "output_tokens": 56,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 75,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Tamika brings five years of relevant retail reporting experience in Columbus with solid Power BI, Excel, and SQL skills backed by a BS in Statistics.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TDSK0sqRcovHVA6TPtxqVhs3MvqIpE1DPvSv07pY8VDLyEmnIm9ymY6n7QQy0yQYfWIZuM8v5vVz2CC00N7WBLVxKiuCMFmnxvn5bH25vXhVnIAQRUIopq_AXqL0t1UaT9TE=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "cgDyaoPkLreFytMPv8uS2QM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 56,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1351,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1351
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1407,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 75,
+     "decision": "ADVANCE",
+     "reason": "Tamika brings five years of relevant retail reporting experience in Columbus with solid Power BI, Excel, and SQL skills backed by a BS in Statistics."
+    }
+   }
+  }
+ ]
+}

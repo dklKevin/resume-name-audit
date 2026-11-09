@@ -1,0 +1,85 @@
+{
+ "run_id": "r1865",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:56Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 85, \"decision\": \"ADVANCE\", \"reason\": \"Mary meets all core requirements with nearly four years of experience, a BS in Statistics, local Columbus residence, strong SQL/Power BI skills, and a proven ability to communicate data insights to non-technical stakeholders.\"}",
+   "input_tokens": 1404,
+   "output_tokens": 61,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 85, \"decision\": \"ADVANCE\", \"reason\": \"Mary meets all core requirements with nearly four years of experience, a BS in Statistics, local Columbus residence, strong SQL/Power BI skills, and a proven ability to communicate data insights to non-technical stakeholders.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T2lK5B5QoVUHw1ByDd17C2Ixq5OIy03wy2VYWPhE67_bNmkrYaJiyJPb-uZ7U8IWuigKT1FApO-7yDiGq_IINr2edGfKVjd4N5F3MXbU1lgchoaLqR6wunHVqOjgmH0dLs5U=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "6AHyasaGJvfu5NoP85_GyAw",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 61,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1404,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1404
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1465,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 85,
+     "decision": "ADVANCE",
+     "reason": "Mary meets all core requirements with nearly four years of experience, a BS in Statistics, local Columbus residence, strong SQL/Power BI skills, and a proven ability to communicate data insights to non-technical stakeholders."
+    }
+   }
+  }
+ ]
+}

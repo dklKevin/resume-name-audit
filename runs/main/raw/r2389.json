@@ -1,0 +1,85 @@
+{
+ "run_id": "r2389",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:51Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 78,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Michael has strong quantitative foundations with a B.S. in Statistics, solid SQL and BI experience, relevant retail promotion analysis experience, and lives locally in Columbus.\"\n}",
+   "input_tokens": 1397,
+   "output_tokens": 59,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 78,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Michael has strong quantitative foundations with a B.S. in Statistics, solid SQL and BI experience, relevant retail promotion analysis experience, and lives locally in Columbus.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TY4i7Y85H-mtqS89_59rQGnHXWuBhOAmDAikBNxSeJdxedICCkYsX8JVTvwSxWq8kI_o2HX6mP-b041c1QxxyBoxNXOTEksB4ST8RPxe2JljeCyvS1R026028E4vBespimzI=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "XALyaqbVCYWvxdIPkuGyuAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 59,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1397,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1397
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1456,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Michael has strong quantitative foundations with a B.S. in Statistics, solid SQL and BI experience, relevant retail promotion analysis experience, and lives locally in Columbus."
+    }
+   }
+  }
+ ]
+}

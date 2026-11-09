@@ -1,0 +1,148 @@
+{
+ "run_id": "r1826",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:47Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":44,\"decision\":\"REJECT\",\"reason\":\"She demonstrates practical SQL, Power BI, reporting, data-quality, and stakeholder-impact experience, but lacks the required bachelor\u2019s degree and three years in an analyst role, and her SQL/BI depth and retail or inventory experience are below the role\u2019s needs.\"}",
+   "input_tokens": 1495,
+   "output_tokens": 74,
+   "error": null,
+   "response": {
+    "id": "resp_0d5a489f3edb8a5a016af201e0166087d28c23617e30b6b0ae",
+    "access_programs": null,
+    "created_at": 1794245088.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_0d5a489f3edb8a5a016af201e0b26087d285a55d4f8f823534",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":44,\"decision\":\"REJECT\",\"reason\":\"She demonstrates practical SQL, Power BI, reporting, data-quality, and stakeholder-impact experience, but lacks the required bachelor\u2019s degree and three years in an analyst role, and her SQL/BI depth and retail or inventory experience are below the role\u2019s needs.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794245089.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1495,
+     "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1492,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 74,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1569
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

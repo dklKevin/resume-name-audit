@@ -1,0 +1,148 @@
+{
+ "run_id": "r0884",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:21:20Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":70,\"decision\":\"ADVANCE\",\"reason\":\"Strong retail-adjacent merchandising and replenishment experience, quantitative degree, advanced Excel, and practical reporting and data-quality work make him a promising candidate, though his SQL and Power BI skills are still developing and he lacks three years in a formal analyst role.\"}",
+   "input_tokens": 1321,
+   "output_tokens": 74,
+   "error": null,
+   "response": {
+    "id": "resp_05b76fa532d3d25a016af20112288087d2a89631ac2f290647",
+    "access_programs": null,
+    "created_at": 1794244882.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_05b76fa532d3d25a016af20112b30c87d28b5a171b4aaa51be",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":70,\"decision\":\"ADVANCE\",\"reason\":\"Strong retail-adjacent merchandising and replenishment experience, quantitative degree, advanced Excel, and practical reporting and data-quality work make him a promising candidate, though his SQL and Power BI skills are still developing and he lacks three years in a formal analyst role.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794244883.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1321,
+     "input_tokens_details": {
+      "cache_write_tokens": 1318,
+      "cached_tokens": 0,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 74,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1395
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

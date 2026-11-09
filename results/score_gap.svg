@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 372" width="830" height="372" role="img" aria-labelledby="title desc" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+<title id="title">Score gap by group, one panel per model</title>
+<desc id="desc">Each dot is a group's mean score gap against the same resume's average across groups, with a 95 percent bootstrap interval.</desc>
+<style>
+:root{--bg:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--grid:#e4e3df;--zero:#9b9a95;--mark:#2a78d6}
+@media (prefers-color-scheme: dark){:root{--bg:#1a1a19;--ink:#f0efec;--ink2:#c3c2b7;--grid:#33332f;--zero:#6f6e69;--mark:#3987e5}}
+.bg{fill:var(--bg)}.t1{fill:var(--ink)}.t2{fill:var(--ink2)}
+.grid{stroke:var(--grid);stroke-width:1}.zero{stroke:var(--zero);stroke-width:1.5}
+.ci{stroke:var(--mark);stroke-width:2;stroke-linecap:round}
+.dot{fill:var(--mark);stroke:var(--bg);stroke-width:2}
+</style>
+<rect class="bg" width="830" height="372" rx="8"/>
+<text class="t1" x="24" y="36" font-size="18" font-weight="600">Score gap by group when only the name changes</text>
+<text class="t2" x="24" y="60" font-size="13">Points on a 0 to 100 screening score, against the same resume's average across groups. Bars are 95% intervals.</text>
+<text class="t1" x="270.0" y="82" font-size="14" font-weight="600" text-anchor="middle">GPT-6 Luna</text>
+<line class="grid" x1="120.0" y1="92" x2="120.0" y2="286"/>
+<text class="t2" x="120.0" y="304" font-size="12" text-anchor="middle">-2</text>
+<line class="grid" x1="195.0" y1="92" x2="195.0" y2="286"/>
+<text class="t2" x="195.0" y="304" font-size="12" text-anchor="middle">-1</text>
+<line class="zero" x1="270.0" y1="92" x2="270.0" y2="286"/>
+<text class="t2" x="270.0" y="304" font-size="12" text-anchor="middle">0</text>
+<line class="grid" x1="345.0" y1="92" x2="345.0" y2="286"/>
+<text class="t2" x="345.0" y="304" font-size="12" text-anchor="middle">+1</text>
+<line class="grid" x1="420.0" y1="92" x2="420.0" y2="286"/>
+<text class="t2" x="420.0" y="304" font-size="12" text-anchor="middle">+2</text>
+<text class="t1" x="106" y="127.0" font-size="13" text-anchor="end">Black women</text>
+<line class="ci" x1="318.7499999999999" y1="123.0" x2="386.24999999999983" y2="123.0"/>
+<circle class="dot" cx="351.1718749999999" cy="123.0" r="5.5"/>
+<text class="t2" x="394.24999999999983" y="127.0" font-size="12" text-anchor="start">+1.1</text>
+<text class="t1" x="106" y="171.0" font-size="13" text-anchor="end">Black men</text>
+<line class="ci" x1="256.6406249999999" y1="167.0" x2="313.828125" y2="167.0"/>
+<circle class="dot" cx="284.9218749999999" cy="167.0" r="5.5"/>
+<text class="t2" x="321.828125" y="171.0" font-size="12" text-anchor="start">+0.2</text>
+<text class="t1" x="106" y="215.0" font-size="13" text-anchor="end">white women</text>
+<line class="ci" x1="185.9375" y1="211.0" x2="253.20312500000006" y2="211.0"/>
+<circle class="dot" cx="220.546875" cy="211.0" r="5.5"/>
+<text class="t2" x="177.9375" y="215.0" font-size="12" text-anchor="end">-0.7</text>
+<text class="t1" x="106" y="259.0" font-size="13" text-anchor="end">white men</text>
+<line class="ci" x1="192.49999999999997" y1="255.0" x2="252.3437500000001" y2="255.0"/>
+<circle class="dot" cx="223.35937499999997" cy="255.0" r="5.5"/>
+<text class="t2" x="184.49999999999997" y="259.0" font-size="12" text-anchor="end">-0.6</text>
+<text class="t2" x="270.0" y="326" font-size="12" text-anchor="middle">For scale: the degree swap moved scores 10.5 points</text>
+<text class="t1" x="634.0" y="82" font-size="14" font-weight="600" text-anchor="middle">Gemini 3.6 Flash</text>
+<line class="grid" x1="484.0" y1="92" x2="484.0" y2="286"/>
+<text class="t2" x="484.0" y="304" font-size="12" text-anchor="middle">-2</text>
+<line class="grid" x1="559.0" y1="92" x2="559.0" y2="286"/>
+<text class="t2" x="559.0" y="304" font-size="12" text-anchor="middle">-1</text>
+<line class="zero" x1="634.0" y1="92" x2="634.0" y2="286"/>
+<text class="t2" x="634.0" y="304" font-size="12" text-anchor="middle">0</text>
+<line class="grid" x1="709.0" y1="92" x2="709.0" y2="286"/>
+<text class="t2" x="709.0" y="304" font-size="12" text-anchor="middle">+1</text>
+<line class="grid" x1="784.0" y1="92" x2="784.0" y2="286"/>
+<text class="t2" x="784.0" y="304" font-size="12" text-anchor="middle">+2</text>
+<line class="ci" x1="610.484375" y1="123.0" x2="700.4843750000001" y2="123.0"/>
+<circle class="dot" cx="657.671875" cy="123.0" r="5.5"/>
+<text class="t2" x="708.4843750000001" y="127.0" font-size="12" text-anchor="start">+0.3</text>
+<line class="ci" x1="570.09375" y1="167.0" x2="663.21875" y2="167.0"/>
+<circle class="dot" cx="618.921875" cy="167.0" r="5.5"/>
+<text class="t2" x="562.09375" y="171.0" font-size="12" text-anchor="end">-0.2</text>
+<line class="ci" x1="593.5312500000001" y1="211.0" x2="686.421875" y2="211.0"/>
+<circle class="dot" cx="642.359375" cy="211.0" r="5.5"/>
+<text class="t2" x="694.421875" y="215.0" font-size="12" text-anchor="start">+0.1</text>
+<line class="ci" x1="576.4218750000001" y1="255.0" x2="659.3125000000001" y2="255.0"/>
+<circle class="dot" cx="617.046875" cy="255.0" r="5.5"/>
+<text class="t2" x="568.4218750000001" y="259.0" font-size="12" text-anchor="end">-0.2</text>
+<text class="t2" x="634.0" y="326" font-size="12" text-anchor="middle">For scale: the degree swap moved scores 12.0 points</text>
+<text class="t2" x="24" y="356" font-size="11">40 resumes, 12 names (3 per group), 2 repeats. Intervals resample resumes.</text>
+</svg>

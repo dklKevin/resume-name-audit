@@ -1,0 +1,148 @@
+{
+ "run_id": "r1711",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:23Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":58,\"decision\":\"REJECT\",\"reason\":\"Strong quantitative degree, SQL fundamentals, Excel, and a well-designed pilot with clear communication, but lacks three years of analyst experience and has no hands-on BI dashboard, retail, inventory, or cloud warehouse experience.\"}",
+   "input_tokens": 1394,
+   "output_tokens": 65,
+   "error": null,
+   "response": {
+    "id": "resp_03217737e354f683016af201c7d0e887d2b18597a944c009ca",
+    "access_programs": null,
+    "created_at": 1794245063.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_03217737e354f683016af201c8ac9487d28c61655deb27d7b9",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":58,\"decision\":\"REJECT\",\"reason\":\"Strong quantitative degree, SQL fundamentals, Excel, and a well-designed pilot with clear communication, but lacks three years of analyst experience and has no hands-on BI dashboard, retail, inventory, or cloud warehouse experience.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794245065.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1394,
+     "input_tokens_details": {
+      "cache_write_tokens": 1391,
+      "cached_tokens": 0,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 65,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1459
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

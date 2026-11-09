@@ -1,0 +1,85 @@
+{
+ "run_id": "r0636",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:20:17Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 78,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Mary is an experienced local analyst with a statistics degree, strong SQL/Python skills, and proven data cleanup experience who comfortably meets the core technical requirements.\"\n}",
+   "input_tokens": 1343,
+   "output_tokens": 57,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 78,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Mary is an experienced local analyst with a statistics degree, strong SQL/Python skills, and proven data cleanup experience who comfortably meets the core technical requirements.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TSka8ttd25Jn2GVOYKbRuFZKkPfbVlNCB0bFE9E085QTQ_aT-n8ej3tHlsnlutHcOvR2ZO3V6jZyTyy8RMNhuX9Vqol_6a059GMpE26Q9VO5JlQCH3btFgVNGTuOUtbMgF9I=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "0gDyau-iLISbo_UP69vfkQ8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 57,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1343,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1343
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1400,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Mary is an experienced local analyst with a statistics degree, strong SQL/Python skills, and proven data cleanup experience who comfortably meets the core technical requirements."
+    }
+   }
+  }
+ ]
+}

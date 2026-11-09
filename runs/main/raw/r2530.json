@@ -1,0 +1,85 @@
+{
+ "run_id": "r2530",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:27:22Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"David has over four years of relevant analytical experience, a B.S. in Statistics, strong SQL skills, and Tableau experience, making him a solid fit for this Columbus-based role despite lacking retail-specific domain experience.\"}",
+   "input_tokens": 1388,
+   "output_tokens": 64,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"David has over four years of relevant analytical experience, a B.S. in Statistics, strong SQL skills, and Tableau experience, making him a solid fit for this Columbus-based role despite lacking retail-specific domain experience.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TFXngv3pOmrWjtV2RxclNqpVyY6_IAfdmqJe5_QaThc-nffSI4wJKl8ToA3v-zR0AvJh4ssBR3Rps2H67x2DYJ10I2JA0-hQGVae6HkDlPxUTgZsbopyuW3-ynWHbFTCMFOI=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "ewLyavivBs25xdIPy7e3yAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 64,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1388,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1388
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1452,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 82,
+     "decision": "ADVANCE",
+     "reason": "David has over four years of relevant analytical experience, a B.S. in Statistics, strong SQL skills, and Tableau experience, making him a solid fit for this Columbus-based role despite lacking retail-specific domain experience."
+    }
+   }
+  }
+ ]
+}

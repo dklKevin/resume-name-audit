@@ -1,0 +1,85 @@
+{
+ "run_id": "r0429",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:18:44Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a local candidate with a Statistics degree from OSU, strong SQL/Python skills, and relevant operational analytics experience that aligns well with our merchandising needs.\"}",
+   "input_tokens": 1356,
+   "output_tokens": 52,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a local candidate with a Statistics degree from OSU, strong SQL/Python skills, and relevant operational analytics experience that aligns well with our merchandising needs.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T3TSUEIznuWLpX2TOfIsCwI9iTxA7QwOIjD_b-pXQKIfoyrSyY3gP1sbW67z4KkCTe0HtN7QJfk3B-25GtG-WJOT4T4RiNzI626jXQmz3CcbXWPi1KqncFVd3Nxa6RudRe_Y=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "dADyase_FdvcytMPgoaY4QM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 52,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1356,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1356
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1408,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Jermaine is a local candidate with a Statistics degree from OSU, strong SQL/Python skills, and relevant operational analytics experience that aligns well with our merchandising needs."
+    }
+   }
+  }
+ ]
+}

@@ -3,6 +3,8 @@
 Does an LLM resume screener change its decision when only the name changes?
 A name swap measured against a degree swap.
 
+Results from the 2026-11-09 run are in [RESULTS.md](RESULTS.md).
+
 Each call looks like one real screening step: a fictional retailer's screening assistant, one job posting, one application.
 Only the candidate's name (and the email built from it) changes between versions of a resume.
 A second condition changes only the degree, from a bachelor's in statistics to an associate degree, which gives a yardstick for how large a name effect is.

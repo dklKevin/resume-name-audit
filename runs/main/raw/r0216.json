@@ -1,0 +1,148 @@
+{
+ "run_id": "r0216",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:16:21Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":62,\"decision\":\"REJECT\",\"reason\":\"She has a relevant statistics degree, practical SQL and Power BI experience, and strong evidence of using analysis to drive operational decisions, but has only about two years of reporting work and lacks the advanced SQL, BI depth, and retail or inventory analytics experience needed for this role.\"}",
+   "input_tokens": 1493,
+   "output_tokens": 77,
+   "error": null,
+   "response": {
+    "id": "resp_09e6f528e7df6979016af1ffe6cd8487d2a231e96d21d872a8",
+    "access_programs": null,
+    "created_at": 1794244582.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_09e6f528e7df6979016af1ffe887cc87d2b0c309104e47e7f1",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":62,\"decision\":\"REJECT\",\"reason\":\"She has a relevant statistics degree, practical SQL and Power BI experience, and strong evidence of using analysis to drive operational decisions, but has only about two years of reporting work and lacks the advanced SQL, BI depth, and retail or inventory analytics experience needed for this role.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794244585.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1493,
+     "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1490,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 77,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1570
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

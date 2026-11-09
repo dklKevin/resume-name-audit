@@ -1,0 +1,85 @@
+{
+ "run_id": "r0969",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:21:40Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"Latasha meets all core requirements, including a statistics degree from OSU, local residence, solid SQL skills, and relevant experience building dashboards and reports for business stakeholders.\"}",
+   "input_tokens": 1318,
+   "output_tokens": 51,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"Latasha meets all core requirements, including a statistics degree from OSU, local residence, solid SQL skills, and relevant experience building dashboards and reports for business stakeholders.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TGhzbpl1O8p7cu4fuq9D1XgMjVWGuWiuMBdKzxe6HPdADnks-z53b8jV7QghJq5lMeo1wgwop8fd0BrUQOTzk_e7OIu-g9A4ZvaXH9jLwSW94WBCeeXH5y688ojxAWFxqgPk=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "JQHyaqv0C6TdytMPh93NwAM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 51,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1318,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1318
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1369,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 82,
+     "decision": "ADVANCE",
+     "reason": "Latasha meets all core requirements, including a statistics degree from OSU, local residence, solid SQL skills, and relevant experience building dashboards and reports for business stakeholders."
+    }
+   }
+  }
+ ]
+}

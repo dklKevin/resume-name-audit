@@ -1,0 +1,85 @@
+{
+ "run_id": "r0070",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:14:55Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 75, \"decision\": \"ADVANCE\", \"reason\": \"While her analytical experience has primarily been within a purchasing coordinator role rather than a dedicated data analyst position, her strong domain knowledge in hardware/plumbing, OSU statistics degree, and proficiency in Excel, SQL, and Power BI make her a compelling candidate.\"}",
+   "input_tokens": 1352,
+   "output_tokens": 69,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 75, \"decision\": \"ADVANCE\", \"reason\": \"While her analytical experience has primarily been within a purchasing coordinator role rather than a dedicated data analyst position, her strong domain knowledge in hardware/plumbing, OSU statistics degree, and proficiency in Excel, SQL, and Power BI make her a compelling candidate.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0THAvmgQkOzXJ6fCZi5QoztJjXvwJrfVYmHCfqJ7oLBtCzwWX2jlCXS4xpQ0gExYXB5h6xwaBTocCkUaRD_94lACit5muqNzVKl4BZ9E4ojYlnRMNH7r-9_-Wiam3zk4zBAzk=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "j__xarHmFt_n0_gPgY7moAs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 69,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1352,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1352
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1421,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 75,
+     "decision": "ADVANCE",
+     "reason": "While her analytical experience has primarily been within a purchasing coordinator role rather than a dedicated data analyst position, her strong domain knowledge in hardware/plumbing, OSU statistics degree, and proficiency in Excel, SQL, and Power BI make her a compelling candidate."
+    }
+   }
+  }
+ ]
+}

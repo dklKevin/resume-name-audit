@@ -1,0 +1,85 @@
+{
+ "run_id": "r0260",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:16:38Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 68,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Jermaine brings invaluable retail store operations context, a BS in Statistics, local Columbus residency, and relevant analytics experience, though his SQL skills are basic compared to the posting's requirement for window functions.\"\n}",
+   "input_tokens": 1399,
+   "output_tokens": 68,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 68,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Jermaine brings invaluable retail store operations context, a BS in Statistics, local Columbus residency, and relevant analytics experience, though his SQL skills are basic compared to the posting's requirement for window functions.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TMu6LExFZkv63Z7DIBurDciRq3BaHUumoI-FOihZOg07Ubd-E5eOxhMdvMIGfz15liXI1b8ftIeK3t89kiY3s8GZxHS4l8GwmfgbE3DHqWybSxCMH7moa9fEyf1WQGTGYAz4=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "9__xasqBA4PbytMP9qSNiA4",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 68,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1399,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1399
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1467,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 68,
+     "decision": "ADVANCE",
+     "reason": "Jermaine brings invaluable retail store operations context, a BS in Statistics, local Columbus residency, and relevant analytics experience, though his SQL skills are basic compared to the posting's requirement for window functions."
+    }
+   }
+  }
+ ]
+}

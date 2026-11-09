@@ -1,0 +1,85 @@
+{
+ "run_id": "r0227",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:16:25Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 45,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary is local and shows impressive self-taught SQL and Power BI initiatives in her logistics role, she lacks the required three years of dedicated data analyst experience and a four-year quantitative degree.\"\n}",
+   "input_tokens": 1394,
+   "output_tokens": 66,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 45,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary is local and shows impressive self-taught SQL and Power BI initiatives in her logistics role, she lacks the required three years of dedicated data analyst experience and a four-year quantitative degree.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TIVebVknD8fjDFovc7y8RkhovLzC4_DsSHxty1kZ3U-YNduQ_OrqABQtLWkp_AYaPP6BN-SjNIqB3RgoHkCCFhGBqG9X-zLRjf105BoZ9F2B5VoWOucPA_YXYzS9ExhI2M8c=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "6v_xarKDCejliLMPzOHDgQs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 66,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1394,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1394
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1460,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 45,
+     "decision": "REJECT",
+     "reason": "While Mary is local and shows impressive self-taught SQL and Power BI initiatives in her logistics role, she lacks the required three years of dedicated data analyst experience and a four-year quantitative degree."
+    }
+   }
+  }
+ ]
+}

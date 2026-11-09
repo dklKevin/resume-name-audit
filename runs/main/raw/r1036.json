@@ -1,0 +1,85 @@
+{
+ "run_id": "r1036",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:21:55Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 45, \"decision\": \"REJECT\", \"reason\": \"Thomas has only about 1.5 years of analytics experience and lacks a bachelor's degree in a quantitative field, which is below our requirement of 3+ years and a relevant degree.\"}",
+   "input_tokens": 1439,
+   "output_tokens": 58,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 45, \"decision\": \"REJECT\", \"reason\": \"Thomas has only about 1.5 years of analytics experience and lacks a bachelor's degree in a quantitative field, which is below our requirement of 3+ years and a relevant degree.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TC-4YHsdRuSQeV12JIFookYKyw4vHgGZhCvNU7_zD8I6pfgeMljln-X5dBaEt_t_mCpHHMygsfRLY8p0nLixP29PHv4uh9-m3yryr2v60XVwHVHTvFqNCnxpshb-0kslt-5M=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "NAHyaqC_DbuMiLMPhdWV2Ag",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 58,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1439,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1439
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1497,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 45,
+     "decision": "REJECT",
+     "reason": "Thomas has only about 1.5 years of analytics experience and lacks a bachelor's degree in a quantitative field, which is below our requirement of 3+ years and a relevant degree."
+    }
+   }
+  }
+ ]
+}
