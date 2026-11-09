@@ -1,0 +1,85 @@
+{
+ "run_id": "r0759",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:20:53Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 45,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary is local and has strong Power BI experience, she lacks the required quantitative bachelor's degree, retail domain experience, and advanced SQL skills needed for the role.\"\n}",
+   "input_tokens": 1347,
+   "output_tokens": 61,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 45,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary is local and has strong Power BI experience, she lacks the required quantitative bachelor's degree, retail domain experience, and advanced SQL skills needed for the role.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TivuNxrcnv_I6tlu6qWxsUoF8e3dGSJjkyI_Zq-ZMOskcLqbzhLBVnnCXI-WhCRN6ASwwU1RDL-q1xbOQ3h1KnDwm3DtlOo1KmdxHFGto7nP4wz3n2v9egQLTp-C-F3XBXwI=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "9QDyaoXNFar7ytMP7buMyQI",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 61,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1347,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1347
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1408,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 45,
+     "decision": "REJECT",
+     "reason": "While Mary is local and has strong Power BI experience, she lacks the required quantitative bachelor's degree, retail domain experience, and advanced SQL skills needed for the role."
+    }
+   }
+  }
+ ]
+}

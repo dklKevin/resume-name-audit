@@ -1,0 +1,85 @@
+{
+ "run_id": "r2241",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:17Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 62, \"decision\": \"REJECT\", \"reason\": \"While Thomas has excellent retail/hardware domain knowledge, he lacks the required bachelor's degree in a quantitative field and does not yet have three years of experience in a dedicated data analyst role.\"}",
+   "input_tokens": 1352,
+   "output_tokens": 57,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 62, \"decision\": \"REJECT\", \"reason\": \"While Thomas has excellent retail/hardware domain knowledge, he lacks the required bachelor's degree in a quantitative field and does not yet have three years of experience in a dedicated data analyst role.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Ti8nwuHBKDJVAXxVDcLkhc6sxL3AcwwoCp70ab1gYQ1hr93cD7mEZVONlSHd1nLC-K-6oFgsf_h1B37D7umF8JOMPPp8ytB4MZs56zPZGL6hTONOuAzgZdJR69SULKIRDyKg=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "OQLyaomXJvPbytMPtLuvwQ8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 57,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1352,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1352
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1409,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 62,
+     "decision": "REJECT",
+     "reason": "While Thomas has excellent retail/hardware domain knowledge, he lacks the required bachelor's degree in a quantitative field and does not yet have three years of experience in a dedicated data analyst role."
+    }
+   }
+  }
+ ]
+}

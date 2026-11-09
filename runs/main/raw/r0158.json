@@ -1,0 +1,85 @@
+{
+ "run_id": "r0158",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:15:58Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 75, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings strong domain expertise in retail operations, a relevant statistics degree, and proven success building effective retail dashboards and pilots, making up for his slightly shorter formal SQL and data analyst work history.\"}",
+   "input_tokens": 1505,
+   "output_tokens": 57,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 75, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings strong domain expertise in retail operations, a relevant statistics degree, and proven success building effective retail dashboards and pilots, making up for his slightly shorter formal SQL and data analyst work history.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TyrTt1aOTK5FqFSDO1M4V7wDv6W9kGM0utCPUARpYiBiOF8eIzEQZmX0ERYEijBBp1AsgqPePzOmfLSwPd5IRiWal9F8MhSkGUZjzmHFeuj1f4Zi2D0g4PF__5NyOrK0Zplc=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "zv_xaqzyJ8yO1sgP-Le7qQ8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 57,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1505,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1505
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1562,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 75,
+     "decision": "ADVANCE",
+     "reason": "Thomas brings strong domain expertise in retail operations, a relevant statistics degree, and proven success building effective retail dashboards and pilots, making up for his slightly shorter formal SQL and data analyst work history."
+    }
+   }
+  }
+ ]
+}

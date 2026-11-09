@@ -1,0 +1,85 @@
+{
+ "run_id": "r0583",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:19:52Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"While Darnell holds a relevant statistics degree and brings strong R skills, his background is primarily in survey and public policy research rather than commercial retail analytics, and his SQL and BI experience relies heavily on query templates and basic Tableau views.\"}",
+   "input_tokens": 1310,
+   "output_tokens": 65,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"While Darnell holds a relevant statistics degree and brings strong R skills, his background is primarily in survey and public policy research rather than commercial retail analytics, and his SQL and BI experience relies heavily on query templates and basic Tableau views.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TFQ-SDBFtnenwFe68oF4-ZvvPeY0t5D89tOPfyrjZJ_fOdb76SDe8irv4R0CJ3qMznLrFDlffYZb830HH4fN0XsnWS4kQy56rN1o4uJ8aZ9WLtsXPyHINROxnF5Cke1zwJfM=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "uQDyav_IEZebo_UPn6auuA0",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 65,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1310,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1310
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1375,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 52,
+     "decision": "REJECT",
+     "reason": "While Darnell holds a relevant statistics degree and brings strong R skills, his background is primarily in survey and public policy research rather than commercial retail analytics, and his SQL and BI experience relies heavily on query templates and basic Tableau views."
+    }
+   }
+  }
+ ]
+}

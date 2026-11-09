@@ -1,0 +1,85 @@
+{
+ "run_id": "r2417",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:26:57Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 60,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary has strong Excel, Power BI, and civic pilot/reporting experience with a BS in Statistics, her SQL skills are basic and she lacks retail data experience.\"\n}",
+   "input_tokens": 1346,
+   "output_tokens": 60,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 60,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Mary has strong Excel, Power BI, and civic pilot/reporting experience with a BS in Statistics, her SQL skills are basic and she lacks retail data experience.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Tyr23cZN5bNHqqj_eP5Oti9zKa7Jh99dh4FrPjjDrIok-cEwMtYB3qjDiYA3SjmXJo_Yxe0xO2XwnL397gXx_y2ifzbtJz_9p6w5a4oxrCA8hf2d2twHah1heNpMFd_SlGZY=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "YQLyaoz9OKGtwbUPr5CNqAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 60,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1346,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1346
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1406,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 60,
+     "decision": "REJECT",
+     "reason": "While Mary has strong Excel, Power BI, and civic pilot/reporting experience with a BS in Statistics, her SQL skills are basic and she lacks retail data experience."
+    }
+   }
+  }
+ ]
+}

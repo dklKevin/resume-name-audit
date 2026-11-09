@@ -1,0 +1,85 @@
+{
+ "run_id": "r0486",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:19:03Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"Mary has over five years of relevant analyst experience, strong SQL and Excel skills, hands-on Power BI experience, a BS in Statistics, and lives locally in Columbus.\"}",
+   "input_tokens": 1325,
+   "output_tokens": 53,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"Mary has over five years of relevant analyst experience, strong SQL and Excel skills, hands-on Power BI experience, a BS in Statistics, and lives locally in Columbus.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TYnL7HSukqyUob8DMBtWX6rHeK58OAXCzZAEAtnqoVvE84M7SQd6JqBcqf8wVjQYMwx5_q8PurqySwux8VtG57qT4OzPbrsSzba6pjPIv82auLqBQsd1ld6_2FNPbIsmwSgI=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "hwDyapHrL5KEytMPuYG7wQM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 53,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1325,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1325
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1378,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "Mary has over five years of relevant analyst experience, strong SQL and Excel skills, hands-on Power BI experience, a BS in Statistics, and lives locally in Columbus."
+    }
+   }
+  }
+ ]
+}

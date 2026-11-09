@@ -1,0 +1,85 @@
+{
+ "run_id": "r0810",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:21:04Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 88,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Latonya is a local Columbus candidate with over seven years of strong SQL, Python, and BI reporting experience, holding a BS in Statistics from Ohio State that perfectly aligns with the position requirements.\"\n}",
+   "input_tokens": 1336,
+   "output_tokens": 66,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 88,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Latonya is a local Columbus candidate with over seven years of strong SQL, Python, and BI reporting experience, holding a BS in Statistics from Ohio State that perfectly aligns with the position requirements.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TC3lC0Fng3GW8lX9O9mYhdLpu_63Z2QHrbdhJbj6UDHFtmn6UPzwPXtKfqc3LsFn1L0DRmnZds1xe55FfJKHC3iqyMt2YHU2AoTKcJ53F_i4QQmp3BTmrEMEyFHoe4hiktFo=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "AAHyapDAHdvcytMPgoaY4QM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 66,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1336,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1336
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1402,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "Latonya is a local Columbus candidate with over seven years of strong SQL, Python, and BI reporting experience, holding a BS in Statistics from Ohio State that perfectly aligns with the position requirements."
+    }
+   }
+  }
+ ]
+}

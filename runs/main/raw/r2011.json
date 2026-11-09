@@ -1,0 +1,85 @@
+{
+ "run_id": "r2011",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:25:27Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 88,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Thomas has four years of experience as a pricing and reporting analyst in Columbus, strong SQL and Power BI skills, a BS in Statistics, and direct experience with retail distribution data and Snowflake.\"\n}",
+   "input_tokens": 1326,
+   "output_tokens": 64,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 88,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Thomas has four years of experience as a pricing and reporting analyst in Columbus, strong SQL and Power BI skills, a BS in Statistics, and direct experience with retail distribution data and Snowflake.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TcpaQf5a3nW3b7QQjQAPioMGFp0tOP2sxbYA8q5SW1xU2CDi6UigwN3h14HLMZWbKYr1RWMIBL7wZByjsqJZ6kc4DtOPU4enYcRfijTBFXuoYJX_C4sc9o8g2a86gDyFk2sM=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "CALyarKgAqeM1sgPsOGf6QM",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 64,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1326,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1326
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1390,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "Thomas has four years of experience as a pricing and reporting analyst in Columbus, strong SQL and Power BI skills, a BS in Statistics, and direct experience with retail distribution data and Snowflake."
+    }
+   }
+  }
+ ]
+}

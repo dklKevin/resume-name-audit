@@ -1,0 +1,14 @@
+{
+  "gemini": {
+    "harness": 84.0,
+    "harness_n": 24,
+    "contrast": 98.54166666666667,
+    "contrast_n": 24
+  },
+  "openai": {
+    "harness": 95.25,
+    "harness_n": 24,
+    "contrast": 98.83333333333333,
+    "contrast_n": 24
+  }
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r2036",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:25:33Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 62,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Jermaine has a strong statistics background, local Columbus location, and relevant inventory/supply chain exposure, his SQL experience is relatively basic/recent and his primary background is in healthcare FP&A rather than core merchandising or retail analytics.\"\n}",
+   "input_tokens": 1353,
+   "output_tokens": 74,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 62,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Jermaine has a strong statistics background, local Columbus location, and relevant inventory/supply chain exposure, his SQL experience is relatively basic/recent and his primary background is in healthcare FP&A rather than core merchandising or retail analytics.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TX7gCEZPWzIY4WK5P-mnuvRlOWFdAFKvQUxukcHZO-YMhZ369Oddl6yf0Qy_fUTztSF-jIMpoyv3Tg2x-eFbl2nfLI8kAJtDTcxDLVLBMIbRqzwToylC_sU03UReCZpIGMj8=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "DQLyasu7HLj9wbUPqZ6KoAw",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 74,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1353,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1353
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1427,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 62,
+     "decision": "REJECT",
+     "reason": "While Jermaine has a strong statistics background, local Columbus location, and relevant inventory/supply chain exposure, his SQL experience is relatively basic/recent and his primary background is in healthcare FP&A rather than core merchandising or retail analytics."
+    }
+   }
+  }
+ ]
+}

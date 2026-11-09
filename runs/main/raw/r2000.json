@@ -1,0 +1,85 @@
+{
+ "run_id": "r2000",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:25:25Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 85,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Mary combines a relevant BS in Statistics with over six years of hands-on supply chain data experience, strong SQL and Power BI skills, and a local Columbus presence.\"\n}",
+   "input_tokens": 1442,
+   "output_tokens": 60,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 85,\n  \"decision\": \"ADVANCE\",\n  \"reason\": \"Mary combines a relevant BS in Statistics with over six years of hands-on supply chain data experience, strong SQL and Power BI skills, and a local Columbus presence.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TbS1mP4burksdvChZPEjY7_SoubzjBN8stgQehKRbb_KC9ZKwJv7PZAMugUCdFqeM6d51JubmGTJcDP28W-vL1vX_kCJowsRpHjqBS5EA-OawqrHx6RrTjx85mazsV_GNkfs=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "BQLyasKpK9yEuMYP18STgQ8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 60,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1442,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1442
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1502,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 85,
+     "decision": "ADVANCE",
+     "reason": "Mary combines a relevant BS in Statistics with over six years of hands-on supply chain data experience, strong SQL and Power BI skills, and a local Columbus presence."
+    }
+   }
+  }
+ ]
+}

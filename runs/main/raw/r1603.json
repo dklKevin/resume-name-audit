@@ -1,0 +1,85 @@
+{
+ "run_id": "r1603",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:00Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a local candidate with strong SQL, Python, Tableau, and data cleanup experience, holding a BS in Statistics, though his background is primarily in utility customer analytics rather than retail merchandising.\"}",
+   "input_tokens": 1347,
+   "output_tokens": 59,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Jermaine is a local candidate with strong SQL, Python, Tableau, and data cleanup experience, holding a BS in Statistics, though his background is primarily in utility customer analytics rather than retail merchandising.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TESorPtiL-MQQBsfOo3P9Q6gnpr3nRQKYk36vcoon6nzTW7e4siwm3Ttc4rjIHe_ilnd8T9eOD27Jf4yZpoUxnE1b3opoFdlDQ1dr-_Kt1-E3Gtl2coWktrnoYM8s32jW4xw=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "sAHyauulOs_bytMPo_jqMQ",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 59,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1347,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1347
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1406,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Jermaine is a local candidate with strong SQL, Python, Tableau, and data cleanup experience, holding a BS in Statistics, though his background is primarily in utility customer analytics rather than retail merchandising."
+    }
+   }
+  }
+ ]
+}

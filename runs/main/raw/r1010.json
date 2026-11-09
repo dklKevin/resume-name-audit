@@ -1,0 +1,85 @@
+{
+ "run_id": "r1010",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:21:50Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings strong, relevant experience in inventory and supply chain analytics with solid SQL, Excel, and Power BI skills in Columbus, though his education is an Associate degree rather than a quantitative Bachelor's.\"}",
+   "input_tokens": 1328,
+   "output_tokens": 59,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 78, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings strong, relevant experience in inventory and supply chain analytics with solid SQL, Excel, and Power BI skills in Columbus, though his education is an Associate degree rather than a quantitative Bachelor's.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TKpsdQ1c6FZns071EynnDf_6P_l1rd1iG6e9oxCuYw2p4z05tqMQ8lun_-MD9YUf-2S5EOaMZ98QWMCEBIZFFuf9fW0l-Lmp0gt2GZ_Nemd-IM3Pa2FWO1u6ulpstqGSdtbc=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "LgHyavTsKea_xdIPxuvAwQk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 59,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1328,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1328
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1387,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 78,
+     "decision": "ADVANCE",
+     "reason": "Thomas brings strong, relevant experience in inventory and supply chain analytics with solid SQL, Excel, and Power BI skills in Columbus, though his education is an Associate degree rather than a quantitative Bachelor's."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r0970",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:21:41Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 85, \"decision\": \"ADVANCE\", \"reason\": \"Mary brings over twelve years of strong quantitative experience in SQL, R, and Tableau, a B.S. in Statistics from OSU, local residency, and relevant experience evaluating pilot programs and data quality issues.\"}",
+   "input_tokens": 1307,
+   "output_tokens": 60,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 85, \"decision\": \"ADVANCE\", \"reason\": \"Mary brings over twelve years of strong quantitative experience in SQL, R, and Tableau, a B.S. in Statistics from OSU, local residency, and relevant experience evaluating pilot programs and data quality issues.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T93xLQwcfuHhh9pM2IqLkXiGy4RXVGPSMX8Agl115JNFk1DzEVJweceobKmxEzzzdAhw_ezQuxJtp_A0FLou9icZQq_Y7rKtoO-_0jIHl3vl8twyiQilxJgRvgQWshGfS1Vo=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "JQHyaoKhEPPAytMPnpy8gQ4",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 60,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1307,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1307
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1367,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 85,
+     "decision": "ADVANCE",
+     "reason": "Mary brings over twelve years of strong quantitative experience in SQL, R, and Tableau, a B.S. in Statistics from OSU, local residency, and relevant experience evaluating pilot programs and data quality issues."
+    }
+   }
+  }
+ ]
+}

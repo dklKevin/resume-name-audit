@@ -1,0 +1,97 @@
+run_id,provider,kind,source_run_ids,names
+p0001,openai,contrast,r2382 r1370,Michael Meyer | Latasha Burke
+p0002,openai,harness,r0690,Jermaine Wood
+p0003,openai,contrast,r0216 r1570,Mary Snyder | Jermaine Jackson
+p0004,gemini,contrast,r1513 r1795,Thomas Snyder | Darnell Williams
+p0005,openai,harness,r0106,Latasha Burke
+p0006,gemini,contrast,r1811 r1616,Darnell Williams | Latonya Williams
+p0007,gemini,contrast,r2044 r2039,Mary Snyder | Jermaine Jackson
+p0008,openai,harness,r1998,Jermaine Jackson
+p0009,openai,contrast,r2457 r0921,Mary Meyer | Latasha Burke
+p0010,openai,contrast,r1613 r0220,Thomas Snyder | Darnell Williams
+p0011,gemini,contrast,r0538 r1295,Mary Snyder | Michael Meyer
+p0012,gemini,harness,r0179,Thomas Snyder
+p0013,gemini,harness,r2333,Latasha Burke
+p0014,gemini,contrast,r1176 r1834,Jermaine Jackson | Mary Ryan
+p0015,gemini,contrast,r0648 r1542,Latasha Burke | Darnell Williams
+p0016,openai,contrast,r0815 r1190,Latonya Williams | Thomas Snyder
+p0017,gemini,harness,r0239,Jermaine Wood
+p0018,gemini,contrast,r1492 r1366,Tamika Jackson | Mary Snyder
+p0019,openai,contrast,r2371 r1836,David Ryan | Latonya Williams
+p0020,openai,contrast,r2136 r1786,Tamika Jackson | Jermaine Wood
+p0021,openai,harness,r1747,Darnell Williams
+p0022,gemini,contrast,r2209 r2322,Latonya Williams | Jermaine Jackson
+p0023,openai,harness,r1589,Tamika Jackson
+p0024,openai,harness,r1320,Michael Meyer
+p0025,openai,harness,r2207,Mary Ryan
+p0026,openai,contrast,r0717 r0819,Jermaine Jackson | Mary Ryan
+p0027,gemini,contrast,r2183 r0380,Michael Meyer | Latasha Burke
+p0028,gemini,harness,r0328,Michael Meyer
+p0029,gemini,harness,r1995,Thomas Snyder
+p0030,openai,contrast,r1287 r1969,Mary Meyer | Thomas Snyder
+p0031,gemini,harness,r1383,Latonya Williams
+p0032,gemini,harness,r0544,Tamika Jackson
+p0033,openai,harness,r0709,Mary Meyer
+p0034,openai,harness,r1974,Latonya Williams
+p0035,openai,contrast,r0657 r0157,Jermaine Wood | Mary Meyer
+p0036,openai,harness,r0111,David Ryan
+p0037,gemini,harness,r2174,Jermaine Jackson
+p0038,gemini,contrast,r0081 r2301,Jermaine Wood | Mary Meyer
+p0039,gemini,contrast,r1506 r0079,Michael Meyer | Mary Ryan
+p0040,openai,contrast,r1707 r0669,Mary Snyder | Michael Meyer
+p0041,gemini,contrast,r1657 r0889,Jermaine Wood | Michael Meyer
+p0042,openai,harness,r0717,Jermaine Jackson
+p0043,gemini,contrast,r0145 r1736,Jermaine Jackson | Tamika Jackson
+p0044,openai,contrast,r0025 r2064,Tamika Jackson | Mary Snyder
+p0045,openai,contrast,r1370 r0115,Latasha Burke | Darnell Williams
+p0046,openai,harness,r0669,Michael Meyer
+p0047,gemini,harness,r0811,Mary Ryan
+p0048,openai,harness,r0119,Mary Ryan
+p0049,openai,harness,r0618,Thomas Snyder
+p0050,openai,harness,r2196,Jermaine Wood
+p0051,gemini,contrast,r1073 r1500,Mary Ryan | David Ryan
+p0052,openai,harness,r1452,Mary Snyder
+p0053,gemini,harness,r1014,Mary Snyder
+p0054,gemini,harness,r0256,Mary Meyer
+p0055,gemini,harness,r1808,Darnell Williams
+p0056,openai,contrast,r1221 r0572,Jermaine Wood | Michael Meyer
+p0057,gemini,harness,r1888,Latonya Williams
+p0058,openai,harness,r1327,Thomas Snyder
+p0059,gemini,contrast,r2171 r0542,Mary Meyer | Latasha Burke
+p0060,openai,harness,r0283,David Ryan
+p0061,openai,contrast,r0215 r1803,Mary Ryan | David Ryan
+p0062,openai,contrast,r1332 r0764,Darnell Williams | Latonya Williams
+p0063,openai,contrast,r2438 r1672,David Ryan | Mary Meyer
+p0064,gemini,contrast,r1795 r2545,Darnell Williams | Mary Snyder
+p0065,openai,harness,r2474,Darnell Williams
+p0066,openai,contrast,r1527 r1758,Jermaine Jackson | Tamika Jackson
+p0067,openai,harness,r2198,Tamika Jackson
+p0068,gemini,contrast,r1583 r1451,David Ryan | Mary Meyer
+p0069,openai,contrast,r1682 r2098,Thomas Snyder | Tamika Jackson
+p0070,gemini,contrast,r0597 r1109,Thomas Snyder | Tamika Jackson
+p0071,gemini,harness,r2085,Tamika Jackson
+p0072,openai,harness,r1201,Latonya Williams
+p0073,gemini,harness,r1657,Jermaine Wood
+p0074,gemini,contrast,r1497 r0344,Latasha Burke | David Ryan
+p0075,gemini,contrast,r2192 r1525,David Ryan | Latonya Williams
+p0076,gemini,harness,r1820,Mary Meyer
+p0077,gemini,harness,r2226,Mary Snyder
+p0078,gemini,contrast,r0663 r1614,Latonya Williams | Thomas Snyder
+p0079,gemini,contrast,r1835 r1657,Mary Ryan | Jermaine Wood
+p0080,openai,harness,r1378,Mary Meyer
+p0081,gemini,harness,r2401,Jermaine Jackson
+p0082,openai,contrast,r0661 r2465,Darnell Williams | Mary Snyder
+p0083,openai,contrast,r0658 r1854,Michael Meyer | Mary Ryan
+p0084,gemini,harness,r0542,Latasha Burke
+p0085,openai,contrast,r2105 r1200,Mary Ryan | Jermaine Wood
+p0086,gemini,contrast,r2534 r2424,Tamika Jackson | Jermaine Wood
+p0087,gemini,harness,r1583,David Ryan
+p0088,gemini,contrast,r2523 r0291,Mary Meyer | Thomas Snyder
+p0089,openai,contrast,r0483 r0425,Latasha Burke | David Ryan
+p0090,gemini,harness,r1218,Mary Ryan
+p0091,gemini,harness,r1851,Darnell Williams
+p0092,openai,harness,r0634,Mary Snyder
+p0093,gemini,harness,r1439,Michael Meyer
+p0094,gemini,harness,r2079,David Ryan
+p0095,openai,contrast,r0953 r0642,Latonya Williams | Jermaine Jackson
+p0096,openai,harness,r2293,Latasha Burke

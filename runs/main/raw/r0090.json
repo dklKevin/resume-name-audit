@@ -1,0 +1,85 @@
+{
+ "run_id": "r0090",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:15:02Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 85, \"decision\": \"ADVANCE\", \"reason\": \"Mary has over 4 years of solid inventory analytics experience, strong SQL skills, a BS in Statistics, and relevant retail/supply chain domain knowledge in Columbus.\"}",
+   "input_tokens": 1334,
+   "output_tokens": 51,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 85, \"decision\": \"ADVANCE\", \"reason\": \"Mary has over 4 years of solid inventory analytics experience, strong SQL skills, a BS in Statistics, and relevant retail/supply chain domain knowledge in Columbus.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T50BPIAGJla5RJyMRDvLrZL3l1gS_h4SptktSb1hjtqwh58oLUatmSa6-Y2MOqBYmei2Joi1N2u5gWO0oNNiLYSdW3t036nzIhYS_P-tDVHr72DL6oAi8yyGny2d0rMOReT0=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "mP_xavPANau0xdIPpY2vsQk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 51,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1334,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1334
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1385,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 85,
+     "decision": "ADVANCE",
+     "reason": "Mary has over 4 years of solid inventory analytics experience, strong SQL skills, a BS in Statistics, and relevant retail/supply chain domain knowledge in Columbus."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "run_id": "r0615",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:20:07Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 45, \"decision\": \"REJECT\", \"reason\": \"While Jermaine has solid local experience and recent self-taught SQL skills, he falls short of the required quantitative bachelor's degree, 3+ years of dedicated data analyst experience, and hands-on BI tool proficiency.\"}",
+   "input_tokens": 1467,
+   "output_tokens": 64,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 45, \"decision\": \"REJECT\", \"reason\": \"While Jermaine has solid local experience and recent self-taught SQL skills, he falls short of the required quantitative bachelor's degree, 3+ years of dedicated data analyst experience, and hands-on BI tool proficiency.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TUtpH7mW3Pq4PkK8GuEr1NQYnvAbOWhkv93yNuFqP1bWaJOKy6E_rndWxlQ7P4-0czJ_COzc-TKpqOo8PigusG7N2Vzjglg1_J7AqOpRUsccPFgQm1tzAlg9y9G8aQgBzm0Q=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "xwDyaoOUNIKOytMPqqKpmAI",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 64,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1467,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1467
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1531,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 45,
+     "decision": "REJECT",
+     "reason": "While Jermaine has solid local experience and recent self-taught SQL skills, he falls short of the required quantitative bachelor's degree, 3+ years of dedicated data analyst experience, and hands-on BI tool proficiency."
+    }
+   }
+  }
+ ]
+}

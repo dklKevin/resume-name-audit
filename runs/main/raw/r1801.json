@@ -1,0 +1,85 @@
+{
+ "run_id": "r1801",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:42Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 65, \"decision\": \"REJECT\", \"reason\": \"While local and holding a BS in Statistics with strong communication skills, Jermaine has under two years of experience as a primary Data Analyst and lacks the required retail/margin experience and Power BI/Snowflake background.\"}",
+   "input_tokens": 1387,
+   "output_tokens": 61,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 65, \"decision\": \"REJECT\", \"reason\": \"While local and holding a BS in Statistics with strong communication skills, Jermaine has under two years of experience as a primary Data Analyst and lacks the required retail/margin experience and Power BI/Snowflake background.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TaiftJOGuisDuWUSc5Dzfbh1ttw7BPuwhJ5IMzVfMcJa03g8-TlCJWy9tvJLGgH3D1697myaxgtBUXVN3pEChHQ8sPYknyXOoVRm002qndCKZUHONc_9GewAqR74nmZ7vswo=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "2wHyat2GDore0_gPoODboAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 61,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1387,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1387
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1448,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 65,
+     "decision": "REJECT",
+     "reason": "While local and holding a BS in Statistics with strong communication skills, Jermaine has under two years of experience as a primary Data Analyst and lacks the required retail/margin experience and Power BI/Snowflake background."
+    }
+   }
+  }
+ ]
+}

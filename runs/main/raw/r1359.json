@@ -1,0 +1,85 @@
+{
+ "run_id": "r1359",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:23:07Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 68, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings seven years of analytical experience, strong quantitative education, local presence, and strong underlying Excel/SQL skills that translate well to merchandising analytics.\"}",
+   "input_tokens": 1350,
+   "output_tokens": 48,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 68, \"decision\": \"ADVANCE\", \"reason\": \"Thomas brings seven years of analytical experience, strong quantitative education, local presence, and strong underlying Excel/SQL skills that translate well to merchandising analytics.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Tdt073FcBNlL9jQUSVYQg9U_LEVluh8s7JQ4ulL6apk22qPLcfE3lcRHT1v_0UnI5_zqVSD1tUKgh75S39G4tOnM6fm9rZ7_Lp3i90L4JN-khLx55u_vYnDcFIzi4gcs4ubg=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "fAHyas65BeSmiLMP-daO0Qg",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 48,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1350,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1350
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1398,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 68,
+     "decision": "ADVANCE",
+     "reason": "Thomas brings seven years of analytical experience, strong quantitative education, local presence, and strong underlying Excel/SQL skills that translate well to merchandising analytics."
+    }
+   }
+  }
+ ]
+}

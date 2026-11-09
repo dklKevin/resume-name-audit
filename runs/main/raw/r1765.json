@@ -1,0 +1,85 @@
+{
+ "run_id": "r1765",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:24:34Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\n  \"score\": 68,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Jermaine is local and has a BS in Statistics with strong Power BI experience, his background is in public sector finance rather than retail, and his SQL skills are limited to basic queries rather than advanced window functions.\"\n}",
+   "input_tokens": 1349,
+   "output_tokens": 70,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\n  \"score\": 68,\n  \"decision\": \"REJECT\",\n  \"reason\": \"While Jermaine is local and has a BS in Statistics with strong Power BI experience, his background is in public sector finance rather than retail, and his SQL skills are limited to basic queries rather than advanced window functions.\"\n}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T7NnWVAcyAOHHuHPlbWhG5Nv7cuoDOJ0_ZcavjRrUkloCEUM4o8T-0ZovDsnNUq1BWxOlUgLEftUZczGmEKqEWMeufimttlcm7pKbKsNiBta0TLY_Bny4dWHi1Av-XFCOZrs=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "0wHyasKDA6qawbUP2OjZCA",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 70,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1349,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1349
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1419,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 68,
+     "decision": "REJECT",
+     "reason": "While Jermaine is local and has a BS in Statistics with strong Power BI experience, his background is in public sector finance rather than retail, and his SQL skills are limited to basic queries rather than advanced window functions."
+    }
+   }
+  }
+ ]
+}

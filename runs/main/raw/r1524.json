@@ -1,0 +1,85 @@
+{
+ "run_id": "r1524",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T17:23:43Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"Thomas has 10 years of overall data analyst experience, a BS in Statistics, strong SQL and Python skills, and experience with Tableau and Snowflake migration, making him a strong candidate despite his domain background being in utilities rather than retail.\"}",
+   "input_tokens": 1344,
+   "output_tokens": 66,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"Thomas has 10 years of overall data analyst experience, a BS in Statistics, strong SQL and Python skills, and experience with Tableau and Snowflake migration, making him a strong candidate despite his domain background being in utilities rather than retail.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T_rNUBYOslm5AuwQCsq2ccQafHtSntwVij2u2Ab_aXYWW-woI0WyVV7QVD03jEft-qo0DcANC8liCRMCudfcShduRP2gyASqmyKYivTsuEHXnum3dD5VrMr-z9wl2ywci_2k=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "oAHyasLMCJ2niLMP8puwiQs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 66,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1344,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1344
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1410,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 82,
+     "decision": "ADVANCE",
+     "reason": "Thomas has 10 years of overall data analyst experience, a BS in Statistics, strong SQL and Python skills, and experience with Tableau and Snowflake migration, making him a strong candidate despite his domain background being in utilities rather than retail."
+    }
+   }
+  }
+ ]
+}
