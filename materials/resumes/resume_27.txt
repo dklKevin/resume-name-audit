@@ -1,0 +1,38 @@
+{NAME}
+Columbus, OH | (614) 555-0127 | {EMAIL}
+
+SUMMARY
+Marketing analyst at a regional credit card processor, owning reporting and analysis for the merchant acquisition funnel from first lead to signed agreement. Writes SQL against the CRM database most weeks and builds Tableau dashboards used by marketing, sales leadership and sales operations. Started as a marketing coordinator and grew into analysis by taking over the team's reporting, and now wants a broader analyst role beyond marketing data.
+
+EXPERIENCE
+Marketing Analyst | Tidewell Payments, Columbus, OH | Feb 2023 to Present
+• Own monthly reporting on the merchant acquisition funnel, from website lead through signed processing agreement, for a sales team of 28 account executives.
+• Write SQL against a read-only copy of the CRM database to join lead, activity and contract tables, using CTEs and simple window functions to calculate time between touches and stage to stage conversion; queries now run without engineering review.
+• Built a Tableau dashboard on lead follow-up speed and lead to signed conversion by account executive and region. Regional sales managers and sales operations use it in weekly pipeline meetings, and the VP of sales added it to the monthly sales review.
+• Showed that leads contacted after 48 hours signed at less than half the rate of same day leads, which led sales operations to add an automatic reassignment rule for untouched leads.
+• Set up lead scoring rules in HubSpot with the sales operations manager and reviewed results each quarter. The share of high score leads that signed rose from 14 to 21 percent over a year.
+• Analyzed an email nurture pilot for restaurant and salon prospects against a holdout group and recommended expanding it after a 2.4 point lift in booked demos.
+• Compared paid search, trade association sponsorships and referral partner leads on cost per signed merchant, which moved about $35,000 of annual spend from sponsorships into the referral program.
+• Reconcile campaign spend against invoices each month and produce the channel budget summary for the marketing director.
+
+Marketing Coordinator | Tidewell Payments, Columbus, OH | Aug 2020 to Jan 2023
+• Scheduled and launched email campaigns, webinars and trade show follow-up sequences in HubSpot for a merchant base of about 9,000 small businesses.
+• Kept the campaign calendar and tracked open, click and registration rates in a shared Excel workbook.
+• Cleaned the HubSpot contact database before a CRM integration, merging about 6,500 duplicate records.
+• Built the first monthly marketing report for the director, which grew into the analyst role.
+• Coordinated booth logistics and lead capture for eight industry trade shows a year, then loaded and tagged the scanned leads within two days of each event.
+• Wrote the monthly email performance recap, comparing each send with the prior three months and noting which subject lines and offers drew the most demo requests.
+
+EDUCATION
+{DEGREE_LINE}, 2020
+
+SKILLS
+Marketing systems: HubSpot (workflows, lead scoring, custom reports), Salesforce reports, Google Analytics 4
+Data and analysis: SQL (joins, CTEs, aggregation, basic window functions), Excel (pivot tables, XLOOKUP, charts), funnel and cohort analysis
+Visualization: Tableau Desktop and Tableau Server (four published dashboards)
+Communication: monthly written summaries, budget reviews with marketing leadership, pipeline reviews with sales
+
+ADDITIONAL
+• Completed an online SQL for data analysis course with a final project on campaign attribution, 2024
+• HubSpot Marketing Hub Software Certification, 2022
+• Volunteer at a Columbus nonprofit job resource center, helping visitors build simple budgeting spreadsheets

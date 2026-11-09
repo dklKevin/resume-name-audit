@@ -1,0 +1,40 @@
+{NAME}
+Columbus, OH | (614) 555-0106 | {EMAIL}
+
+SUMMARY
+Pricing analyst at a consumer goods distributor serving grocery, convenience and hardware accounts, after two years in sales reporting at an office supply company. Prepares price change files, margin summaries and Power BI reports for account managers and regional sales leaders. Comfortable with SQL for day to day pulls and with Excel for most of the modeling.
+
+EXPERIENCE
+Pricing Analyst | Ridgeworth Brands Distribution, Columbus, OH | Nov 2022 to Present
+• Prepare customer price files and margin impact summaries in Excel for annual list price increases, each covering several thousand SKUs.
+• Maintain a Power BI report comparing realized price against planned price by customer tier, used by account managers in the central and east regions.
+• Pull invoice and allowance data with SQL for the senior pricing analyst's margin leakage work, and check totals against the general ledger before each monthly update.
+• Ran a before and after comparison of volume on paper goods following a 2023 price increase, which suggested private label items held volume better than forecast.
+• Merged duplicate ship-to records in the pricing system after tracing a few margin reporting errors back to the customer hierarchy.
+• Answer pricing questions from account managers about contract terms, rebate eligibility and order history, usually the same or next day.
+• Keep the pricing team's shared calendar of planned price actions and send a short weekly note on upcoming changes to the customer service team.
+• Reviewed promotional allowance end dates against invoice data each month and sent exceptions to billing, a check that caught several allowances still applied after expiry.
+• Built a small Excel model that estimates the margin effect of a proposed freight surcharge by customer size band, used once in 2024 planning.
+• Updated a set of legacy pricing queries to point at new Snowflake tables after the company moved off its old reporting server.
+
+Sales Reporting Associate | Penderby Office Supply, Columbus, OH | Jul 2020 to Oct 2022
+• Prepared weekly sales and gross margin reports by branch and product line for a 60 person sales team.
+• Automated part of the monthly commission data pull with Power Query, shortening a three day process to about a day and a half.
+• Answered order history questions from sales reps with simple SQL Server queries.
+• Built an Excel tracker for vendor cost increases that showed the sales team which customer contracts needed repricing first.
+• Cleaned branch and rep codes in the sales file each month so regional totals matched finance.
+• Kept the product line mapping table current as new items were added, so margin by line stayed consistent from month to month.
+• Pulled monthly sales by customer for the credit team when accounts were flagged for late payment.
+• Assembled the quarterly branch ranking packet for the sales director from Excel exports.
+
+EDUCATION
+{DEGREE_LINE}, 2020
+
+SKILLS
+SQL: Snowflake, SQL Server, joins, aggregations, basic CTEs
+BI and spreadsheets: Power BI (report pages, basic DAX), advanced Excel (pivot tables, Power Query, scenario models)
+Analysis: before and after price comparisons, margin bridges, rebate accruals
+Tools: SharePoint, Salesforce reports, SAP order history extracts
+
+ADDITIONAL
+• Attends a quarterly Columbus analytics meetup focused on reporting and warehouse modeling

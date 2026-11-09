@@ -1,0 +1,42 @@
+{NAME}
+Columbus, OH | (614) 555-0112 | {EMAIL}
+
+SUMMARY
+Supply chain analyst at a manufacturer of replacement parts for kitchen appliances, supporting planners and buyers on demand, supplier lead times and inventory levels. Writes SQL against the ERP, keeps a Power BI inventory report current and does most modeling in Excel. Has worked with distributors and online sellers as customers but not directly with store level retail data.
+
+EXPERIENCE
+Supply Chain Analyst | Corbett Appliance Components, Columbus, OH | Mar 2021 to Present
+• Run the monthly statistical forecast for service part SKUs using SQL extracts from Epicor ERP and the forecasting module's settings, then review large swings with the planning manager.
+• Pulled four years of purchase order history for a supplier lead time review, which showed overseas suppliers were often later than quoted and led planners to adjust some lead time settings.
+• Maintain a Power BI inventory health report (weeks of supply, excess, obsolete, backorders) reviewed weekly by the planning manager and three buyers.
+• Fixed missing family codes on a few hundred parts after a system migration, working through an exception list with the product data team.
+• Write short notes on major shortages for customer service to share with the larger distributor accounts.
+• Update the supplier on-time and fill rate scorecard each quarter in Excel ahead of procurement's vendor reviews.
+• Calculate suggested safety stock levels by SKU class in Excel for planners to review, following the method set by the planning manager.
+• Use a short Python script inherited from a former analyst to assemble the weekly excess and obsolete report, and fix it when column names change.
+• Joined the monthly sales and operations planning meeting to present inventory trends by product family.
+• Answer ad hoc questions from buyers on open orders and stock positions, usually the same day.
+
+Materials Planning Analyst | Corbett Appliance Components, Columbus, OH | Jun 2018 to Feb 2021
+• Ran weekly MRP exception reports and expedited purchase orders for 3,000 SKUs.
+• Built Excel models for supplier minimum order quantities and freight consolidation that reduced expedite charges.
+• Saved a set of SQL queries to replace manual ERP exports and shared the file with the planning team.
+• Updated planning parameters in the ERP after each quarterly review of lead times and order quantities.
+• Built an Excel tracker for parts on allocation during the 2020 component shortages so customer service could quote realistic ship dates.
+• Coordinated with the warehouse on cycle count discrepancies for high value parts.
+
+Operations Intern | Westbury Packaging Solutions, Columbus, OH | May 2017 to Aug 2017
+• Measured changeover times on two packaging lines and summarized downtime causes in Excel for the plant manager.
+• Cleaned a 9,000 row bill of materials file ahead of an ERP upgrade.
+
+EDUCATION
+{DEGREE_LINE}, 2018
+
+SKILLS
+Data: SQL (SQL Server), Epicor ERP, Python (basic, maintaining existing scripts)
+Reporting: Power BI (report maintenance, simple DAX), Excel (Power Pivot, advanced formulas)
+Planning methods: demand forecasting, safety stock, ABC classification, lead time tracking, MRP
+
+ADDITIONAL
+• Member, Association for Supply Chain Management (ASCM)
+• Built a volunteer inventory tracking workbook for a Columbus furniture donation warehouse

@@ -1,0 +1,36 @@
+{NAME}
+Columbus, OH | (614) 555-0124 | {EMAIL}
+
+SUMMARY
+Ecommerce operations specialist at an online furniture retailer, handling order, fulfillment and returns reporting for a business that ships about 9,000 orders a month. Works mostly in Excel and Shopify reports, writes some SQL against the order database, and learned Power BI independently to replace a set of manual spreadsheets. Looking for a dedicated analyst role with more time on data and less on daily order exceptions.
+
+EXPERIENCE
+Ecommerce Operations Specialist | Loftwood Home Online, Columbus, OH | Feb 2021 to Present
+• Prepare the weekly operations report on orders, ship times, damage claims and returns for the director of operations, pulling from Shopify, the 3PL portal and Gorgias customer service data.
+• Built a returns reason analysis showing that 38% of sofa returns cited color mismatch. Merchandising reshot product photos for 120 fabric options, and returns on those items fell from 14% to 9%.
+• Picked up Power BI through online modules and built an order fulfillment dashboard that replaced four Excel workbooks; the operations and customer service leads now open it daily.
+• Write basic SQL queries (joins across orders, line items and shipments) on a read-only Postgres replica set up by the engineering team, mostly for carrier delay and backorder questions.
+• Reconcile monthly freight invoices from two LTL carriers against shipment records, recovering about $26,000 in billing errors in 2025.
+• Work with the warehouse partner to resolve stock discrepancies between Shopify and the 3PL inventory feed, keeping a running Excel log of SKUs that drift out of sync and why.
+• Track average days from order to delivery by carrier and region in a monthly summary; the 2024 numbers supported moving large item deliveries from one white glove carrier to another, cutting average delivery time from 16 to 11 days.
+• Built Excel templates for the customer service team to log damage photos and claim amounts, which shortened the claims filing process with carriers.
+• Answer quick data requests from the marketing and merchandising teams, such as top returned SKUs or backorder counts by collection, usually within a day.
+
+Customer Order Coordinator | Bramblewood Interiors, Columbus, OH | Jul 2018 to Jan 2021
+• Managed special orders and delivery scheduling for a two showroom furniture retailer, usually about 150 open orders at a time.
+• Kept an Excel tracker of vendor ship dates and delays that the sales staff used to update customers.
+• Built a simple weekly report of delivered, delayed and cancelled orders for the owner.
+• Processed damage claims with freight carriers and vendors, recovering credits on about 60 claims a year.
+• Updated product availability and lead times on the showroom website each week from vendor emails.
+
+EDUCATION
+{DEGREE_LINE}, 2018
+
+SKILLS
+Reporting: Excel (pivot tables, XLOOKUP, Power Query), Power BI (report building, basic DAX), Shopify Analytics, Google Sheets
+Data: SQL (basic to intermediate, PostgreSQL), CSV exports from 3PL and carrier portals
+Ecommerce operations: order management, returns processing, freight claims, inventory sync
+
+ADDITIONAL
+• Completed the Mode SQL tutorial and Microsoft Learn Power BI modules, 2023
+• Volunteer at a Columbus community tool library, keeping the lending inventory spreadsheet up to date

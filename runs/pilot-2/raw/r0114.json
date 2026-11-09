@@ -1,0 +1,85 @@
+{
+ "run_id": "r0114",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:06:58Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"David meets the three-plus years of experience requirement, possesses strong practical SQL and Power BI skills in a hybrid Columbus location, and demonstrates excellent communication and data validation capabilities despite lacking a four-year quantitative degree.\"}",
+   "input_tokens": 1406,
+   "output_tokens": 61,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 82, \"decision\": \"ADVANCE\", \"reason\": \"David meets the three-plus years of experience requirement, possesses strong practical SQL and Power BI skills in a hybrid Columbus location, and demonstrates excellent communication and data validation capabilities despite lacking a four-year quantitative degree.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0THnnu72uxTZMIEr-oHKySJLj797pCN21iI8sgO0PgQf3MWdF91vZgs6fJuh_Sgj3OxvWalMAt8RExhSywZg3izsHWMxRctUiCufCQr0HGr911w7ZG-sfODVDSnVTZq0494-M=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "EnHxav7QO_D9wbUP2ciFqAk",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 61,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1406,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1406
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1467,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 82,
+     "decision": "ADVANCE",
+     "reason": "David meets the three-plus years of experience requirement, possesses strong practical SQL and Power BI skills in a hybrid Columbus location, and demonstrates excellent communication and data validation capabilities despite lacking a four-year quantitative degree."
+    }
+   }
+  }
+ ]
+}

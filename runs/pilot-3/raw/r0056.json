@@ -1,0 +1,148 @@
+{
+ "run_id": "r0056",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:13:41Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":70,\"decision\":\"ADVANCE\",\"reason\":\"David meets the experience and quantitative-degree requirements and shows strong SQL, reconciliation, data-quality, Excel, and stakeholder-reporting skills, though his Power BI experience is early and he lacks direct retail, inventory, and Snowflake experience.\"}",
+   "input_tokens": 1308,
+   "output_tokens": 69,
+   "error": null,
+   "response": {
+    "id": "resp_0b804903a6e5e06c016af172a5860887d2b21a3df0da2d2312",
+    "access_programs": null,
+    "created_at": 1794208421.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_0b804903a6e5e06c016af172a648d087d2bc9f7bb2b15eba51",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":70,\"decision\":\"ADVANCE\",\"reason\":\"David meets the experience and quantitative-degree requirements and shows strong SQL, reconciliation, data-quality, Excel, and stakeholder-reporting skills, though his Power BI experience is early and he lacks direct retail, inventory, and Snowflake experience.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794208423.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1308,
+     "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1305,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 69,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1377
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

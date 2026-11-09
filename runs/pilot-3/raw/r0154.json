@@ -1,0 +1,148 @@
+{
+ "run_id": "r0154",
+ "provider": "openai",
+ "requested_model": "gpt-6-luna",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:13:59Z",
+   "model": "gpt-6-luna",
+   "text": "{\"score\":68,\"decision\":\"ADVANCE\",\"reason\":\"Strong retail experience, a quantitative degree, practical Tableau and Excel reporting, and a measured promotion pilot are compelling, though his SQL is basic and his analyst experience is limited relative to the role\u2019s three-year requirement.\"}",
+   "input_tokens": 1450,
+   "output_tokens": 65,
+   "error": null,
+   "response": {
+    "id": "resp_05f8270fb3239b3e016af172b7c0e087d2aa7cd0f7190393ff",
+    "access_programs": null,
+    "created_at": 1794208439.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-6-luna",
+    "object": "response",
+    "output": [
+     {
+      "id": "msg_05f8270fb3239b3e016af172b8becc87d2b3c347fb7ee66026",
+      "content": [
+       {
+        "annotations": [],
+        "text": "{\"score\":68,\"decision\":\"ADVANCE\",\"reason\":\"Strong retail experience, a quantitative degree, practical Tableau and Excel reporting, and a measured promotion pilot are compelling, though his SQL is basic and his analyst experience is limited relative to the role\u2019s three-year requirement.\"}",
+        "type": "output_text",
+        "logprobs": []
+       }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+     }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1794208441.0,
+    "conversation": null,
+    "image": {
+     "context_compression": "disabled"
+    },
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_diagnostics": null,
+    "prompt_cache_key": null,
+    "prompt_cache_options": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+     "context": "all_turns",
+     "effort": "none",
+     "generate_summary": null,
+     "mode": "standard",
+     "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+     "format": {
+      "name": "screening_decision",
+      "schema_": {
+       "type": "object",
+       "properties": {
+        "score": {
+         "type": "integer"
+        },
+        "decision": {
+         "type": "string",
+         "enum": [
+          "ADVANCE",
+          "REJECT"
+         ]
+        },
+        "reason": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "score",
+        "decision",
+        "reason"
+       ],
+       "additionalProperties": false
+      },
+      "type": "json_schema",
+      "description": null,
+      "strict": true
+     },
+     "verbosity": "medium"
+    },
+    "tool_usage": {
+     "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "cached_tokens": null,
+      "cached_tokens_details": null,
+      "output_tokens_details": {
+       "image_tokens": 0,
+       "text_tokens": 0
+      }
+     },
+     "web_search": {
+      "num_requests": 0
+     }
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+     "input_tokens": 1450,
+     "input_tokens_details": {
+      "cache_write_tokens": 1447,
+      "cached_tokens": 0,
+      "cache_write_tokens_details": null
+     },
+     "output_tokens": 65,
+     "output_tokens_details": {
+      "reasoning_tokens": 0
+     },
+     "total_tokens": 1515
+    },
+    "user": null,
+    "billing": {
+     "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": false
+   }
+  }
+ ]
+}

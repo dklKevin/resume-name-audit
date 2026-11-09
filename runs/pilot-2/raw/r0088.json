@@ -1,0 +1,85 @@
+{
+ "run_id": "r0088",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:06:53Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"While David holds a relevant B.S. in Statistics and has shown strong analytical initiative, he lacks the required three years of dedicated data analyst experience and deep proficiency with advanced SQL and BI tools like Power BI.\"}",
+   "input_tokens": 1391,
+   "output_tokens": 61,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"While David holds a relevant B.S. in Statistics and has shown strong analytical initiative, he lacks the required three years of dedicated data analyst experience and deep proficiency with advanced SQL and BI tools like Power BI.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Thw28pUcL9dyXBGWX6RZORuRAGZKAPcnCg3JHZCsB8KUMxUdCsSqzK9bQb11tzAZf38IxtZ1Hgb4zQqLBxFERRRaa2V6Q4xVHv0Fb2z78Rv4nJFM2IkkzMJfRItPXf1oy5ug=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "DXHxarOGL6bf0_gP_q2zsAw",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 61,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1391,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1391
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1452,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 52,
+     "decision": "REJECT",
+     "reason": "While David holds a relevant B.S. in Statistics and has shown strong analytical initiative, he lacks the required three years of dedicated data analyst experience and deep proficiency with advanced SQL and BI tools like Power BI."
+    }
+   }
+  }
+ ]
+}

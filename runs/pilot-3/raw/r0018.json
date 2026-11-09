@@ -1,0 +1,85 @@
+{
+ "run_id": "r0018",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:13:34Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"While David shows strong practical SQL skills and sales operations analysis in Columbus, he lacks the required bachelor's degree in a quantitative field and has no hands-on experience with dedicated BI tools like Power BI.\"}",
+   "input_tokens": 1463,
+   "output_tokens": 60,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 52, \"decision\": \"REJECT\", \"reason\": \"While David shows strong practical SQL skills and sales operations analysis in Columbus, he lacks the required bachelor's degree in a quantitative field and has no hands-on experience with dedicated BI tools like Power BI.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0Trme_dn3v706S_NUaYwsTthf500xzTLG6IhKQbRxyRdRRI7QZHFWTI0L-CEY8gHbVCmSmRP6iVmnLkVB-C5m6z9ys_OgOxM8icpQ7W5e9363XotPMRuQbM6OrG6f7H07FLYw=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "nnLxaqmKE5n70_gPjYiz0Qs",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 60,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1463,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1463
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1523,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 52,
+     "decision": "REJECT",
+     "reason": "While David shows strong practical SQL skills and sales operations analysis in Columbus, he lacks the required bachelor's degree in a quantitative field and has no hands-on experience with dedicated BI tools like Power BI."
+    }
+   }
+  }
+ ]
+}

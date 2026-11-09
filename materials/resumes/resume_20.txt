@@ -1,0 +1,40 @@
+{NAME}
+Columbus, OH | (614) 555-0120 | {EMAIL}
+
+SUMMARY
+Inventory analyst at a regional distribution center, promoted in 2025 after six years in inventory control. Writes SQL against the warehouse reporting database most days, owns the Power BI inventory accuracy report that operations and finance use each week, and does root cause work on variances across 24,000 pick locations. Moving toward a full data analyst role and brings a detailed understanding of how warehouse and store supply data gets created and where it goes wrong.
+
+EXPERIENCE
+Inventory Analyst | Ashgrove Distribution Services, Columbus, OH | Jan 2025 to Present
+• Own weekly inventory accuracy and adjustment reporting for a 410,000 square foot distribution center that supplies grocery and household goods to 70 retail stores.
+• Write SQL against the WMS reporting database (joins across location, item and transaction tables, GROUP BY and CASE logic) to answer questions from operations, purchasing and finance; replaced five manual exports.
+• Built a Power BI report on count accuracy, adjustments by cause and aging damaged product, refreshed each morning from saved queries. Shift supervisors and the operations manager use it in the daily start of shift meeting, and finance pulls the monthly adjustment total from it.
+• Helped the operations manager review store out of stock complaints against short shipments, pulling the shipment detail for a weekly zero pick audit.
+• Pulled six months of mis-pick data to show that most errors came from two aisles with look-alike items stored side by side; slotting changes for those aisles are under review.
+• Prepare the year end physical inventory plan and reconciliation; the 2025 physical closed two days early with a net variance under 0.2%.
+
+Inventory Control Specialist | Ashgrove Distribution Services, Columbus, OH | Mar 2019 to Dec 2024
+• Ran the daily cycle count program and reported count accuracy by zone each week.
+• Built an Access database that pulls nightly Manhattan WMS exports and flags locations with repeated variances. Supervisors used the list to schedule recounts.
+• Maintained an Excel adjustment report, reviewed monthly by the operations manager and finance, that separated receiving errors, mis-picks and damage so the $2.3 million annual adjustment total could be traced to causes.
+• Traced a recurring shortage on one vendor's products to case pack quantity mismatches in the item master, then corrected 380 item records with the purchasing team.
+• Produced a weekly list of damaged and expired product awaiting disposition, which helped the returns team clear a backlog of 1,100 pallet positions.
+• Trained new inventory clerks on count procedures and on reading the variance report.
+
+Receiving Clerk | Tallowfield Freight Warehousing, Columbus, OH | Aug 2016 to Feb 2019
+• Checked in 25 to 40 inbound trailers per shift against purchase orders and advance ship notices.
+• Kept an Excel log of receiving discrepancies by carrier and vendor that the warehouse manager brought to quarterly vendor reviews.
+• Helped move receiving from paper to RF scanners and wrote the job aid the team used during the switch.
+
+EDUCATION
+{DEGREE_LINE}, 2016
+
+SKILLS
+Data: SQL (joins, GROUP BY, CASE), Excel (pivot tables, XLOOKUP, Power Query, charts, basic macros), Microsoft Access (queries, forms, reports)
+Reporting: Power BI (report building, scheduled refresh, basic DAX), Tableau Public (certificate projects)
+Systems: Manhattan WMS, SAP inventory transactions, RF scanning
+Inventory: cycle counting, variance root cause, item master maintenance, receiving reconciliation
+
+ADDITIONAL
+• Google Data Analytics Professional Certificate (Coursera), completed 2025; capstone project analyzed a public retail sales dataset in SQL and Tableau
+• Lean Six Sigma Yellow Belt, 2021

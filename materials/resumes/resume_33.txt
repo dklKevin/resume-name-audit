@@ -1,0 +1,41 @@
+{NAME}
+Columbus, OH | (614) 555-0133 | {EMAIL}
+
+SUMMARY
+Sales operations specialist at a software reseller with eight years in quoting, order entry, customer service and CRM upkeep. Learned SQL in 2024 and now queries NetSuite data directly for bookings, margin and renewal reporting, which the sales director and finance team rely on. Has not yet worked in a dedicated BI tool. Interested in a reporting or data role where accuracy and an understanding of how sales data is created both matter.
+
+EXPERIENCE
+Sales Operations Specialist | Bluecrest Software Partners, Columbus, OH | Mar 2021 to Present
+• Promoted from sales support coordinator in January 2025 after taking over the team's reporting; still prepares 20 to 30 quotes a week for licenses, subscriptions and renewals.
+• Write SQL through NetSuite's ODBC connection (joins across transactions, items and customers, GROUP BY, CASE, date ranges) to produce the weekly bookings and gross margin report by account manager and vendor.
+• Reconciled the SQL bookings totals against the finance close each month and found that credit memos were being counted twice in the old Salesforce report, which had overstated bookings by about 4 percent.
+• Analyzed three years of renewal records in Excel by days of notice and account size, and found accounts contacted at 120 days renewed at 91 percent against 78 percent for those reached at 30 days. The sales director moved the renewal process to a 120 day start, and renewal rate rose to 87 percent in 2025.
+• Measured a spring 2025 distributor rebate promotion with SQL, comparing bookings and margin on the 40 promoted SKUs against similar SKUs left off the program for the same weeks and the prior year. Promoted units rose 11 percent but margin dollars fell, and the director declined to renew the program.
+• Built an Excel model of vendor discount tiers that showed which products lost margin after a distributor price change, used by the director to renegotiate two programs.
+• Enter orders into NetSuite and check each against the signed quote before it goes to the distributor.
+• Keep account, contact and opportunity records current in Salesforce for eight account managers, including a cleanup of about 1,200 duplicate contacts.
+• Resolve order discrepancies with distributors and finance, usually pricing or quantity mismatches.
+
+Customer Service Representative | Daywell Office Products, Columbus, OH | Jul 2018 to Feb 2021
+• Took phone and email orders from business customers for office supplies and furniture, about 60 orders a day.
+• Processed returns and credits in the order management system.
+• Kept a spreadsheet of backordered items and called customers with updated ship dates.
+• Logged customer complaints by category in a shared workbook, and summarized it monthly so the customer service manager could see which product lines drew the most calls; the summary led to dropping one chair supplier with frequent damage claims.
+• Updated customer account records, including billing addresses and tax exemption certificates.
+• Trained three new representatives on order entry and the returns process.
+• Helped the warehouse lead log daily late shipments during the busy fall season.
+
+EDUCATION
+{DEGREE_LINE}, 2018
+
+SKILLS
+SQL: joins, GROUP BY, CASE, date filtering on NetSuite data through ODBC (about two years)
+Spreadsheets: Excel (pivot tables, XLOOKUP, SUMIFS, Power Query, charts), Google Sheets
+Systems: NetSuite, Salesforce reports, vendor quoting portals, Microsoft Office
+Sales operations: bookings and margin reporting, renewal tracking, price list maintenance, CRM data quality
+Communication: distributor coordination, written summaries for the sales director
+
+ADDITIONAL
+• Microsoft Office Specialist certification in Excel, 2022
+• Completed an online SQL for data analysis course, 2024
+• Volunteer at a Columbus nonprofit thrift store, logging weekly donation counts by category

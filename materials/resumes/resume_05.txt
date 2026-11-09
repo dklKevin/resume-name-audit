@@ -1,0 +1,43 @@
+{NAME}
+Columbus, OH | (614) 555-0105 | {EMAIL}
+
+SUMMARY
+Claims data analyst with eleven years of reporting and analysis work, the last eight at a property and casualty insurer. Produces the severity trend reporting that claims leadership uses to plan reserves and staffing, and took part in a team move from SAS to Python. Interested in bringing the same care to questions about price, promotion and inventory in retail.
+
+EXPERIENCE
+Claims Reporting Analyst | Sorrelwood Mutual Insurance, Columbus, OH | Mar 2022 to Present
+• Prepare the monthly severity trend package for auto physical damage, bodily injury and homeowners lines, reviewed by claims directors and actuarial partners.
+• Converted five of the team's scheduled SAS programs to Python and SQL during a migration led by the reporting manager, comparing old and new outputs by hand before cutover.
+• Keep Tableau dashboards for adjuster caseload and cycle time current across five regional claims offices.
+• Pulled cycle time data for a pilot that routed low severity glass claims to a virtual adjusting team and produced the comparison charts for the claims director.
+• Investigate unexpected swings in paid loss data, usually traced to late coding changes or duplicate payment records, and write short explanations for finance.
+• Answer weekly questions from claims managers about open inventory, payments and recoveries with SQL against the Snowflake warehouse.
+• Built a monthly subrogation recovery summary by region for the recovery unit manager, replacing a manual spreadsheet roll-up.
+• Keep run documentation for the scheduled reports current so the on-call analyst can rerun a failed job.
+
+Claims Data Analyst | Sorrelwood Mutual Insurance, Columbus, OH | Nov 2018 to Feb 2022
+• Wrote SQL against the claims data warehouse (Teradata, later moved to Snowflake) for weekly reporting on open claims and payments.
+• Produced catastrophe reports after major hail and wind events, matching claim counts to policy exposure.
+• Maintained a SAS model that flagged claims likely to exceed initial reserve, used by supervisors in weekly file reviews.
+• Answered ad hoc requests from claims supervisors on adjuster workload and pending file counts, typically within two days.
+• Partnered with IT on a data quality project that corrected loss cause codes on historical claims.
+
+Operations Analyst | Thornbury Benefits Administration, Columbus, OH | Aug 2015 to Oct 2018
+• Built daily call center and enrollment volume reports in Excel and Access for a benefits processing team of 70.
+• Wrote first SQL queries against the enrollment database to reconcile carrier eligibility files.
+• Forecast seasonal staffing for open enrollment from three years of historical volume.
+• Cleaned and merged duplicate member records ahead of a system conversion.
+• Tracked processing backlogs by client and sent a weekly status summary to account managers.
+
+EDUCATION
+{DEGREE_LINE}, 2015
+
+SKILLS
+Programming: SQL (Snowflake, Teradata), Python (pandas), SAS (Base, Enterprise Guide)
+BI and reporting: Tableau Desktop and Server, Excel (Power Pivot, advanced formulas)
+Methods: trend analysis, pilot comparison charts, data validation, reserve monitoring
+Workflow: Git, Airflow job monitoring, technical documentation
+
+ADDITIONAL
+• Tableau Desktop Specialist certification, 2020
+• Volunteer database cleanup for a local historical society's archive catalog

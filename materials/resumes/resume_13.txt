@@ -1,0 +1,41 @@
+{NAME}
+Columbus, OH | (614) 555-0113 | {EMAIL}
+
+SUMMARY
+Store operations analyst for a retail pharmacy chain of more than 300 locations, after several years coordinating pharmacy operations data. Maintains the weekly store scorecard in Tableau, supports shrink reviews and supplies labor inputs to the staffing model. Works mainly in Tableau, Alteryx and Excel, with occasional SQL for simple pulls, and reconciles new reports to finance totals before sharing.
+
+EXPERIENCE
+Store Operations Analyst | CareRidge Pharmacy, Columbus, OH | Feb 2021 to Present
+• Maintain the weekly store performance scorecard in Tableau covering front store sales, prescription counts, shrink, out-of-stocks and labor hours, used by district leaders across the chain.
+• Exported POS voids and refunds for a shrink review run by the loss prevention manager.
+• Supply transaction volume and task time inputs to the workforce planning team's staffing model each quarter.
+• Pulled weekly sales and loss data for a pilot of locked display cases in a group of stores and comparison stores, and built the charts for the regional director's readout.
+• Occasionally adapt existing Snowflake queries from the analytics team to answer simple questions, such as seasonal sales of cough and cold products by district.
+• Sent the data team a list of store attribute records (square footage, format, open dates) that disagreed with real estate files.
+• Forward the weekly front store out-of-stock list to the replenishment team.
+• Maintain an Alteryx workflow, first built by a former teammate, that flags stores with unusually high weekly inventory adjustments.
+• Respond to district leader questions about scorecard numbers, often tracing a surprising shrink figure back to a late inventory adjustment or a store that changed format.
+• Updated the scorecard's store groupings after a district realignment so trend lines stayed comparable across the change.
+• Prepare two or three charts for the monthly operations review with regional vice presidents.
+
+Pharmacy Operations Coordinator | CareRidge Pharmacy, Columbus, OH | Aug 2017 to Jan 2021
+• Compiled weekly district reports in Excel on prescription wait times, staffing gaps and inventory adjustments.
+• Built the first Alteryx workflow on the operations team, merging three daily store extracts and cutting weekly report prep by several hours.
+• Coordinated data requests between store leaders and the analytics team, which led to the move into the analyst role.
+• Tracked vendor delivery exceptions for 45 stores and summarized repeat issues for the distribution center.
+• Kept the store contact and district alignment list current after each reorganization, a source used by several departments.
+• Answered store questions about the weekly reports by phone and email.
+• Scheduled and confirmed pharmacy technician coverage for district managers during flu season.
+
+EDUCATION
+{DEGREE_LINE}, 2017
+
+SKILLS
+SQL: Snowflake (basic SELECT queries and filters)
+Tools: Tableau Desktop, Alteryx Designer, Excel (pivot tables, Power Query, macros)
+Analysis: store scorecards, shrink and loss reporting, labor model inputs, inventory variance
+Communication: chart packs for district leaders, monthly business review slides
+
+ADDITIONAL
+• Alteryx Designer Core Certification, 2022
+• Volunteer data support for a Columbus park conservancy, summarizing cleanup volunteer hours by park and month

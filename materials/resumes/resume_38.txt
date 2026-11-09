@@ -1,0 +1,41 @@
+{NAME}
+Columbus, OH | (614) 555-0138 | {EMAIL}
+
+SUMMARY
+Front office supervisor at a 210 room full service hotel, leading nine front desk agents across three shifts. Built the hotel's Looker Studio report on occupancy pace and pickup, which the general manager and sales team use daily, and automated the morning numbers that used to be typed by hand. Seven years in hotel operations, with a growing share of each week spent on data. Hoping to turn that into a role focused on reporting and analysis.
+
+EXPERIENCE
+Front Office Supervisor | Carrow House Hotel, Columbus, OH | Jun 2022 to Present
+• Supervises nine front desk agents and builds the weekly schedule around forecast arrivals, group blocks and convention dates.
+• Set up a scheduled export of occupancy, average daily rate and revenue per available room from Opera into Google Sheets, cleaned with formulas and a short Apps Script, so the morning summary to the general manager is ready before 7 a.m. without manual entry.
+• Built a Looker Studio report of on the books rooms, pickup over the last seven days and pace against the same date last year by segment; the general manager and sales team check it each morning and the revenue manager uses it when adjusting rates for convention weeks.
+• Combined a year of arrivals by hour with front desk staffing and guest survey comments in Excel and showed that most check-in complaints came between 3 and 5 p.m. on Thursdays and Fridays. A two hour overlap shift was added on those days, and complaints about check-in waits dropped by about 40 percent.
+• Read the results of a spring 2025 rate change for midweek corporate stays by comparing room nights, average daily rate and revenue per available room against the same weeks of 2024 and against weekend nights, which were left unchanged. Midweek room revenue rose 7 percent with occupancy nearly flat, and the revenue manager kept the new rates and applied the same approach to summer weekends.
+• Tracks guest complaints and service recovery credits by cause; late check-ins accounted for about a third of credits in 2024 before the overlap shift.
+• Worked with the revenue manager to clean up 40 outdated rate codes in Opera that were causing booking errors and misgrouped revenue.
+• Trains new agents on check-in, cash handling and the property system, about six new hires a year.
+• Coordinates room readiness with housekeeping using the arrivals report to set a cleaning order for early check-ins.
+
+Front Desk Agent | Carrow House Hotel, Columbus, OH | Sep 2019 to May 2022
+• Checked guests in and out, handled reservations and answered phone requests, averaging 80 to 100 guest contacts per shift.
+• Entered group rooming lists into Opera and corrected rate codes before arrival.
+• Covered night audit shifts once or twice a week, running end of day reports and posting room charges.
+• Recognized in 2021 for night audit accuracy, with no unresolved balance errors over twelve months.
+
+Guest Services Intern | Ambrel Suites, Columbus, OH | May 2018 to Aug 2018
+• Assisted the front desk with check-ins and guest questions during the summer season.
+• Updated the daily arrivals list and room status board.
+
+EDUCATION
+{DEGREE_LINE}, 2019
+
+SKILLS
+BI: Looker Studio (one report in daily use, calculated fields, date comparisons)
+Spreadsheets: Excel (pivot tables, XLOOKUP, charts), Google Sheets (QUERY, Apps Script basics)
+SQL: simple SELECT and GROUP BY queries from a course, not yet used at work
+Hotel systems: Opera PMS, night audit reports, group block management, rate code setup
+Other: team scheduling, staff training, guest service
+
+ADDITIONAL
+• Finished a beginner data analytics course covering spreadsheets and simple SQL queries, 2025
+• Certified Front Desk Representative credential, 2021

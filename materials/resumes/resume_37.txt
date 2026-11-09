@@ -1,0 +1,43 @@
+{NAME}
+Columbus, OH | (614) 555-0137 | {EMAIL}
+
+SUMMARY
+Claims reporting specialist with nine years at a property and casualty carrier, moved into a reporting role in 2026 after seven years in claims intake and processing. Supports the auto and property claims unit, writing SQL against the claims reporting views and maintaining a Tableau dashboard of cycle times that the unit manager reviews weekly. Known for clean files and careful checks on whether a number makes sense.
+
+EXPERIENCE
+Claims Reporting Specialist | Oakmont Casualty Insurance, Columbus, OH | Feb 2026 to Present
+• Moved into a full time reporting role for the 22 person auto and property unit after a year as its part time reporting contact.
+• Write SQL against the ClaimCenter reporting views (joins across claims, exposures and payments, CASE for claim type, date differences for cycle time) and share the queries in a folder the team lead can rerun.
+• Built a Tableau dashboard of days from first notice to first payment by claim type, processor and week, published to the company Tableau server; the unit manager uses it in weekly workload meetings to rebalance new assignments.
+• Analyzed a year of rental car bills against repair cycle times and showed that rentals ran an average of 3.4 days past the repair completion date. Daily rental check-ins on the final repair days were adopted by the unit, and average rental cost per claim fell by about $160.
+• Found that reopened claims were being counted as new in the old weekly report, which had inflated the unit's volume by about 6 percent, and documented the corrected logic.
+
+Senior Claims Processor | Oakmont Casualty Insurance, Columbus, OH | Apr 2019 to Jan 2026
+• Processed 20 to 30 auto and property claims a day in Guidewire ClaimCenter, checking coverage, entering estimates and issuing payments within authority limits.
+• Rebuilt a personal claims tracker into one the whole unit used, and became the unit's reporting contact in 2025.
+• Requested and reviewed supporting documents such as police reports, repair invoices and photos, and verified bills against estimates and policy limits before payment.
+• Flagged claims where another party may be at fault and forwarded each to the subrogation unit.
+• Mentored new processors during the first month on payment authority rules and common entry mistakes.
+• Kept a payment accuracy rate above 99 percent on quarterly quality audits.
+
+Claims Intake Representative | Oakmont Casualty Insurance, Columbus, OH | Aug 2017 to Mar 2019
+• Took first notice of loss calls from policyholders and agents, 50 to 70 a day, and set up new claims in the system.
+• Verified policy coverage and deductibles before assigning each claim.
+• Collected photos, police reports and contact details and routed claims to the correct adjuster queue.
+• Set up rental and towing referrals for policyholders at first contact.
+• Answered status calls and agent emails within one business day.
+
+EDUCATION
+{DEGREE_LINE}, 2017
+
+SKILLS
+SQL: joins, CASE, date functions, GROUP BY on SQL Server reporting views (about eighteen months at work)
+BI and spreadsheets: Tableau (one published dashboard, calculated fields, filters), Excel (pivot tables, XLOOKUP, SUMIFS)
+Systems: Guidewire ClaimCenter, document imaging system, Microsoft Office
+Claims: coverage verification, payment processing, first notice of loss, claim documentation
+Communication: policyholder calls, written claim notes, short summaries for the unit manager
+
+ADDITIONAL
+• Introductory SQL workshop through a library continuing education program, 2025
+• Completed the company's internal Tableau basics training, 2025
+• Volunteer at a neighborhood food pantry, checking in visitors and updating the sign-in spreadsheet

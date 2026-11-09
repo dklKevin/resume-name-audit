@@ -1,0 +1,40 @@
+{NAME}
+Columbus, OH | (614) 555-0110 | {EMAIL}
+
+SUMMARY
+Category data analyst at a building materials wholesaler with 22 branches, supporting product managers on lumber, roofing, insulation and seasonal lines since mid 2023. Before that, spent four years in sales support and reporting at the same company. Does most analysis in Excel, maintains a few Power BI reports and writes everyday SQL against the company warehouse.
+
+EXPERIENCE
+Category Data Analyst | Stonereach Builders Supply, Columbus, OH | Jul 2023 to Present
+• Prepare the Excel workbooks behind quarterly category reviews for two product managers, combining sales, margin and inventory turns exported from the ERP and the warehouse.
+• Maintain two Power BI reports on weekly branch sales that were built by a previous analyst, updating filters and visuals as product managers ask for changes.
+• Write SQL against Snowflake for ad hoc questions on product and branch sales, mostly joins and grouped totals, and ask the BI team for help with more involved queries.
+• Help with the seasonal buy for snow and ice melt by pulling three years of weekly branch sales into an Excel planning sheet for the product manager.
+• Pulled branch level margin before and after a small contractor pricing change on fasteners, which the product manager used in a recommendation to keep it.
+• Keep an Excel list of SKUs that landed in the wrong subcategory after the ERP migration and send weekly corrections to the item setup team.
+• Join the monthly replenishment meeting and bring a short list of stockouts by branch for the team to discuss.
+• Check vendor rebate accrual totals in Excel each quarter against what finance booked, and send differences to the accounting contact for follow-up.
+• Put together a one page summary of insulation and roofing sales trends for the spring planning meeting, written for branch managers who rarely open the reports.
+• Answer routine questions from branch staff about where to find sales numbers in the existing reports.
+
+Sales Support Coordinator | Stonereach Builders Supply, Columbus, OH | Jun 2019 to Jun 2023
+• Compiled weekly sales and gross margin reports by branch and sales rep in Excel for regional directors.
+• Entered and checked contractor quotes, price overrides and special orders for six branches.
+• Tracked framing lumber cost changes in 2020 and 2021 in an Excel sheet that branch managers used to update quotes.
+• Pulled sales history by vendor for the annual line review, using ERP exports and pivot tables.
+• Noticed a contractor loyalty rebate being paid on some returned goods and passed the examples to finance for review.
+• Learned basic SQL in 2022 by taking over a few saved queries from the reporting team.
+• Kept the branch contact list and rep territory file current after each reorganization.
+
+EDUCATION
+{DEGREE_LINE}, 2019
+
+SKILLS
+Spreadsheets: advanced Excel (pivot tables, INDEX MATCH, Power Query, conditional formatting)
+Querying: SQL (Snowflake), joins, GROUP BY, basic subqueries
+BI: Power BI (editing existing reports, basic visuals)
+Building materials: category reviews, vendor line reviews, inventory turns, seasonal buy support, contractor pricing
+Other tools: Epicor ERP, SharePoint
+
+ADDITIONAL
+• Volunteer materials coordinator for a Columbus home repair nonprofit, keeping the inventory spreadsheet for about 40 repair projects a year

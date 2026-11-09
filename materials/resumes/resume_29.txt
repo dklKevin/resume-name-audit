@@ -1,0 +1,42 @@
+{NAME}
+Columbus, OH | (614) 555-0129 | {EMAIL}
+
+SUMMARY
+Contact center reporting associate at a cable and internet provider, moved off the phones in January 2026 to handle reporting for three phone teams (about 40 representatives). Writes SQL against the contact center reporting database most days and maintains two Power BI reports the operations manager uses every week. Completed an online data analytics certificate in 2025 and is now looking for a first full-time analyst role. Used to explaining account details in plain terms to frustrated customers, and brings the same habit to explaining numbers.
+
+EXPERIENCE
+Contact Center Reporting Associate | Lumenline Cable, Columbus, OH | Jan 2026 to Present
+• Took over reporting for three residential care teams after building the first version of the team report while still on the phones.
+• Write SQL queries against the contact center reporting database (joins across the call, agent and survey tables, GROUP BY, date filters) that replaced the morning copy and paste from the phone system export.
+• Built a Power BI report of handle time, first call resolution and survey scores by representative and week, refreshed daily from those queries; supervisors and the operations manager review it in the Monday staffing meeting.
+• Joined call records to account notes to count customers who called back within seven days, then broke repeat calls down by disposition code. Billing credit questions drove 31 percent of repeats, and the operations manager approved a change letting representatives apply small credits on the first call.
+• Noticed survey scores on the report jumping for one representative and traced it to surveys being matched on the wrong call date; wrote up the fix for the database administrators.
+• Built a second Power BI report of call volume by half hour against scheduled staff, using a running weekly average from a window function; it showed Monday mornings short by four to five people, and two part time shifts were moved there in spring 2026.
+• Send the daily summary email on volume, service level and repeat calls to the operations manager.
+
+Customer Care Representative | Lumenline Cable, Columbus, OH | May 2025 to Dec 2025
+• Handled 45 to 60 inbound calls a day on billing, service changes and outage questions for residential customers.
+• Started a shared spreadsheet of team handle time and survey scores from the phone system export, which became the basis of the current report.
+• Recognized twice for quality scores above 95 percent.
+
+Operations Assistant | Parkside Moving and Storage, Columbus, OH | Aug 2022 to Apr 2025
+• Scheduled residential moves for a crew of 20 using the company's booking software.
+• Kept a monthly occupancy spreadsheet for 300 storage units and recorded rent payments in QuickBooks.
+• Built an Excel workbook of damage claims by crew, job size and month; the owner used it to schedule refresher training for two crews whose claim rates were roughly double the others.
+• Compared storage occupancy and move-out dates over two summers in Excel and showed that small units filled first every May, which supported a modest price increase on that unit size.
+• Answered phones, prepared moving quotes and handled customer follow-up after each job.
+• Trained two new office staff on the booking software and phone procedures.
+
+EDUCATION
+{DEGREE_LINE}, 2022
+
+SKILLS
+SQL: SELECT, joins, GROUP BY, CASE, date functions, a few simple window functions, on a SQL Server reporting database (about ten months)
+BI and spreadsheets: Power BI (two production reports, basic DAX measures), Excel (pivot tables, XLOOKUP, conditional formatting, charts), Google Sheets
+Systems: call center CRM, phone system reporting, booking software, QuickBooks
+Communication: de-escalation, written summaries for supervisors, account troubleshooting
+
+ADDITIONAL
+• Online data analytics certificate, completed 2025, with a capstone analyzing public bike share trip data in SQL and Tableau
+• Practicing subqueries and CTEs on free online SQL exercise sites, about two hours a week
+• Volunteer at a local food bank warehouse, logging weekly donations in a shared spreadsheet

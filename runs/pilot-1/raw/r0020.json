@@ -1,0 +1,85 @@
+{
+ "run_id": "r0020",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T06:37:58Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 55, \"decision\": \"REJECT\", \"reason\": \"While David has a relevant statistics degree and practical inventory experience in retail supply chain, he lacks the required 3+ years in a dedicated analyst role, has only beginner-level SQL skills, and lacks Power BI experience.\"}",
+   "input_tokens": 1364,
+   "output_tokens": 63,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 55, \"decision\": \"REJECT\", \"reason\": \"While David has a relevant statistics degree and practical inventory experience in retail supply chain, he lacks the required 3+ years in a dedicated analyst role, has only beginner-level SQL skills, and lacks Power BI experience.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TXKF5bhz07LCGjdnK_K7t1AioVqPpXZcyDG3bXMWBmRmzqKuYuKZqe6SJekGn6pgf3igx4RxMFAF0iQQC_6fbymjej2qOcmp9dmdSQ-xQg5HAGg2avMBNm9WVzQZonzHV45I=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "Rmrxas7vNL3GiLMP67-v0Q4",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 63,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1364,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1364
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1427,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 55,
+     "decision": "REJECT",
+     "reason": "While David has a relevant statistics degree and practical inventory experience in retail supply chain, he lacks the required 3+ years in a dedicated analyst role, has only beginner-level SQL skills, and lacks Power BI experience."
+    }
+   }
+  }
+ ]
+}

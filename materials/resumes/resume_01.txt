@@ -1,0 +1,42 @@
+{NAME}
+Columbus, OH | (614) 555-0101 | {EMAIL}
+
+SUMMARY
+Retail reporting analyst with about five years of reporting work in grocery and home goods ecommerce, after four years in merchandising operations. Updates weekly sales and inventory reports in Power BI and Excel and runs basic SQL pulls for everyday questions from category managers. Careful about checking a number against the source system before it goes into a category review.
+
+EXPERIENCE
+Associate Data Analyst | Hearthway Goods, Columbus, OH | Feb 2023 to Present
+• Refresh and update weekly sales, margin and inventory reports in Power BI for the kitchen and bath categories, originally set up by a senior analyst and used by two category managers.
+• Run saved SQL queries in Snowflake, adjusting filters and date ranges, to pull sell-through and weeks of supply by vendor for the planning team.
+• Pulled promoted and baseline week sales for a senior analyst's review of recurring offers, and summarized which ones looked weak on margin.
+• Reported product hierarchy mapping errors to data engineering after department totals stopped matching the finance close, then kept a running list of corrected SKUs.
+• Handle routine data requests from merchants through the team ticket queue, usually closing each one within two business days.
+• Asked data engineering to repoint the weekly vendor sales extract after a warehouse table was renamed, then confirmed the totals before Monday reports went out.
+• Sit in on the monthly category review and take notes on follow-up questions, answering most by email within the week.
+• Document report logic and refresh schedules so other analysts can cover the kitchen and bath reports during time off.
+
+Reporting Analyst | Fernwood Fresh Markets, Columbus, OH | Oct 2021 to Jan 2023
+• Produced weekly category scorecards for 38 stores covering sales, shrink and out-of-stocks, mostly in Excel with a few summary pages moved into Power BI.
+• Answered buyer questions with SQL Server queries on scan data, typically simple joins and aggregations by store and week.
+• Pulled before and after price accuracy numbers for a small electronic shelf label pilot and passed the file to the pricing manager, who wrote the readout.
+• Set up a weekly shrink summary by department for loss prevention, combining inventory adjustments with store-reported damage counts.
+• Kept a stockout watch list from daily on-hand and sales data that the replenishment team checked during the 2022 supply shortages.
+
+Merchandising Coordinator | Fernwood Fresh Markets, Columbus, OH | Jun 2017 to Sep 2021
+• Maintained item setup and retail price files for center store categories, about 9,000 active SKUs.
+• Built Excel trackers for weekly ad planning and vendor promotion commitments.
+• Reviewed planogram compliance reports from store visits and summarized gaps for district managers.
+• Helped reconcile monthly vendor funding statements in Excel, flagging missing deductions for the accounting team.
+
+EDUCATION
+{DEGREE_LINE}, 2017
+
+SKILLS
+Data: SQL (Snowflake, SQL Server), simple joins and aggregations
+Spreadsheets: Excel (Power Query, pivot tables, XLOOKUP)
+Reporting: Power BI (report edits, scheduled refresh)
+Other: Python (beginner, pandas for cleaning vendor files)
+Retail: sell-through, weeks of supply, markdown lists, item and price file maintenance
+
+ADDITIONAL
+• Volunteer data help for a neighborhood food pantry, maintaining a monthly distribution spreadsheet

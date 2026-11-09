@@ -1,0 +1,38 @@
+{NAME}
+Columbus, OH | (614) 555-0128 | {EMAIL}
+
+SUMMARY
+Budget and performance analyst in city government with more than nine years of experience measuring how public services perform and where the money goes. Builds Power BI dashboards for department directors, maintains Excel budget models, and occasionally writes basic SQL against the city's financial and work order systems. Regularly presents data to council members and the public in short memos and hearings.
+
+EXPERIENCE
+Budget and Performance Analyst | City Office of Budget and Performance, Columbus, OH | Jan 2020 to Present
+• Maintain 22 department performance dashboards in Power BI covering measures such as pothole repair time, permit processing days and 311 response rates, published quarterly to council and the city website.
+• Prepare the annual operating budget for public works and parks (combined $140 million), building Excel models for personnel, fleet and contract costs.
+• Wrote simple SQL queries, with help from the IT team, against the work order system to measure crew productivity by shift. The analysis supported moving two street maintenance crews to a second shift, which cut average pothole repair time from 6.2 days to 3.9 days.
+• Ran a six month pilot comparing contracted and in-house mowing on 40 park sites, assessing cost per acre and complaint volume; the findings shaped the next contract bid.
+• Draft budget briefing memos for council committee hearings and answer follow up questions from council staff.
+• Fixed inconsistent department and fund codes between the budget system and the general ledger, documenting a crosswalk now used by all eight budget analysts.
+• Publish cleaned performance data sets to the city's open data portal each quarter.
+• Built an overtime tracking report in Power BI for the sanitation division, combining payroll and route extracts prepared by the IT team; the division reviews it at monthly staff meetings.
+• Support the mid-year budget review by projecting year end spending for 11 departments and flagging likely shortfalls to the budget director.
+• Lead a quarterly working session with department data contacts to agree on metric definitions before numbers go public.
+
+Fiscal Analyst | Greenway Metro Parks District, Columbus, OH | Jun 2017 to Dec 2019
+• Tracked monthly spending against budget for 12 park facilities and flagged variances to facility managers.
+• Built an Excel model of seasonal staffing costs used in annual budget requests.
+• Compiled attendance and program enrollment counts into quarterly reports for the board of park commissioners.
+• Moved monthly variance reports from emailed spreadsheets to a shared SharePoint workbook.
+• Reconciled program fee revenue from the registration system against bank deposits each month, resolving gaps of up to $12,000 caused by refunds posted in the wrong period.
+• Assembled the capital project status report for shelter, trail and playground repairs, tracking 30 projects against budget and schedule.
+
+EDUCATION
+{DEGREE_LINE}, 2017
+
+SKILLS
+Analysis and reporting: Power BI (dashboards, DAX measures), Excel (budget models, scenario tables, pivot tables), SQL (basic SELECT queries and simple joins)
+Public finance: operating budgets, personnel cost projection, variance analysis, performance measurement
+Systems: Oracle PeopleSoft Financials, Cityworks work order system, Socrata open data platform
+
+ADDITIONAL
+• Member, Government Finance Officers Association
+• Volunteer at a local analytics meetup's civic data night, cleaning public data sets for community groups

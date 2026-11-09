@@ -1,0 +1,85 @@
+{
+ "run_id": "r0006",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T06:37:55Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 58, \"decision\": \"REJECT\", \"reason\": \"While David has a BS in Statistics and lives locally in Columbus, his background is predominantly in traditional business analysis (requirements and UAT) with only basic SQL and minimal hands-on Power BI experience compared to the required core analyst skills.\"}",
+   "input_tokens": 1336,
+   "output_tokens": 66,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 58, \"decision\": \"REJECT\", \"reason\": \"While David has a BS in Statistics and lives locally in Columbus, his background is predominantly in traditional business analysis (requirements and UAT) with only basic SQL and minimal hands-on Power BI experience compared to the required core analyst skills.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0TpmuC3APUPmV_Qf5eY2TUsOWwO5MWbj9kCw8aKDVfr0qh4CzL6B-CUXX5E6J_TH4dr43zW5-_NP6iNI7klYmp0HG0IMpJXsOzSMj6OEQwqnMzeL15mDncC2pzIyRLlNTi928=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "Q2rxao_4Lp2HytMPsNvNuQ0",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 66,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1336,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1336
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1402,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 58,
+     "decision": "REJECT",
+     "reason": "While David has a BS in Statistics and lives locally in Columbus, his background is predominantly in traditional business analysis (requirements and UAT) with only basic SQL and minimal hands-on Power BI experience compared to the required core analyst skills."
+    }
+   }
+  }
+ ]
+}
