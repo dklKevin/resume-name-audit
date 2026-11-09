@@ -14,7 +14,9 @@ MODELS = {
     "gemini": "gemini-3.6-flash",
 }
 
-# US dollars per million tokens (input, output). Reasoning tokens bill as output.
+# US dollars per million tokens (input, output), standard paid tier, used for spend limits.
+# Reasoning and thinking tokens bill as output. Gemini 3.6 Flash is $0.75 / $3.75 through
+# 2026-12-31 and $1.50 / $7.50 from 2027-01-01 (Google AI Studio pricing page, 2026-11-09).
 PRICES = {
     "openai": (0.10, 0.50),
     "gemini": (0.75, 3.75),
