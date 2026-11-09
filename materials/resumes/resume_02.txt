@@ -2,33 +2,36 @@
 Columbus, OH | (614) 555-0102 | {EMAIL}
 
 SUMMARY
-Operations data analyst with eight years inside a five-hospital health system, building the reporting that clinical and finance leaders use to run the day. Writes SQL Server queries against patient flow, staffing and cost data, publishes Tableau dashboards to more than 300 users, and uses R for forecasting and statistical work. Usually the first call when a census count or wait time does not match what a unit is seeing on the floor.
+Operations data analyst inside a five-hospital health system, building the reporting that clinical and finance leaders use to run the day. Writes SQL Server queries against patient flow, staffing and cost data, publishes Tableau dashboards to a wide internal audience, and uses R for forecasting. Usually the first call when a census count or wait time does not match what a unit is seeing on the floor.
 
 EXPERIENCE
 Operations Data Analyst | Corwell Regional Health, Columbus, OH | Apr 2021 to Present
 • Rebuilt emergency department throughput reporting from a monthly PDF packet into a daily Tableau dashboard covering door to provider time, boarding hours and left without being seen rates for four emergency departments.
-• Wrote the SQL Server views behind that dashboard, using window functions to sequence patient tracking events and flag the 2 to 3 percent of visits with out-of-order timestamps for correction by registration staff.
-• Partnered with 14 nurse managers to set staffing triggers from hourly arrival patterns; average door to provider time dropped from 38 to 29 minutes over two quarters.
-• Built an R forecasting model for inpatient bed demand by unit, refreshed weekly, which the capacity team uses to plan elective surgery schedules seven days out.
-• Reconciled supply and labor cost data with finance each month and found a cost center mapping error that had misallocated about $1.2 million in overtime across three service lines.
-• Measured a six-week pilot of a discharge lounge at one hospital against two comparison sites, showing a 41 minute reduction in inpatient bed turnaround and supporting a second lounge.
-• Writes one page summaries for the monthly operations review attended by the chief nursing officer, the CFO and service line directors.
+• Wrote the SQL Server views behind that dashboard, using window functions to sequence patient tracking events and flag visits with out-of-order timestamps for correction by registration staff.
+• Gave nurse managers hourly arrival patterns by unit to support staffing decisions, and tracked door to provider time afterward in the dashboard.
+• Maintain an R forecasting model for inpatient bed demand by unit, refreshed weekly, which the capacity team uses when planning elective surgery schedules.
+• Reconcile supply and labor cost data with finance each month and trace cost center mapping problems back to the source system.
+• Pulled bed turnaround data for a discharge lounge pilot at one hospital and compared it against two other sites for the operations director.
+• Answer ad hoc questions from unit leaders on census, transfers and staffing, usually within two business days.
+• Partner with the interface team when upstream changes in the electronic health record break a report, and document each fix in the team wiki.
+• Write one page summaries for the monthly operations review attended by nursing and finance leaders.
 
 Reporting Analyst | Corwell Regional Health, Columbus, OH | Jul 2018 to Mar 2021
 • Produced 40+ recurring Excel and SSRS reports on volumes, length of stay and readmissions for the quality and finance departments.
-• Moved 12 of those reports into Tableau with scheduled extracts, removing roughly 20 hours of manual work per month.
+• Moved 12 of those reports into Tableau with scheduled extracts, removing a good deal of manual work each month.
 • Created a data dictionary for the patient encounter tables, documenting 180 fields and the business rules behind each one.
 • Handled 15 to 25 ad hoc requests a month from department leaders with a two business day turnaround.
-• Caught a duplicate admission feed that had inflated reported observation stays by 6 percent and worked with the interface team on a permanent fix.
+• Caught a duplicate admission feed that had inflated reported observation stays and worked with the interface team on a permanent fix.
+• Trained new department users on navigating Tableau Server and setting up subscriptions.
 • Supported the annual budget cycle by preparing five-year volume trends by service line for finance.
 
 EDUCATION
 {DEGREE_LINE}, 2018
 
 SKILLS
-Data and querying: SQL Server (T-SQL), window functions, CTEs, stored procedures, SSRS, Snowflake (training sandbox)
-Analysis: R (tidyverse, forecast, ggplot2), advanced Excel (Power Query, pivot tables, XLOOKUP), control charts, time series forecasting
-Visualization: Tableau Desktop and Tableau Server, Power BI Desktop (side projects)
+Data and querying: SQL Server (T-SQL), window functions, CTEs, stored procedures, SSRS
+Analysis: R (tidyverse, forecast, ggplot2), Excel (Power Query, pivot tables, XLOOKUP), time series forecasting
+Visualization: Tableau Desktop and Tableau Server
 Communication: executive summaries, monthly operating reviews, requirements gathering with clinical and finance staff
 
 ADDITIONAL

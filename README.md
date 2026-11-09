@@ -11,10 +11,14 @@ A second condition changes only the degree, from a bachelor's in statistics to a
 
 | provider | model id | settings |
 |---|---|---|
-| OpenAI | `gpt-6-luna` | paid tier, reasoning effort minimal, default temperature, strict JSON schema |
+| OpenAI | `gpt-6-luna` | paid tier, reasoning effort none (see below), default temperature, strict JSON schema |
 | Google | `gemini-3.6-flash` | paid tier, thinking level minimal, default temperature, strict JSON schema |
 
 The exact model string each API returns is logged on every call.
+
+Deviation from the plan: the study plan sets reasoning to minimal for both models.
+GPT-6 Luna does not accept `minimal` (the API returns an error listing none, low, medium, high, xhigh and max), so it runs at `none`, its lowest setting, and its responses report zero reasoning tokens.
+Gemini 3.6 Flash runs at thinking level `minimal` as planned.
 
 ## Materials
 

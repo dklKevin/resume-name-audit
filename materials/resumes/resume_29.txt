@@ -2,41 +2,39 @@
 Columbus, OH | (614) 555-0129 | {EMAIL}
 
 SUMMARY
-Customer care representative at a cable and internet provider who keeps the team's daily performance tracker in Excel. Completed an online data analytics certificate in 2025 that covered spreadsheets, SQL basics and Tableau, and is seeking a first analyst role. Organized, reliable and used to explaining account details in plain terms to customers who are often frustrated. Looking for an entry level position where hands-on spreadsheet work can grow into real analysis.
+Customer care representative at a cable and internet provider who also handles reporting for a 14 person phone team. Since early 2026 has written SQL against the contact center reporting database and maintains a Power BI report the operations manager uses every week. Completed an online data analytics certificate in 2025 and is now looking for a first full-time analyst role. Used to explaining account details in plain terms to frustrated customers, and brings the same habit to explaining numbers.
 
 EXPERIENCE
 Customer Care Representative | Lumenline Cable, Columbus, OH | May 2025 to Present
-• Handle 55 to 70 inbound calls a day on billing, service changes and outage questions for residential customers.
-• Maintain the team's Excel tracker of handle time, first call resolution and survey scores for 14 representatives, updated each morning from the phone system export.
-• Added pivot tables and conditional formatting to the tracker so the supervisor can see weekly trends at a glance; two other teams now use the same layout.
-• Cover the tracker when the supervisor is out, sending the daily summary email to the operations manager.
-• Document each call in the CRM with account notes and disposition codes, which feed the weekly reports the supervisor reviews.
-• Flag recurring billing errors to the escalations team with account examples, which helped correct a promotional credit that was not applying for new customers.
-• Completed training on internet and TV troubleshooting, handling modem resets and service appointment scheduling.
+• Handle 45 to 60 inbound calls a day on billing, service changes and outage questions for residential customers, with about a quarter of each week set aside for team reporting.
+• Was given read access to the contact center reporting database in January 2026 and wrote SQL queries (joins across the call, agent and survey tables, GROUP BY, date filters) that replaced the morning copy and paste from the phone system export.
+• Built a Power BI report of handle time, first call resolution and survey scores by representative and week, refreshed daily from those queries; the supervisor and operations manager review it in the Monday staffing meeting.
+• Joined call records to account notes to count customers who called back within seven days, then broke repeat calls down by disposition code. Billing credit questions drove 31 percent of repeats, and the operations manager approved a change letting representatives apply small credits on the first call.
+• Noticed survey scores on the report jumping for one representative and traced it to surveys being matched on the wrong call date; wrote up the fix for the reporting team.
+• Cover the daily summary email to the operations manager when the supervisor is out.
+• Document each call in the CRM with account notes and disposition codes and flag recurring billing errors to escalations with account examples.
 • Recognized twice for quality scores above 95 percent.
 
 Operations Assistant | Parkside Moving and Storage, Columbus, OH | Aug 2022 to Apr 2025
 • Scheduled residential moves for a crew of 20 using the company's booking software.
-• Created a shared calendar for crew assignments that cut double bookings during the busy summer season.
-• Entered storage unit contracts and payments and kept a monthly occupancy spreadsheet for 300 units.
-• Sent monthly past due reminders to storage customers and recorded payments in QuickBooks.
+• Kept a monthly occupancy spreadsheet for 300 storage units and recorded rent payments in QuickBooks.
+• Built an Excel workbook of damage claims by crew, job size and month; the owner used it to schedule refresher training for two crews whose claim rates were roughly double the others.
+• Compared storage occupancy and move-out dates over two summers in Excel and showed that small units filled first every May, which supported a modest price increase on that unit size.
+• Sent monthly past due reminders to storage customers and followed up on unpaid balances.
 • Answered phones, prepared moving quotes and handled customer follow-up after each job.
-• Built a simple Excel log of damage claims that helped the owner see which crews needed more training.
-• Ordered packing supplies and tracked monthly spending against a budget set by the office manager.
+• Ordered packing supplies and tracked monthly spending against the office budget.
 • Trained two new office staff on the booking software and phone procedures.
 
 EDUCATION
 {DEGREE_LINE}, 2022
 
 SKILLS
-Spreadsheets: Excel (pivot tables, VLOOKUP, conditional formatting, basic charts), Google Sheets
-Data (course projects only): SQL basics (SELECT, WHERE, GROUP BY, simple joins), Tableau Public
-Systems: call center CRM, phone system reporting, booking and scheduling software, QuickBooks data entry
-Office: Microsoft Word, Outlook, Google Calendar
-Customer service: de-escalation, account troubleshooting, written follow-up
+SQL: SELECT, joins, GROUP BY, CASE, date functions on a SQL Server reporting database (about ten months, no window functions yet)
+BI and spreadsheets: Power BI (one production report, basic DAX measures), Excel (pivot tables, XLOOKUP, conditional formatting, charts), Google Sheets
+Systems: call center CRM, phone system reporting, booking software, QuickBooks
+Communication: de-escalation, written summaries for supervisors, account troubleshooting
 
 ADDITIONAL
 • Online data analytics certificate, completed 2025, with a capstone analyzing public bike share trip data in SQL and Tableau
-• Course projects also covered cleaning a sample retail sales dataset in Excel and building a simple Tableau dashboard of monthly revenue
-• Practicing SQL on free online exercise sites, about two hours a week
+• Practicing window functions and subqueries on free online SQL exercise sites, about two hours a week
 • Volunteer at a local food bank warehouse, logging weekly donations in a shared spreadsheet

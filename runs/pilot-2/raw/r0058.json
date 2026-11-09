@@ -1,0 +1,85 @@
+{
+ "run_id": "r0058",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:06:48Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"David meets all required qualifications with over 3 years of analyst experience, strong SQL/Power BI skills, a degree in statistics from Ohio State, and direct local presence.\"}",
+   "input_tokens": 1327,
+   "output_tokens": 53,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"David meets all required qualifications with over 3 years of analyst experience, strong SQL/Power BI skills, a degree in statistics from Ohio State, and direct local presence.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T6jc56vffVAp6Rq8J7HEuq8gJTW-Ks-njvNOo_BgfHvAjz7GsVeGaB7wYp9CKn7D_oxk4aFmfzGlIYZfmFgcMU0twxidMu7gSr2QEzJznNZ6U5Gr51Ni_cuf6egxa58CzDRU=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "CHHxaqr-H9zZ0_gP15C5qQ0",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 53,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1327,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1327
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1380,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "David meets all required qualifications with over 3 years of analyst experience, strong SQL/Power BI skills, a degree in statistics from Ohio State, and direct local presence."
+    }
+   }
+  }
+ ]
+}

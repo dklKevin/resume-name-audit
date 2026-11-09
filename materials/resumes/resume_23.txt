@@ -2,18 +2,18 @@
 Columbus, OH | (614) 555-0123 | {EMAIL}
 
 SUMMARY
-Survey analyst at a nonprofit policy research center, designing questionnaires, weighting results and writing reports for state agency clients. Seven years of applied quantitative work in SPSS and R, with limited SQL and no experience yet in a commercial setting. Interested in bringing careful survey and statistical methods into a business analytics team.
+Analyst at a nonprofit research center with seven years of applied quantitative work for government and operational clients. Writes SQL in PostgreSQL every week, analyzes survey and transaction data in R, and turns results into short findings that program managers act on. Recent work has moved from survey reporting toward operational analysis of ridership and service data, and the next step is a business analytics team.
 
 EXPERIENCE
 Survey Analyst | Hollister Center for Public Policy Research, Columbus, OH | Jul 2021 to Present
-• Manage data analysis for four to six concurrent survey projects a year for state agencies, including a statewide transit rider survey, a workforce training follow-up study and a licensing board customer satisfaction survey.
-• Build sampling frames and weights in R (survey package) and SPSS, raking results to population benchmarks so agency reports reflect the people each program serves.
-• Wrote reusable R scripts for cleaning Qualtrics exports, coding open-ended responses and producing crosstabs, which cut report preparation time for a typical project from three weeks to about eight days.
-• Analyzed a mailed versus text message invitation pilot for the workforce study and showed that text invitations doubled response among program completers at roughly one third the cost.
-• Draft the methods and findings chapters of client reports, usually 40 to 80 pages, and prepare slide summaries for agency program directors.
-• Pull participant contact and enrollment records from agency data files and occasionally write simple SQL queries in the center's PostgreSQL database to join project tables.
-• Meet with agency project managers at kickoff and at each interim report to agree on question wording, sample sizes and deadlines, typically for budgets between $60,000 and $250,000.
-• Built a project tracking workbook in Excel that the center's five survey staff use to monitor fieldwork status, response rates and invoicing milestones.
+• Manage data analysis for four to six concurrent client projects a year for state agencies, including a transit rider study, a workforce training follow-up and a licensing board customer satisfaction survey.
+• Led the operational analysis for a regional transit authority, joining 14 months of fare card transactions to route schedules and stop data in SQL to measure boardings by route, hour and fare type. The planning team used the results to add peak trips on two routes and cut low use midday trips on another two.
+• Built and maintain the center's PostgreSQL project database, writing SQL with joins, CTEs and window functions to link survey responses to client administrative records and to flag duplicate or out of range entries.
+• Built a Tableau dashboard for the transit authority's customer service managers that tracks weekly complaint volume and survey satisfaction by route, refreshed from the same database.
+• Analyzed a mailed versus text message invitation pilot for the workforce study and showed that text invitations doubled response among program completers at roughly one third the cost; the agency switched all follow-up outreach to text.
+• Wrote reusable R scripts for cleaning Qualtrics exports and producing crosstabs, which cut report preparation time for a typical project from three weeks to about eight days.
+• Build sampling frames and weights in R and SPSS so results match the populations each client serves.
+• Meet with client project managers at kickoff and at each interim report to agree on scope, sample sizes and deadlines, typically for budgets between $60,000 and $250,000, and write short findings memos alongside the full report.
 
 Research Assistant | Hollister Center for Public Policy Research, Columbus, OH | Jun 2019 to Jun 2021
 • Supported three project directors on studies for state health and transportation agencies.
@@ -27,12 +27,11 @@ EDUCATION
 {DEGREE_LINE}, 2019
 
 SKILLS
-Statistical software: SPSS, R (tidyverse, survey, Shiny), Stata (reading and editing existing code)
-Survey tools: Qualtrics, REDCap, sampling and weighting, questionnaire design
-Data: Excel (pivot tables, lookups), basic SQL (SELECT, joins, GROUP BY) in PostgreSQL
-Reporting: Word and PowerPoint reports, ggplot2 charts, Tableau Public (personal projects)
+Data: SQL in PostgreSQL (joins, CTEs, window functions, aggregation), Excel (pivot tables, lookups, Power Query)
+Analysis: R (tidyverse, survey, Shiny), SPSS, regression, sampling and weighting
+Reporting: Tableau Desktop, ggplot2 charts, short findings memos and slide summaries
+Survey tools: Qualtrics, REDCap, questionnaire design
 
 ADDITIONAL
-• Presented a poster on text message survey invitations at a public opinion research conference, 2024
+• Completed an intermediate SQL course on window functions and query tuning, 2026
 • Volunteer survey design help for a Columbus neighborhood association's annual resident survey
-• Working through an intermediate SQL course on window functions, 2026

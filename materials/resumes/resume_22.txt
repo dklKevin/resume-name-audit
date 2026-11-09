@@ -2,17 +2,18 @@
 Columbus, OH | (614) 555-0122 | {EMAIL}
 
 SUMMARY
-Business analyst at a property and casualty insurer, working between claims operations and the IT teams that build and maintain claims software. Most of the role is requirements, process mapping and user acceptance work, with a growing share of SQL used to check data during system changes. Seeking a move into a position where analyzing data is the main job rather than a supporting task, and where clear writing for non-technical partners still matters.
+Business analyst at a property and casualty insurer, working between claims operations and the IT teams that build and maintain claims software. Since the 2024 claims system launch, has taken ownership of several claims operations reports and writes SQL against the claims data warehouse every week, alongside requirements and process work. Seeking a move into a position where analyzing data is the main job rather than one part of it, and where clear writing for non-technical partners still matters.
 
 EXPERIENCE
 Business Analyst | Granitepoint Mutual Insurance, Columbus, OH | Jul 2022 to Present
+• Own four recurring claims operations reports covering open inventory by adjuster, cycle time to first contact, reserve changes and reopened claims, sent weekly to 12 claims managers and the operations director.
+• Write SQL each week against the claims data warehouse to build those reports and answer ad hoc questions from claims leadership, using joins across claim, exposure and payment tables, subqueries and date logic.
+• Built a Power BI report on adjuster caseloads and days since last contact that claims supervisors use in Monday workload meetings to rebalance new assignments.
+• Found that cycle time had jumped after launch because reopened claims kept the original open date; worked with the reporting team to fix the logic and restated eight months of results.
+• Used SQL to compare claim, reserve and payment records between the old and new systems during data conversion, finding 2,100 claims with mismatched reserve amounts before go-live.
 • Wrote requirements and acceptance criteria for 60+ Jira stories during the replacement of the auto claims system, working with a team of eight developers and two product owners.
 • Coordinated user acceptance sessions with 25 claims adjusters across three rounds, logging and triaging about 180 defects by severity and business impact.
-• Used SQL to compare claim, reserve and payment records between the old and new systems during data conversion, finding 2,100 claims with mismatched reserve amounts before go-live.
 • Mapped the first notice of loss process in Visio from phone intake through adjuster assignment, which the operations team used to remove two redundant handoffs.
-• Built an Excel tracker of open defects by severity and business area that the project manager used in weekly steering meetings.
-• Drafted the reporting requirements for six new claims operations reports after go-live, sitting with the reporting team to confirm field definitions and filters.
-• Ran short training walkthroughs for adjusters on the new claim intake screens, covering about 70 staff across four sessions.
 
 Associate Business Analyst | Granitepoint Mutual Insurance, Columbus, OH | Jul 2020 to Jun 2022
 • Documented current state workflows for the subrogation and salvage teams through interviews with 15 staff members.
@@ -30,7 +31,7 @@ EDUCATION
 
 SKILLS
 Business analysis: requirements gathering, user stories, acceptance criteria, process mapping, user acceptance coordination
-Data: SQL (SELECT, joins, GROUP BY, basic subqueries), Excel (pivot tables, VLOOKUP, charts), Power BI (viewer, a few personal reports)
+Data: SQL (joins, GROUP BY, subqueries, date functions), Excel (pivot tables, XLOOKUP, charts), Power BI (report building, basic DAX)
 Tools: Jira, Confluence, Visio, Guidewire ClaimCenter, SharePoint
 
 ADDITIONAL

@@ -2,15 +2,17 @@
 Columbus, OH | (614) 555-0121 | {EMAIL}
 
 SUMMARY
-Data analyst at an education nonprofit, two years into the analyst role after four years teaching math in grades 9 to 12 and three years coordinating program data. Works in R, SQL and Tableau to report on student outcomes for program staff, district partners and funders. Strongest at turning numbers into plain terms for audiences who do not work with data every day.
+Data analyst at an education nonprofit, two years into the analyst role after four years teaching math in grades 9 to 12 and three years coordinating program data. Works in SQL, R and Tableau every week to report on student outcomes for program staff, district partners and funders, and owns the data checks that keep those numbers trustworthy. Strongest at turning numbers into plain terms for audiences who do not work with data every day.
 
 EXPERIENCE
 Data Analyst | Lanternworks Education Partners, Columbus, OH | Nov 2024 to Present
 • Maintain Tableau dashboards on attendance, course completion and tutoring hours for 14 partner sites serving about 3,500 students.
-• Write SQL against the Postgres database behind the program management system to answer weekly questions from site directors.
+• Write SQL against the Postgres database behind the program management system to answer weekly questions from site directors, including window functions for attendance streaks and term over term change.
 • Built an R script that cleans and merges quarterly attendance files from partner districts, replacing a manual process that took two days each quarter.
 • Analyzed results from a tutoring pilot by comparing participating students with similar non-participants on course pass rates; wrote a four page brief the board used when deciding to expand to three more sites.
 • Rebuilt the student identifier matching between the program system and district files, raising the match rate from 81 to 96 percent.
+• Set up nightly SQL checks that flag duplicate enrollments, missing site codes and attendance dated outside a program term, and send a short exception list to site coordinators each morning.
+• Built a staffing and cost per tutoring hour view for the operations director, used to set next year's tutor hiring by site.
 • Meet monthly with program directors to walk through dashboard changes and collect new reporting requests.
 • Prepare the data sections of eight to ten grant reports a year and answer follow-up questions from funders.
 
@@ -33,7 +35,7 @@ EDUCATION
 
 SKILLS
 Analysis: R (tidyverse, ggplot2, R Markdown), comparison group analysis, descriptive statistics
-Data: SQL (Postgres, joins, aggregates, some window functions), Salesforce reports, Excel (pivot tables, XLOOKUP), Google Sheets
+Data: SQL (Postgres, joins, aggregates, CTEs, window functions), Salesforce reports, Excel (pivot tables, XLOOKUP), Google Sheets
 Visualization: Tableau Desktop and Tableau Cloud
 Communication: grant report writing, board briefs, presenting to nontechnical audiences
 

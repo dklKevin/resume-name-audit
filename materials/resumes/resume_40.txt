@@ -2,27 +2,27 @@
 Columbus, OH | (614) 555-0140 | {EMAIL}
 
 SUMMARY
-Restaurant general manager with ten years running full service restaurants, including full profit and loss responsibility for locations with up to $4.2 million in annual sales. Uses Excel and POS reports every week to manage food cost, labor and sales targets. Aiming to move from operations into a business or data analyst role, starting from strong spreadsheet habits and operating experience rather than technical tools.
+Restaurant general manager with ten years running full service restaurants, including full profit and loss responsibility for locations with up to $4.2 million in annual sales. Built an Excel Power Pivot model that joins POS item sales with invoice costs, and uses it for menu pricing, promotion reads and labor planning that the ownership group acts on. No SQL at work yet. Aiming to move from operations into a business or data analyst role, ideally in retail or hospitality.
 
 EXPERIENCE
 General Manager | Ember and Oak Kitchen, Columbus, OH | May 2020 to Present
-• Run a 220 seat restaurant with $4.2 million in annual sales and a staff of 65, reporting to the ownership group monthly on sales, prime cost and guest feedback.
-• Keep a weekly Excel P&L tracker that combines POS sales, invoice totals and payroll hours, catching cost overruns before the monthly statements from the outside accountant arrive.
-• Brought food cost from 33% to 29% of sales over 18 months by tightening weekly inventory counts, renegotiating two produce contracts and reworking portion specs.
-• Priced two menu revisions a year using an Excel sheet of plate cost, item sales and contribution margin.
-• Build the weekly schedule against forecasted covers, holding labor at 28% to 30% of sales.
+• Run a 220 seat restaurant with $4.2 million in annual sales and a staff of 65, reporting monthly to the ownership group on sales, prime cost and guest feedback.
+• Built an Excel Power Pivot data model in 2024 that loads Toast item sales, MarginEdge invoice lines and payroll hours each week, with DAX measures for plate cost, contribution margin and labor per cover; it replaced four separate workbooks.
+• Used the model to run a menu engineering review of 74 items by popularity and contribution margin. Eleven low margin, low volume items were cut and six were repriced, and food cost moved from 31% to 29% of sales with no drop in covers.
+• Ran a six week happy hour pilot on Tuesday and Wednesday only, comparing bar sales and average check with the same weeks the prior year and with Monday and Thursday. Bar sales on pilot nights rose 18% while average check held, and ownership extended it to four nights.
+• Forecast weekly covers by day and daypart from two years of POS history and build the schedule from it, holding labor at 28% to 30% of sales.
+• Brought food cost from 33% to 31% in the first 18 months by tightening weekly inventory counts and renegotiating two produce contracts.
+• Track online review scores and comment themes in a monthly spreadsheet shared with kitchen and service leads.
+• Prepare the annual operating budget for the ownership group from prior year actuals and planned price changes.
 • Hire, train and review front and back of house staff, with six shift leads reporting directly.
-• Compared weekday lunch sales before and after a shorter lunch menu launch, using POS item reports exported to Excel, and kept the shorter menu after ticket times dropped and average check held steady.
-• Track guest review scores and comment themes from online review sites in a monthly spreadsheet and share the patterns with the kitchen and service teams.
-• Prepared the annual operating budget for the ownership group, built from prior year actuals and planned menu price changes.
 
 General Manager | Fieldstone Grill House, Columbus, OH | Sep 2016 to Apr 2020
 • Managed a 160 seat restaurant with $2.8 million in annual sales and 48 employees.
-• Grew sales 12% over three years, mostly through private event bookings tracked in a shared spreadsheet.
+• Grew sales 12% over three years, mostly through private event bookings.
+• Kept a spreadsheet of weekly sales by daypart that the owners used to decide on adding Sunday brunch, which grew to about 9% of weekly sales within a year.
 • Completed monthly inventory valuations and vendor invoice reconciliation.
+• Cut server turnover with a structured two week training plan and a shift lead track.
 • Passed every annual health inspection with no critical violations.
-• Kept a running spreadsheet of weekly sales by daypart that the owners used to decide on adding Sunday brunch, which grew to about 9% of weekly sales within a year.
-• Cut server turnover by setting up a structured two week training plan and a shift lead track for experienced staff.
 
 Assistant General Manager | Fieldstone Grill House, Columbus, OH | Jul 2013 to Aug 2016
 • Ran evening shifts, cash handling and closing reports.
@@ -33,9 +33,11 @@ EDUCATION
 {DEGREE_LINE}, 2013
 
 SKILLS
-Software: Excel (SUMIFS, pivot tables, basic charts), Toast POS reporting, MarginEdge, Google Sheets
-Operations: P&L management, food and labor cost control, inventory, menu pricing, scheduling, vendor management
+Spreadsheets: Excel (Power Pivot, DAX measures, Power Query, pivot tables, SUMIFS, charts), Google Sheets
+Data sources: Toast POS reporting, MarginEdge invoice data, payroll exports
+Analysis: menu engineering, before and after promotion reads, cover forecasting, budgeting
+Operations: P&L management, food and labor cost control, inventory, vendor management
 
 ADDITIONAL
 • ServSafe Manager certification, current
-• Enrolled in an online introductory data analytics course (2026)
+• Enrolled in an online introductory data analytics course covering SQL and Tableau, 2026

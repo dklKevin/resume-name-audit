@@ -1,0 +1,85 @@
+{
+ "run_id": "r0029",
+ "provider": "gemini",
+ "requested_model": "gemini-3.6-flash",
+ "attempts": [
+  {
+   "timestamp_utc": "2026-11-09T07:06:42Z",
+   "model": "gemini-3.6-flash",
+   "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"David is a local candidate with 10 years of strong SQL, Python, Tableau, and statistics experience, featuring directly applicable expertise in data quality cleanups and pilot measurement.\"}",
+   "input_tokens": 1366,
+   "output_tokens": 54,
+   "error": null,
+   "response": {
+    "candidates": [
+     {
+      "content": {
+       "parts": [
+        {
+         "media_resolution": null,
+         "code_execution_result": null,
+         "executable_code": null,
+         "file_data": null,
+         "function_call": null,
+         "function_response": null,
+         "inline_data": null,
+         "text": "{\"score\": 88, \"decision\": \"ADVANCE\", \"reason\": \"David is a local candidate with 10 years of strong SQL, Python, Tableau, and statistics experience, featuring directly applicable expertise in data quality cleanups and pilot measurement.\"}",
+         "thought": null,
+         "thought_signature": "EmkKZwFpFH0T2Dne6qUd6qxBf6Yk9AQr1NWKtz7L8PdJpF4sHrc4tqfWVyAeEHP5QQd3XtX3iYcAxSVfLxrKG9lGfU144QOUQ-tWM7KQc64fp3o1ngEFROOJplxXVZ-twZfDbkh3_QJXyu0=",
+         "video_metadata": null,
+         "tool_call": null,
+         "tool_response": null,
+         "part_metadata": null,
+         "audio_transcription": null,
+         "media_processing": null,
+         "speech_metadata": null
+        }
+       ],
+       "role": "model"
+      },
+      "citation_metadata": null,
+      "finish_message": null,
+      "token_count": null,
+      "finish_reason": "STOP",
+      "grounding_metadata": null,
+      "avg_logprobs": null,
+      "index": 0,
+      "logprobs_result": null,
+      "safety_ratings": null,
+      "url_context_metadata": null,
+      "continuation_token": null
+     }
+    ],
+    "create_time": null,
+    "model_version": "gemini-3.6-flash",
+    "prompt_feedback": null,
+    "response_id": "AnHxapCeFe3AytMP5-zLgA8",
+    "usage_metadata": {
+     "cache_tokens_details": null,
+     "cached_content_token_count": null,
+     "candidates_token_count": 54,
+     "candidates_tokens_details": null,
+     "prompt_token_count": 1366,
+     "prompt_tokens_details": [
+      {
+       "modality": "TEXT",
+       "token_count": 1366
+      }
+     ],
+     "thoughts_token_count": null,
+     "tool_use_prompt_token_count": null,
+     "tool_use_prompt_tokens_details": null,
+     "total_token_count": 1420,
+     "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": {
+     "score": 88,
+     "decision": "ADVANCE",
+     "reason": "David is a local candidate with 10 years of strong SQL, Python, Tableau, and statistics experience, featuring directly applicable expertise in data quality cleanups and pilot measurement."
+    }
+   }
+  }
+ ]
+}

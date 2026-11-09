@@ -2,40 +2,39 @@
 Columbus, OH | (614) 555-0139 | {EMAIL}
 
 SUMMARY
-Data entry specialist at an independent insurance agency, keying policy, claim and customer records with a 99.7 percent accuracy rate on quarterly quality audits. Works in Excel every day to track renewals and missing documents for the agents. Seeking an entry point into analysis work where accuracy and organization matter, and building spreadsheet skills toward that goal.
+Data and reporting specialist at an independent insurance agency, moved up from data entry after taking over the agency's commission and retention reporting. Maintains the Power BI report the owner uses to track new business and retention by producer, and automated the monthly commission reconciliation in Excel. Keys and audits policy records with a 99.7 percent accuracy rate. Seeking an entry level analyst role.
 
 EXPERIENCE
-Data Entry Specialist | Wrenfield Insurance Agency, Columbus, OH | Mar 2023 to Present
-• Enter new auto, home and small business policy applications into the agency management system, averaging about 120 records a day.
-• Scan, index and file signed documents, endorsements and claim forms so agents can pull up any file by policy number.
-• Keep an Excel list of upcoming renewals for three agents, with conditional formatting that highlights policies expiring within 30 days.
-• Run a weekly report from the agency system showing policies missing signatures or inspection photos, and send reminders to the responsible agent.
-• Correct duplicate customer records found during monthly audits, about 40 a month.
-• Help train two new office staff on data entry steps and document naming rules, and wrote a one page checklist the office still uses for new hires.
-• Reconcile the daily list of policy changes from two carriers against the agency system and fix mismatched effective dates or premium amounts.
-• Converted roughly 3,000 paper customer files into scanned records during a 2024 office move, checking each against the system for matching names and policy numbers.
-• Update carrier commission statements in a spreadsheet each month so the office manager can compare paid amounts with expected amounts.
-• Answer phone questions from customers about document status and forward coverage questions to the assigned agent.
-• Built a pivot table in 2025 that counts new policies by line of business and month, which the agency owner now asks for before each quarterly sales meeting.
-• Order supplies and keep the shared office calendar up to date for six staff.
+Data and Reporting Specialist | Wrenfield Insurance Agency, Columbus, OH | Mar 2023 to Present
+• Hired as a data entry specialist entering about 120 policy records a day; promoted in February 2026 after reporting work grew to roughly half of each week.
+• Built a Power BI report from weekly Applied Epic exports showing new policies, renewals, cancellations and retention rate by producer, line of business and carrier; the agency owner reviews it before every quarterly sales meeting and in producer reviews.
+• Automated the monthly commission reconciliation with Power Query, matching carrier commission statements to expected amounts by policy. The first full run found about $14,000 in underpaid commissions over the prior year, most of it recovered from two carriers.
+• Compared retention for policies that got a renewal review call with those that did not, using two years of Epic data in Excel; reviewed accounts renewed at 89 percent against 80 percent. The owner made review calls standard for every personal lines policy over $2,000 in premium.
+• Reconcile the daily policy change downloads from two carriers against the agency system and fix mismatched effective dates or premium amounts.
+• Run a weekly report of policies missing signatures or inspection photos and follow up with the responsible agent.
+• Correct about 40 duplicate customer records a month and wrote the naming rules that cut new duplicates.
+• Converted roughly 3,000 paper customer files into scanned records during a 2024 office move, checking each against the system.
+• Trained two new office staff on data entry steps and document naming, with a one page checklist still in use.
 
 Front Desk Receptionist | Tamarack Dental Care, Columbus, OH | Aug 2022 to Feb 2023
 • Checked in patients, verified insurance information and updated contact details in the scheduling system.
-• Confirmed appointments by phone and text and kept the daily schedule current for four dental providers.
-• Entered payments and copays and balanced the front desk cash drawer at the end of each day.
-• Kept a simple Excel log of cancellations and no-shows that the office manager reviewed each month.
+• Confirmed appointments by phone and text for four dental providers.
+• Entered payments and copays and balanced the front desk cash drawer each day.
+• Kept an Excel log of cancellations and no-shows that the office manager reviewed monthly to decide when to double book hygiene slots.
 • Called patients with unpaid balances over 60 days and noted payment plans in the billing system.
 
 EDUCATION
 {DEGREE_LINE}, 2022
 
 SKILLS
-Software: Microsoft Excel (sorting, filters, conditional formatting, simple formulas, basic pivot tables), Word, Outlook
+BI and spreadsheets: Power BI (one report in regular use, basic DAX measures), Excel (Power Query, pivot tables, XLOOKUP, conditional formatting)
+Data: record auditing and cleanup, carrier statement reconciliation; SQL limited to an online beginner course
 Systems: Applied Epic agency management system, document scanning and indexing, Dentrix scheduling
-Data entry: about 70 words per minute, 10-key, record auditing and correction
-Working style: careful proofreading, organized filing, follow-up with agents on missing paperwork
+Data entry: about 70 words per minute, 10-key
+Working style: careful proofreading, follow-up with agents on missing paperwork
 
 ADDITIONAL
 • Licensed property and casualty insurance agent, 2024
 • Completed an online introduction to Excel data analysis course, 2025
+• Completed a beginner SQL course online, 2026
 • Volunteer at a Columbus public library branch, helping patrons with computer basics during weekly open lab hours

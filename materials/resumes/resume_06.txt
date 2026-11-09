@@ -2,37 +2,39 @@
 Columbus, OH | (614) 555-0106 | {EMAIL}
 
 SUMMARY
-Pricing and margin analyst at a consumer goods distributor serving about 1,800 grocery, convenience and hardware accounts. Builds the SQL and dbt models that show sales leaders where margin disappears between list price and invoice, and sizes the effect of each price change before and after it goes live. Owns Power BI reports end to end, from source tables to the walkthrough with a regional sales director.
+Pricing analyst at a consumer goods distributor serving grocery, convenience and hardware accounts, after two years in sales reporting at an office supply company. Prepares price change files, margin summaries and Power BI reports for account managers and regional sales leaders. Comfortable with SQL for day to day pulls and with Excel for most of the modeling.
 
 EXPERIENCE
-Senior Pricing and Margin Analyst | Ridgeworth Brands Distribution, Columbus, OH | Mar 2025 to Present
-• Owns the margin leakage report, which splits the gap between list and pocket price into off-invoice allowances, freight, rebates and unapproved discounts across 14,000 SKUs.
-• Found $2.3 million in annualized leakage from expired promotional allowances still applied at invoice and worked with billing to close it within one quarter.
-• Designed a pre and post price change model in SQL that compares changed SKUs against matched control SKUs; the model has been used for every list price action since mid 2025.
-• Rebuilt 30 legacy pricing queries as dbt models with documented sources, freshness checks and schema validation, which cut dashboard refresh failures from weekly to a few per year.
-• Presents a monthly margin review to the VP of sales and six regional sales leaders, with a two page written summary sent ahead of each meeting.
-
-Pricing Analyst | Ridgeworth Brands Distribution, Columbus, OH | Nov 2022 to Feb 2025
-• Supported three annual price increases affecting roughly 6,000 SKUs, preparing customer price files and margin impact summaries in Excel and Power BI.
-• Built a Power BI dashboard tracking realized price against planned price by customer tier, now used by 40 account managers.
-• Analyzed volume response to a 2023 price increase on paper goods, showing that a 4 percent increase on private label items lost less volume than forecast and supporting a second round.
-• Merged 900 duplicate ship-to records in the pricing system after tracing several margin reporting errors back to the customer hierarchy.
+Pricing Analyst | Ridgeworth Brands Distribution, Columbus, OH | Nov 2022 to Present
+• Prepare customer price files and margin impact summaries in Excel for annual list price increases, each covering several thousand SKUs.
+• Maintain a Power BI report comparing realized price against planned price by customer tier, used by account managers in the central and east regions.
+• Pull invoice and allowance data with SQL for the senior pricing analyst's margin leakage work, and check totals against the general ledger before each monthly update.
+• Ran a before and after comparison of volume on paper goods following a 2023 price increase, which suggested private label items held volume better than forecast.
+• Merged duplicate ship-to records in the pricing system after tracing a few margin reporting errors back to the customer hierarchy.
+• Answer pricing questions from account managers about contract terms, rebate eligibility and order history, usually the same or next day.
+• Keep the pricing team's shared calendar of planned price actions and send a short weekly note on upcoming changes to the customer service team.
+• Reviewed promotional allowance end dates against invoice data each month and sent exceptions to billing, a check that caught several allowances still applied after expiry.
+• Built a small Excel model that estimates the margin effect of a proposed freight surcharge by customer size band, used once in 2024 planning.
+• Updated a set of legacy pricing queries to point at new Snowflake tables after the company moved off its old reporting server.
 
 Sales Reporting Associate | Penderby Office Supply, Columbus, OH | Jul 2020 to Oct 2022
 • Prepared weekly sales and gross margin reports by branch and product line for a 60 person sales team.
-• Automated the monthly commission data pull with SQL and Power Query, shrinking a three day process to half a day.
-• Answered pricing and order history questions from sales reps with SQL Server queries, usually the same day.
+• Automated part of the monthly commission data pull with Power Query, shortening a three day process to about a day and a half.
+• Answered order history questions from sales reps with simple SQL Server queries.
 • Built an Excel tracker for vendor cost increases that showed the sales team which customer contracts needed repricing first.
+• Cleaned branch and rep codes in the sales file each month so regional totals matched finance.
+• Kept the product line mapping table current as new items were added, so margin by line stayed consistent from month to month.
+• Pulled monthly sales by customer for the credit team when accounts were flagged for late payment.
+• Assembled the quarterly branch ranking packet for the sales director from Excel exports.
 
 EDUCATION
 {DEGREE_LINE}, 2020
 
 SKILLS
-SQL: Snowflake, SQL Server, CTEs, window functions, query tuning
-Data modeling: dbt Core, Git, source documentation, data validation checks
-BI and spreadsheets: Power BI (DAX, Power Query, row level security), advanced Excel (Power Pivot, pivot tables, scenario models)
-Analysis: price elasticity estimates, pre and post comparisons with matched controls, margin bridges, rebate accruals
+SQL: Snowflake, SQL Server, joins, aggregations, basic CTEs
+BI and spreadsheets: Power BI (report pages, basic DAX), advanced Excel (pivot tables, Power Query, scenario models)
+Analysis: before and after price comparisons, margin bridges, rebate accruals
+Tools: SharePoint, Salesforce reports, SAP order history extracts
 
 ADDITIONAL
-• Microsoft Certified: Power BI Data Analyst Associate, 2023
-• Co-organizer of a quarterly Columbus analytics engineering meetup focused on dbt and warehouse modeling
+• Attends a quarterly Columbus analytics meetup focused on reporting and warehouse modeling

@@ -52,7 +52,7 @@ def test_report_flags_and_floor(tmp_path):
     assert m.degree_gap == (5 + 10 + 25) / 3
     assert m.passes_degree_floor
     assert m.advance_rate_high == 2 / 3 and m.in_advance_range
-    assert not rep.passes
+    assert rep.passes  # two uniform resumes are within the limit of five
     assert "Always ADVANCE" in pilot.render(rep)
 
 
@@ -69,7 +69,7 @@ def test_later_run_replaces_repiloted_resumes(tmp_path):
     rep = pilot.report([tmp_path / "p1", tmp_path / "p2"])
     assert rep.always_advance == [] and rep.always_reject == []
     assert all(m.degree_gap == (31 + 30) / 2 for m in rep.models)
-    assert rep.passes
+    assert all(m.passes_degree_floor for m in rep.models)
 
 
 def test_floor_fails_below_ten(tmp_path):
@@ -79,4 +79,29 @@ def test_floor_fails_below_ten(tmp_path):
     write(tmp_path / "p1", rows)
     rep = pilot.report([tmp_path / "p1"])
     assert not any(m.passes_degree_floor for m in rep.models)
+    assert not rep.passes
+
+
+def test_too_many_uniform_resumes_fail(tmp_path):
+    rows = []
+    for p in ("openai", "gemini"):
+        for rid in range(1, 4):
+            rows += rows_for(p, rid, (90, "ADVANCE"), (75, "ADVANCE"))
+        for rid in range(4, 7):
+            rows += rows_for(p, rid, (40, "REJECT"), (25, "REJECT"))
+    write(tmp_path / "p1", rows)
+    rep = pilot.report([tmp_path / "p1"])
+    assert all(m.passes_degree_floor and m.in_advance_range for m in rep.models)
+    assert len(rep.always_advance) + len(rep.always_reject) == 6
+    assert not rep.passes
+
+
+def test_advance_rate_out_of_range_fails(tmp_path):
+    rows = []
+    for p in ("openai", "gemini"):
+        for rid in range(1, 5):
+            rows += rows_for(p, rid, (80, "ADVANCE"), (60, "REJECT"))
+    write(tmp_path / "p1", rows)
+    rep = pilot.report([tmp_path / "p1"])
+    assert rep.overall_advance_high == 1.0
     assert not rep.passes

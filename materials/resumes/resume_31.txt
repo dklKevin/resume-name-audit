@@ -2,38 +2,36 @@
 Columbus, OH | (614) 555-0131 | {EMAIL}
 
 SUMMARY
-Candidate for an entry level analyst role, with a three-month analytics internship and several Python data projects. Comfortable cleaning data in pandas and building simple charts, with working knowledge of SQL from project work. Currently works part time in retail inventory at a hardware store, which has added practical exposure to receiving, counts and reorders, while looking for a first full-time analytics position.
+Early career analyst candidate with a summer analytics internship and two years at a hardware and garden store, where a part-time inventory job has grown into running the store's weekly sales and reorder reporting. Writes Python and SQL to pull point of sale data and maintains a Looker Studio report the owner uses to plan seasonal orders. Looking for a first full-time analytics role, ideally with retail data.
 
 EXPERIENCE
-Inventory Clerk (part-time) | Haddon Hardware and Garden, Columbus, OH | Aug 2023 to Present
-• Receive deliveries, check each one against the packing slip and enter receipts into the store's point of sale system, about 20 hours a week.
-• Help with quarterly cycle counts and record count discrepancies on the shared log for the store manager.
-• Built an Excel sheet that lists seasonal items with low on-hand counts each Monday, which the manager uses when placing reorders.
-• Restock aisles and set up seasonal displays for spring lawn care and fall outdoor products.
-• Process customer returns at the service desk and note damaged items for vendor credit.
-• Noticed that mulch and potting soil counts were off after every holiday weekend and started a simple tally sheet for pallets sold at the outdoor register, which closed most of the gap.
-• Cover the paint counter on weekends, mixing orders and logging color formulas in the store system.
+Inventory and Reporting Associate | Haddon Hardware and Garden, Columbus, OH | Aug 2023 to Present
+• Started as a part-time inventory clerk receiving deliveries and helping with cycle counts; since mid 2025 spends about half of a 30 hour week on reporting for the owner and store manager.
+• Wrote a Python script (pandas) that reads the weekly item sales and on-hand exports from the point of sale system, flags items below reorder point and emails the list to the manager each Monday, replacing a sheet that took two hours to build by hand.
+• Loads two years of item sales into a small SQLite database and writes SQL (joins to the vendor and department tables, GROUP BY, CASE) to answer questions such as sell-through by vendor or which items have not sold in 90 days.
+• Built a Looker Studio report of weekly sales, margin and sell-through by department and season, refreshed from a Google Sheet the script updates; the owner used it to cut the fall decor order by about 20 percent after it showed half of last year's order went to clearance.
+• Compared bagged mulch sales on weekends with and without a pallet price promotion over two springs and showed volume rose but margin dollars were flat, so the owner kept the promotion to holiday weekends only.
+• Found that mulch and potting soil counts were off after every holiday weekend and traced it to pallets sold at the outdoor register under a generic code; a dedicated item code closed most of the gap.
+• Receive deliveries, enter receipts against packing slips and help with quarterly cycle counts.
 
 Data Analytics Intern | Brookmere Insurance Group, Columbus, OH | Jun 2022 to Aug 2022
-• Cleaned two years of customer service call logs in Python (pandas) for an analytics team of five, fixing inconsistent reason codes and removing about 4,000 duplicate call records.
+• Cleaned two years of customer service call logs in Python (pandas) for an analytics team of five, fixing inconsistent reason codes and removing about 4,000 duplicate records.
 • Wrote SQL queries in a sandbox database to count call volume by reason code and week.
 • Built charts in matplotlib and a short slide deck on the top call drivers, presented to the analytics manager in the final week.
 • Documented the steps in a Jupyter notebook so the next intern could rerun the analysis.
-• Sat in on weekly team meetings where analysts walked through dashboard requests from the claims department.
-• Helped another analyst spot check a Tableau dashboard by comparing its weekly totals with counts from the source tables.
+• Helped another analyst check a Tableau dashboard by comparing its weekly totals with counts from the source tables.
 
 EDUCATION
 {DEGREE_LINE}, 2023
 
 SKILLS
-Programming: Python (pandas, matplotlib, seaborn), Jupyter notebooks
-Data: SQL (SELECT, WHERE, joins, GROUP BY) in SQLite, Excel (pivot tables, VLOOKUP, charts)
-Tools: Google Sheets, GitHub, basic Tableau Public
-Statistics: descriptive summaries, simple linear regression, grouping and aggregation
-Other: point of sale inventory entry, cycle counts, customer service
+Programming: Python (pandas, matplotlib, scheduled scripts), Jupyter notebooks
+Data: SQL (joins, GROUP BY, CASE, subqueries) in SQLite, Excel (pivot tables, XLOOKUP, charts)
+BI: Looker Studio (one report in regular use), basic Tableau from the internship
+Statistics: descriptive summaries, simple linear regression, before and after comparisons
+Retail: point of sale exports, reorder points, cycle counts, seasonal sell-through
 
 ADDITIONAL
-• Project: analyzed three years of public bike share trip data in Python to find peak hours and the busiest stations, with a written summary, charts and a short README posted on GitHub
-• Project: built a small SQLite database of grocery prices collected by hand over eight weeks and wrote queries comparing price changes by product category
+• Project: analyzed three years of public bike share trip data in Python to find peak hours and the busiest stations, with charts and a README on GitHub
 • Project: cleaned and charted a public restaurant inspection dataset for Columbus, comparing violation counts by month and inspection type
 • Completed the Google Data Analytics Certificate, 2024

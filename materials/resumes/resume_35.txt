@@ -2,39 +2,37 @@
 Columbus, OH | (614) 555-0135 | {EMAIL}
 
 SUMMARY
-Logistics coordinator with eleven years in freight and transportation, including eight years booking and tracking truckloads at a freight brokerage. Keeps detailed Excel trackers for loads, carriers and claims, and is the person the office asks when a shipment record does not match the invoice. Looking to move into a role centered on data and reporting.
+Logistics coordinator with eleven years in freight and transportation, including eight years booking and tracking truckloads at a freight brokerage. Since 2024 has had read access to the brokerage's TMS reporting database and writes SQL for lane, margin and carrier questions, and maintains the branch's Power BI report on on-time service and margin. Looking to move from coordinating loads into a role centered on data and reporting.
 
 EXPERIENCE
 Logistics Coordinator | Ironvale Freight Brokerage, Columbus, OH | Nov 2018 to Present
-• Book 25 to 40 truckloads a week for a group of 15 shipper accounts, mostly building products, paper goods and packaged food.
-• Call and email carriers to negotiate rates, confirm pickup appointments and collect proof of delivery.
-• Keep the Excel load tracker for the team of six coordinators, with columns for rate, margin, carrier, appointment times and delivery status.
-• Built a carrier scorecard sheet in Excel that counts late pickups and missed appointments by carrier each month, which the operations manager uses when choosing carriers for recurring lanes.
-• Enter and update loads in McLeod TMS and post available loads on the DAT load board.
-• Handle freight claims for damaged or short shipments, gathering photos and paperwork and following each claim until it is paid or closed.
-• Compare each carrier invoice with the booked rate before it goes to accounting, catching about 30 billing errors a month.
-• Send a weekly shipment summary to the two largest shippers listing on-time deliveries, delays and open claims, copied from the load tracker.
-• Trained four new coordinators on the load tracker, carrier setup steps and the claims checklist.
-• Pulled six months of loads from the tracker in 2025 to show the branch manager which lanes had the thinnest margins, sorting and totaling by lane in Excel.
-• Cover after-hours tracking calls one week a month, rebooking loads when a truck breaks down or a driver misses an appointment.
+• Book 20 to 30 truckloads a week for 15 shipper accounts, mostly building products, paper goods and packaged food, and negotiate rates and appointments with carriers.
+• Write SQL against the McLeod TMS reporting database (joins across loads, stops, carriers and invoices, GROUP BY, CASE) to answer questions from the branch manager that used to require weeks of tracker sorting.
+• Built a Power BI report in 2025 showing on-time pickup and delivery, margin per load and claims by shipper, lane and carrier; the branch manager uses it in quarterly reviews with the two largest shippers.
+• Ran a lane margin analysis on 18 months of loads and showed that nine recurring lanes were losing money once detention and layover charges were included. The branch repriced six lanes and dropped three, and average margin per load rose from 11.8 to 14.1 percent the following two quarters.
+• Found that delivery timestamps in the TMS were being entered as the appointment time rather than actual arrival on about a fifth of loads, which made on-time rates look better than reality; wrote a one page guide and the team corrected entry practice.
+• Replaced the Excel carrier scorecard with a query that counts late pickups and missed appointments by carrier each month, used when choosing carriers for recurring lanes.
+• Compare each carrier invoice with the booked rate before accounting pays it, catching about 30 billing errors a month.
+• Handle freight claims for damaged or short shipments, following each until it is paid or closed.
+• Trained four new coordinators on load entry, carrier setup and the claims checklist.
 
 Dispatch Assistant | Quillon Moving and Storage, Columbus, OH | Jul 2015 to Oct 2018
-• Scheduled local moving crews and trucks for 40 to 60 jobs a week using a whiteboard and a shared calendar.
-• Answered customer calls about move dates and estimates and entered bookings into the company scheduling software.
-• Tracked fuel receipts and mileage for 12 trucks in Excel for the office manager.
-• Kept the warehouse storage unit list current, noting move-in and move-out dates and overdue accounts.
-• Prepared the daily crew sheet with addresses, start times, truck assignments and special handling notes for pianos or other fragile items.
+• Scheduled local moving crews and trucks for 40 to 60 jobs a week using a shared calendar and the company scheduling software.
+• Tracked fuel receipts and mileage for 12 trucks in Excel and flagged two trucks whose fuel cost per mile ran well above the rest, which led to repairs.
+• Answered customer calls about move dates and estimates.
+• Kept the warehouse storage unit list current, noting move-in dates and overdue accounts.
+• Prepared the daily crew sheet with addresses, start times, truck assignments and special handling notes.
 
 EDUCATION
 {DEGREE_LINE}, 2015
 
 SKILLS
-Software: Microsoft Excel (sorting, filters, SUMIF, basic pivot tables), Outlook, Word
+SQL: joins, GROUP BY, CASE, date filtering on a SQL Server reporting database (about two years, mostly self taught)
+BI and spreadsheets: Power BI (one branch report, basic DAX), Excel (pivot tables, SUMIFS, XLOOKUP)
 Logistics systems: McLeod TMS, DAT load board, carrier onboarding portals
-Operations: rate negotiation, appointment scheduling, freight claims, invoice checks
-Working style: careful record keeping, phone and email follow-up, handling several urgent loads at once
+Operations: rate negotiation, freight claims, invoice auditing, carrier management
 
 ADDITIONAL
 • Certified Transportation Broker coursework through the Transportation Intermediaries Association, 2021
-• Completed an introductory Excel for business online course, 2024
+• Completed an online SQL fundamentals course, 2024
 • Volunteer driver for a Columbus food bank, picking up donations from grocery partners twice a month

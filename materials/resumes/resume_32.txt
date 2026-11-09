@@ -2,21 +2,20 @@
 Columbus, OH | (614) 555-0132 | {EMAIL}
 
 SUMMARY
-Assistant store manager at a consumer electronics retailer with ten years on the sales floor, first in sales and now running daily operations for a store with $11 million in annual sales. Tracks sales, attachment rates and staffing in Excel and reports weekly to the district office. Seeking a move into a reporting or analyst role in retail.
+Assistant store manager at a consumer electronics retailer with ten years on the sales floor, now running daily operations for a store with $11 million in annual sales. Over the past two years has become the district's go-to person for store reporting: a Tableau workbook used by nine stores, Excel analysis of a district bundle pilot and automated daily sales tracking. SQL is limited to coursework so far. Seeking a move into a retail reporting or analyst role.
 
 EXPERIENCE
 Assistant Store Manager | Voltline Electronics, Columbus, OH | Apr 2020 to Present
-• Oversee daily operations, opening and closing procedures and a team of 28 sales, service and stock employees.
-• Track daily sales to goal by department (computing, mobile, TV and home theater, appliances) in an Excel workbook fed from the company's daily sales email, shared each morning with department supervisors.
-• Build the weekly staff schedule in Excel against the payroll budget and door counter traffic, keeping labor within 0.5% of budget for most of 2025.
-• Monitor protection plan and accessory attachment rates by employee and coach staff who fall below target; store attachment rate rose from 22% to 29% over two years.
+• Oversee daily operations and a team of 28 sales, service and stock employees.
+• Automated the daily sales to goal workbook with Power Query, pulling the company's daily sales extract by department and employee instead of retyping it; department supervisors get it before the store opens.
+• Built a Tableau workbook in 2025 from the weekly district extract showing sales, attachment rate and labor hours per store against plan; the district manager now opens it on the Tuesday call with all nine store managers.
+• Measured a district pilot that bundled TV wall mounts with mid-size TVs at three stores against three similar comparison stores over eight weeks in Excel. Mount attachment rose from 18% to 27% with no drop in TV margin, and the district extended the bundle to all nine stores.
+• Pulled a year of hourly door counter traffic and sales into Excel and showed that weekday evenings were understaffed relative to conversion; moving four shifts raised evening close rates and kept labor within 0.5% of budget for most of 2025.
+• Compiled a monthly shrink analysis by category and SKU from inventory adjustment data, which helped the district loss prevention lead put the 15 most stolen items in locked display.
+• Monitor protection plan and accessory attachment by employee and coach staff below target; store attachment rose from 22% to 29% over two years.
 • Lead quarterly physical inventory preparation and daily cycle counts on high value items.
-• Prepare the weekly district call notes covering sales, staffing and shrink.
-• Handle customer escalations, returns approvals and price adjustment requests.
-• Compiled a monthly shrink summary in Excel from inventory adjustment printouts, sorted by category and SKU, which helped the district loss prevention lead target the 15 most stolen items for locked display.
-• Reconcile open orders and in-store pickup holds each week so customers are contacted before holds expire.
-• Coordinate holiday season staffing, hiring and onboarding 10 to 12 seasonal employees each year.
-• Covered as acting store manager for three months in 2024 while the position was vacant, keeping the store at 101% of its sales plan for the quarter.
+• Covered as acting store manager for three months in 2024, keeping the store at 101% of its sales plan for the quarter.
+• Coordinate holiday hiring and onboarding of 10 to 12 seasonal employees each year.
 
 Sales Consultant | Voltline Electronics, Columbus, OH | Jul 2016 to Mar 2020
 • Sold computers, tablets and home theater systems, averaging 112% of personal sales goal over three years.
@@ -24,18 +23,18 @@ Sales Consultant | Voltline Electronics, Columbus, OH | Jul 2016 to Mar 2020
 • Trained new hires on the point of sale system and product knowledge.
 • Named the store's top seller of protection plans in 2018 and 2019.
 • Set up weekly merchandising resets from corporate planograms.
-• Helped the department supervisor count open box and display inventory each month and record the results in a shared Excel file.
-• Answered product questions on the store's phone line and processed online order pickups during evening shifts.
+• Helped the department supervisor count open box and display inventory each month.
 
 EDUCATION
 {DEGREE_LINE}, 2016
 
 SKILLS
-Software: Excel (pivot tables, SUMIFS, charts, conditional formatting), Google Sheets, Microsoft Outlook
+BI and spreadsheets: Tableau (one workbook used across a district), Excel (Power Query, pivot tables, SUMIFS, charts), Google Sheets
+SQL: SELECT, WHERE, GROUP BY and simple joins from an online course, not yet used at work
 Retail systems: point of sale, inventory lookup, Kronos scheduling
-Retail operations: scheduling, sales coaching, inventory counts, merchandising resets, customer service
+Retail operations: labor planning, sales coaching, shrink control, inventory counts, merchandising resets
 
 ADDITIONAL
 • Excel Skills for Business specialization (Coursera), 2023
-• Volunteer at a Columbus electronics recycling drive, sorting donated devices and logging counts by type in a shared spreadsheet
-• Completed the company's assistant manager development program, including modules on store P&L basics and inventory control, 2020
+• Completed an introductory SQL course online with practice on a sample retail sales database, 2025
+• Completed the company's assistant manager development program, including store P&L and inventory control modules, 2020

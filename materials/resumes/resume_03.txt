@@ -2,35 +2,38 @@
 Columbus, OH | (614) 555-0103 | {EMAIL}
 
 SUMMARY
-Inventory and supply chain analyst with ten years at a third-party logistics provider, now leading analytics for two of its largest warehouse accounts. Builds the SQL, Python and Power BI reporting that account managers and client buyers use to decide what to reorder, what to mark down and which vendors to escalate. Known for catching a bad number before it reaches a client deck.
+Inventory analyst at a third-party logistics provider, supporting warehouse accounts for a lawn and garden brand and a home decor distributor. Started on the warehouse floor in inventory control and moved into analysis work in 2020. Writes SQL Server queries and builds Excel reports that account managers use to track on-hand balances, slow movers and vendor receiving problems.
 
 EXPERIENCE
-Analytics Lead, Warehouse Accounts | Corvane Fulfillment Services, Columbus, OH | Mar 2021 to Present
-• Own reporting for a lawn and garden brand and a home decor distributor that together move about 41,000 active SKUs through a 900,000 square foot facility.
-• Designed a stockout early warning report in Power BI that flags items projected to run out within 10 days, based on open purchase orders, inbound ASNs and trailing six week demand. Client buyers act on roughly 60 alerts a week, and account stockouts fell 23 percent in the first year.
-• Built vendor fill-rate scorecards for 140 suppliers by joining receiving, purchase order and ASN data in SQL Server. The scorecards now set the agenda for quarterly vendor reviews and supported $180,000 in vendor chargebacks during 2024.
-• Cut inventory write-offs by $410,000 over two years by pairing slow-mover reports with expiration and damage data, so the client could liquidate or return product before it lost value.
-• Replaced 14 linked Excel workbooks with a Python job that pulls WMS extracts each morning, applies validation rules and loads clean tables for Power BI, saving about nine analyst hours a week.
-• Supervise two inventory analysts, reviewing every SQL change before it ships and running a weekly working session on query design and reconciliation.
-• Present a monthly operations review to client directors covering service levels, inventory health and open data issues.
+Inventory Analyst | Corvane Fulfillment Services, Columbus, OH | Mar 2020 to Present
+• Produce weekly inventory health reports for two client accounts, covering on-hand units, aged stock and open purchase orders for about 41,000 active SKUs.
+• Write SQL Server queries to join receiving, purchase order and ASN data, and maintain an Excel vendor fill-rate summary that account managers bring to quarterly vendor reviews.
+• Built an Excel slow-mover list that pairs aging with damage records, which the client uses to choose items to return or liquidate each quarter.
+• Reconcile daily WMS on-hand balances against client ERP records and trace variances to receiving, picking or system timing.
+• Update two Power BI pages built by the site reporting lead, mostly adding fields and fixing broken visuals after source changes.
+• Built a weekly list of SKUs with no movement in 90 days, sorted by storage cost, so account managers can raise markdown or return options with each client early.
+• Answer ad hoc questions from client buyers about order history and inbound timing, usually by pulling a query result into Excel the same day.
+• Flagged a recurring unit of measure mismatch on inbound ASNs from one home decor vendor and worked with receiving to set up a manual check until the vendor corrected the feed.
+• Prepare inventory slides for the monthly operations review with client directors.
 
-Inventory Analyst | Corvane Fulfillment Services, Columbus, OH | Jul 2016 to Feb 2021
-• Reconciled daily WMS on-hand balances against client ERP records for six accounts and traced each variance to receiving, picking or system timing.
-• Wrote SQL with window functions to rank cycle count variances by dollar impact, which focused the counting team on the 300 locations behind most of the error.
-• Maintained item master and unit of measure data for more than 25,000 SKUs, correcting case pack and dimension errors that had been causing slotting and freight billing problems.
-• Built the site's first Power BI dashboard for on-time shipping and order accuracy, later adopted by three other buildings.
-• Supported peak season planning each fall with labor and volume projections in Excel.
+Inventory Control Associate | Corvane Fulfillment Services, Columbus, OH | Jul 2016 to Feb 2020
+• Ran daily cycle counts and recorded variances for six client accounts.
+• Maintained item master and unit of measure data for more than 25,000 SKUs, correcting case pack and dimension errors that caused slotting problems.
+• Helped set up count zones and labeling when one client moved its overflow stock into a second building in 2018, keeping location records accurate through the move.
+• Learned basic SQL from the site reporting lead to pull cycle count history instead of waiting on weekly extracts.
+• Kept an Excel log of count variances by location, which helped supervisors decide where to recount first.
+• Trained new associates on count procedures and scanner use during the busy fall season.
+• Supported peak season planning each fall with volume projections in Excel.
 
 EDUCATION
 {DEGREE_LINE}, 2016
 
 SKILLS
-Data and querying: SQL Server, T-SQL, window functions, CTEs, Snowflake (sandbox projects), Excel (Power Query, pivot tables, XLOOKUP)
-Analysis and automation: Python (pandas, SQLAlchemy), scheduled ETL scripts, exponential smoothing forecasts
-Reporting: Power BI (DAX, row-level security, incremental refresh), Excel dashboards
+Data and querying: SQL Server, joins, CTEs, Excel (Power Query, pivot tables, XLOOKUP)
+Reporting: Excel dashboards, Power BI (editing existing reports)
 Supply chain systems: Blue Yonder WMS, SAP ERP extracts, EDI 856 and ASN data
+Inventory: cycle counting, aging and slow-mover analysis, vendor fill rate, item master maintenance
 
 ADDITIONAL
-• Microsoft Certified Power BI Data Analyst (PL-300), 2022
-• APICS Certified in Planning and Inventory Management (CPIM), 2019
+• APICS Certified in Planning and Inventory Management (CPIM), 2023
 • Volunteer inventory lead for a Columbus school supply drive, tracking donations and distribution counts each August

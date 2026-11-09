@@ -2,42 +2,39 @@
 Columbus, OH | (614) 555-0133 | {EMAIL}
 
 SUMMARY
-Sales support coordinator at a software reseller with eight years of experience in quoting, order entry, customer service and CRM upkeep. Builds the weekly Excel pivot table reports the sales director uses to review bookings and renewals. Comfortable in Salesforce and NetSuite, with no SQL or BI tool experience yet but a steady record of accurate spreadsheet reporting. Interested in growing into a reporting or data role.
+Sales operations specialist at a software reseller with eight years in quoting, order entry, customer service and CRM upkeep. Learned SQL in 2024 and now queries NetSuite data directly for bookings, margin and renewal reporting, which the sales director and finance team rely on. Has not yet worked in a dedicated BI tool. Interested in a reporting or data role where accuracy and an understanding of how sales data is created both matter.
 
 EXPERIENCE
-Sales Support Coordinator | Bluecrest Software Partners, Columbus, OH | Mar 2021 to Present
-• Prepare 30 to 50 price quotes a week for software licenses, subscriptions and renewals using vendor price lists and the company quoting tool.
-• Enter orders into NetSuite and check each one against the signed quote before it goes to the distributor.
-• Update account, contact and opportunity records in Salesforce for a team of eight account managers.
-• Build weekly Excel pivot tables of quotes, bookings and renewals by account manager for the sales director's Monday meeting.
-• Pull Salesforce standard reports on pipeline and closed deals, then export the results to Excel to add charts for the sales team.
-• Track renewals coming due within 90 days in a shared spreadsheet and send reminders to account managers, which noticeably reduced lapsed renewals over the first year.
-• Maintain the vendor price list workbook, updating list prices and discount tiers each quarter.
-• Resolve order discrepancies with distributors and the finance team, usually pricing or quantity mismatches.
-• Cleaned up about 1,200 duplicate contact records in Salesforce during a CRM cleanup project.
-• Answer customer emails about order status, invoices and license counts, typically 20 to 30 a day.
+Sales Operations Specialist | Bluecrest Software Partners, Columbus, OH | Mar 2021 to Present
+• Promoted from sales support coordinator in January 2025 after taking over the team's reporting; still prepares 20 to 30 quotes a week for licenses, subscriptions and renewals.
+• Write SQL through NetSuite's ODBC connection (joins across transactions, items and customers, GROUP BY, CASE, date ranges) to produce the weekly bookings and gross margin report by account manager and vendor.
+• Reconciled the SQL bookings totals against the finance close each month and found that credit memos were being counted twice in the old Salesforce report, which had overstated bookings by about 4 percent.
+• Analyzed three years of renewal records in Excel by days of notice and account size, and found accounts contacted at 120 days renewed at 91 percent against 78 percent for those reached at 30 days. The sales director moved the renewal process to a 120 day start, and renewal rate rose to 87 percent in 2025.
+• Built an Excel model of vendor discount tiers that showed which products lost margin after a distributor price change, used by the director to renegotiate two programs.
+• Enter orders into NetSuite and check each against the signed quote before it goes to the distributor.
+• Keep account, contact and opportunity records current in Salesforce for eight account managers, including a cleanup of about 1,200 duplicate contacts.
+• Resolve order discrepancies with distributors and finance, usually pricing or quantity mismatches.
 
 Customer Service Representative | Daywell Office Products, Columbus, OH | Jul 2018 to Feb 2021
 • Took phone and email orders from business customers for office supplies and furniture, about 60 orders a day.
 • Processed returns and credits in the order management system.
 • Kept a spreadsheet of backordered items and called customers with updated ship dates.
-• Kept customer account records current, updating billing addresses, tax exemption certificates and contact names.
-• Helped the warehouse lead log daily late shipments in a spreadsheet during the busy fall season.
+• Logged customer complaints by category in a shared workbook, and summarized it monthly so the customer service manager could see which product lines drew the most calls; the summary led to dropping one chair supplier with frequent damage claims.
+• Updated customer account records, including billing addresses and tax exemption certificates.
 • Trained three new representatives on order entry and the returns process.
-• Logged customer complaints by category in a shared workbook so the customer service manager could see which product lines drew the most calls each month.
-• Filled in at the front reception desk during staff shortages, greeting visitors and routing calls.
+• Helped the warehouse lead log daily late shipments during the busy fall season.
 
 EDUCATION
 {DEGREE_LINE}, 2018
 
 SKILLS
-Spreadsheets: Excel (pivot tables, VLOOKUP, SUMIFS, charts), Google Sheets
-Systems: Salesforce, NetSuite, vendor quoting portals, Microsoft Office
-Sales operations: quoting, order entry, renewal tracking, CRM data upkeep, price list maintenance
-Office: Microsoft Word, Outlook, Teams, shared drive file organization
-Communication: distributor coordination, customer follow-up, written order notes
+SQL: joins, GROUP BY, CASE, date filtering on NetSuite data through ODBC (about two years)
+Spreadsheets: Excel (pivot tables, XLOOKUP, SUMIFS, Power Query, charts), Google Sheets
+Systems: NetSuite, Salesforce reports, vendor quoting portals, Microsoft Office
+Sales operations: bookings and margin reporting, renewal tracking, price list maintenance, CRM data quality
+Communication: distributor coordination, written summaries for the sales director
 
 ADDITIONAL
 • Microsoft Office Specialist certification in Excel, 2022
-• Completed a free online Excel for business course, 2023
+• Completed an online SQL for data analysis course, 2024
 • Volunteer at a Columbus nonprofit thrift store, logging weekly donation counts by category
